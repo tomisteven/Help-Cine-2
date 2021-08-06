@@ -1,0 +1,712 @@
+html {
+    box-sizing: border-box;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0px;
+}
+
+/* header Menu */
+
+.Nohay{
+    font-size: 30px;
+    font-family: "gagalin";
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+}
+.menu {
+    background-color: rgb(255, 0, 0);
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+@font-face {
+    font-family: 'gagalin';
+    src: url(./assets/gagalin.ttf);
+}
+
+/* logo */
+.logo {
+
+    font-family: 'gagalin';
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    padding: 13px 12px;
+    margin-left: 60px;
+    letter-spacing: 3px;
+    
+   
+}
+
+/* items del nav */
+.menu-items {
+    display: flex;
+    list-style: none;
+    margin-right: 60px;
+}
+
+.menu-items li {
+    margin: 0 10px;
+    border-radius: 32px;
+}
+
+.menu-items li a:hover {
+    border-left: white solid 2px;
+    border-right: white solid 2px;
+}
+
+.menu-items li a {
+    padding: 5px 10px;
+    text-decoration: none;
+    font-size: 12px;
+    color: white;
+    display: block;
+    margin-top: 12px;
+    letter-spacing: 3px;
+    color: white;
+    
+    font-family: 'gagalin';
+}
+
+/* submenu */
+.submenu {
+    position: absolute;
+    background: #000000f1;
+    font-family: 'gagalin';
+    z-index: 1;
+    width: auto;
+    border-radius: 16px;
+    margin-top: 0px;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 1.0s;
+    text-align: center;
+    list-style: none;
+    border: rgb(129, 129, 129) solid;
+}
+
+.submenu li a {
+    display: block;
+    border: rgb(151, 142, 142);
+    padding: 15px;
+    color: rgb(255, 255, 255);
+    font-family: 'gagalin';
+    text-decoration: none;
+    margin-left: -25px;
+    margin-bottom: 10px;
+}
+
+.submenu li a:hover {
+    background-color: rgb(255, 123, 0);
+    border-radius: 16px;
+}
+
+.submenu li .ver-mas:hover {
+    background-color: red;
+}
+
+.menu li:hover .submenu {
+    visibility: visible;
+    opacity: 1;
+
+}
+
+.btn-menu {
+    margin-right: 30px;
+    cursor: pointer;
+    display: none;
+}
+
+ul.show {
+    top: 65px;
+}
+
+.bloque {
+    display: flex;
+    background: red;
+    border: white solid 1px;
+    color: white;
+    width: 100%;
+    height: 60px;
+    font-size: 25px;
+    
+    text-align: center;
+
+}
+
+span {
+    font-family: 'gagalin';
+    position: relative;
+    top: 15px;
+    left: 450px;
+
+}
+
+/* buscador */
+.buscador-box{
+    display: flex;
+    
+}
+.buscador {
+    margin: 5px;
+    top: 5px;
+    position: relative;
+    left: 505px;
+    height: 40px;
+    width: 260px;
+    font-size: 15px;
+    border-radius: 16px;
+    border: solid red 3px;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.144);
+    
+}
+.search-btn{
+    position: relative;
+    top: 10px;
+    left: 520px;
+    color: white;
+}
+.search-btn:hover{
+    color: black;
+    transform: scale(1.3);
+    transition: .4s;
+}
+
+/* selectores */
+.cont-selectores{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 65px;
+    align-items: center;
+}
+.selectores{
+    margin-left: 15px;
+    margin-top: 40px;
+    border: rgb(255, 0, 0) solid 2px;
+    padding: 15px;
+    
+    width: auto;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+    font-family: "gagalin";
+    font-size: 15px;
+    border-radius: 9px;
+}
+.selectores:hover{
+    color: black;
+    transform: scale(1.1);
+    transition: .2s;
+}
+
+/* ---------------------------------------------- */
+/* responsive */
+
+
+/* carrousel */
+.carousel {
+    z-index: 0;
+    width: 80%;
+    margin: auto;
+}
+
+.carousel img {
+    cursor: pointer;
+}
+
+.titulo1 {
+    text-align: center;
+    font-family: 'gagalin';
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.carousel h2 {
+    position: relative;
+    top: 10px;
+    font-family: "gagalin";
+    color: rgb(255, 255, 255);
+    letter-spacing: 3px;
+    background: red;
+}
+
+.root-carousel {
+    margin-top: 50px;
+    display: grid;
+
+    grid-template-columns: repeat(3, 1fr);
+    width: 100%;
+
+}
+.micarousel{
+    margin-top: 100px;
+    width: 100%;
+}
+.micarousel-inner{
+    width: 100%;
+}
+.micarousel-inner img{
+    object-fit: cover;
+    height: 350px;
+    margin: auto;
+}
+
+/*------------------------------------------------------------*/
+/* posts */
+.titulo-series{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    width: 100%;
+    height: 50px;
+    background-color: #000;
+}
+.titulo-series h3{
+        font-family: "gagalin";
+        margin-left:80px ;
+        margin:auto;
+        color: rgb(255, 0, 0);
+}
+.titulo-peliculas, .titulo-banners{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 50px;
+    width: 100%;
+    height: 50px;
+    background-color: #000;
+}
+.titulo-peliculas h3, .titulo-banners h3{
+font-family: "gagalin";
+margin-left:80px ;
+margin:auto;
+ color: rgb(255, 0, 0);
+
+
+}
+
+.active{
+    background-color: rgb(255, 0, 0);
+}
+.filter{
+    visibility:hidden;
+    order: 1;
+    opacity: 0;
+    transition: all .5s ease-in;
+  
+  }
+
+ .posts, .select{
+
+    /* display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+     */
+        width: 100%;
+        height: 490px;
+        display: flex;
+        margin: 1rem;
+        overflow-x: auto;
+        overflow-y: hidden;
+    
+} 
+
+
+
+
+
+  .post-card:hover, .post-card-elegido:hover, .post-card-series:hover {
+    transition: all .2s;
+    transform: scale(1.1);
+    cursor: pointer;
+    background-color: #000;
+}  
+/* .post-card-elegido{
+    box-shadow: rgba(0, 0, 0, 0.63) 3px 3px 10px;
+    position: relative;
+    margin: 1rem;
+    margin-bottom: 25px;
+    margin-top: 20px;
+    min-width: 100px;
+    height: 400px;
+    background-color: rgba(255, 38, 0, 0.842);
+    border-radius: 15px;
+} */
+ .post-card, .post-card-elegido, .post-card-series {
+    box-shadow: rgba(0, 0, 0, 0.63) 3px 3px 10px;
+    position: relative;
+    margin: 1rem;
+    margin-bottom: 25px;
+    margin-top: 20px;
+    max-width: 17%;
+    min-width: 15%;
+    height: 400px;
+    background-color: rgba(255, 38, 0, 0.842);
+    border-radius: 15px;
+} 
+
+
+article img {
+    border-top: rgb(255, 255, 255) solid 2px;
+    border-bottom: rgb(255, 255, 255) solid 2px;
+    margin-top: 40px;
+}
+article h4{
+    font-size: 20px;
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 20px;
+    font-family: "gagalin";
+    color: rgb(255, 255, 255);
+    border: #fff solid 3px;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+article .puntajeB:hover{
+background-color: green;
+border: green solid 3px;
+}
+
+
+article a {
+    position: absolute;
+    border: 2px solid rgb(255, 255, 255);
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 8px;
+    padding: 10px;
+    font-family: 'gagalin';
+    bottom: 15px;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+
+article a:hover{
+    color: rgb(255, 0, 0);
+    background-color: rgb(0, 0, 0);
+    border: rgb(255, 0, 0);
+}
+
+.post-card p {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+
+article .titulo {
+    position: relative;
+    letter-spacing: 2px;
+    font-size: 12px;
+    top: 35px;
+    text-align: center;
+    font-family: 'gagalin';
+    color: white;
+    font-weight: bold;
+}
+
+article .categoria {
+    position: relative;
+    font-size: 10px;
+    letter-spacing: 2px;
+    font-family: 'gagalin';
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+article time {
+    position: absolute;
+    letter-spacing: 2px;
+    top: 10px;
+    font-family: 'gagalin';
+    text-align: center;
+    margin-left: 80px;
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+}
+
+img {
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+    text-align: center;
+    
+}
+.cont-btn{
+    width: 100%;
+    display: flex;
+}
+ #btnVolver{
+    width: 270px;
+    font-size: 20px;
+    margin: auto;
+    justify-items: center;
+    margin-top: 40px;
+    text-align: center;
+    text-decoration: none;
+    font-family:     "gagalin";
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 3px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+
+/* footer */
+.contact .titlepage {
+    margin-left: 90px;
+    padding-top: 15px;
+    color: white;
+    width:200px;
+    padding: 10px;
+    border-bottom: red 2px  solid;
+    text-align: center;
+}
+
+
+.contact {
+    padding: 80px 0px;
+    font-family: "gagalin";
+    background-color: rgba(0, 0, 0, 0.808);
+    margin-top: 150px;
+    
+    background-size: cover;
+    
+}
+.img{
+    width: 60%;
+    margin-left: 100px;
+}
+.img h3{
+    margin-left: 90px;
+    color: white;
+    margin-top: 15px;
+    font-size: 35px;
+    width: 200px;
+    padding: 10px;
+    border-bottom: red 2px  solid;
+    text-align: center;
+}
+.main_form {
+    background: #ffffff;
+    padding: 55px 40px;
+    height: 450px;
+    border-radius: 32px;
+}
+
+.contact .main_form .contactus {
+    border: rgb(255, 0, 0) solid 1px;
+    padding: 0px 1px;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 52px;
+    background: #fff;
+    color: #999999;
+    font-size: 11px;
+    border-top: inherit;
+    border-right: inherit;
+    border-left: inherit;
+}
+
+.contact .main_form .textarea {
+    margin-bottom: 25px;
+    color: #999999 !important;
+    width: 100%;
+    border: #000 solid 1px;
+    padding: 0px 1px;
+    padding-top: 38px;
+    background: #fff;
+    border-top: inherit;
+    border-right: inherit;
+    border-left: inherit;
+}
+
+.contact .main_form .send {
+    font-size: 16px;
+    transition: ease-in all 0.5s;
+    background-color: #000;
+    color: #fff;
+    padding: 12px 70px;
+    margin: 0 auto;
+    display: block;
+}
+
+.contact .main_form .send:hover {
+    background-color: #41c365;
+    transition: ease-in all 0.2s;
+    color: #fff;
+}
+
+#contact *::placeholder {
+    color: #999999;
+    opacity: 1;
+}
+
+.current {
+    color: #fff;
+    margin-top: -4px;
+    position: absolute;
+}
+
+.white {
+    color: #41c365;
+}
+
+.cont {
+    text-align: left;
+}
+
+
+
+.cont a {
+    font-size: 20px;
+    transition: ease-in all 0.5s;
+    background-color: #fff;
+    color: #41c365;
+    width: 100%;
+    max-width: 275px;
+    padding: 7px 0px;
+    text-align: center;
+    display: inline-block;
+}
+
+
+
+
+/** end contact section **/
+
+/* CSS LIBRARY */
+
+@-webkit-keyframes hvr-wobble-top {
+    16.65% {
+      -webkit-transform: skew(-12deg);
+      transform: skew(-12deg);
+    }
+    33.3% {
+      -webkit-transform: skew(10deg);
+      transform: skew(10deg);
+    }
+    49.95% {
+      -webkit-transform: skew(-6deg);
+      transform: skew(-6deg);
+    }
+    66.6% {
+      -webkit-transform: skew(4deg);
+      transform: skew(4deg);
+    }
+    83.25% {
+      -webkit-transform: skew(-2deg);
+      transform: skew(-2deg);
+    }
+    100% {
+      -webkit-transform: skew(0);
+      transform: skew(0);
+    }
+  }
+  @keyframes hvr-wobble-top {
+    16.65% {
+      -webkit-transform: skew(-12deg);
+      transform: skew(-12deg);
+    }
+    33.3% {
+      -webkit-transform: skew(10deg);
+      transform: skew(10deg);
+    }
+    49.95% {
+      -webkit-transform: skew(-6deg);
+      transform: skew(-6deg);
+    }
+    66.6% {
+      -webkit-transform: skew(4deg);
+      transform: skew(4deg);
+    }
+    83.25% {
+      -webkit-transform: skew(-2deg);
+      transform: skew(-2deg);
+    }
+    100% {
+      -webkit-transform: skew(0);
+      transform: skew(0);
+    }
+  }
+  .hvr-wobble-top {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transform-origin: 0 100%;
+    transform-origin: 0 100%;
+  }
+  .hvr-wobble-top:hover, .hvr-wobble-top:focus, .hvr-wobble-top:active {
+    -webkit-animation-name: hvr-wobble-top;
+    animation-name: hvr-wobble-top;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-timing-function: ease-in-out;
+    animation-timing-function: ease-in-out;
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+  }
+  /* CSS LIBRARY */
+
+  /* CSS LIBRARY */
+/* Pulse */
+@-webkit-keyframes hvr-pulse {
+    25% {
+      -webkit-transform: scale(1.1);
+      transform: scale(1.1);
+    }
+    75% {
+      -webkit-transform: scale(0.9);
+      transform: scale(0.9);
+    }
+  }
+  @keyframes hvr-pulse {
+    25% {
+      -webkit-transform: scale(1.1);
+      transform: scale(1.1);
+    }
+    75% {
+      -webkit-transform: scale(0.9);
+      transform: scale(0.9);
+    }
+  }
+  .hvr-pulse {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  }
+  .hvr-pulse:hover, .hvr-pulse:focus, .hvr-pulse:active {
+    -webkit-animation-name: hvr-pulse;
+    animation-name: hvr-pulse;
+    -webkit-animation-duration: 1s;
+    animation-duration: 0.8s;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    background-color: green;
+  }
+  
+  /* CSS LIBRARY */

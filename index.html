@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prueba</title>
+    <link rel="shortcut icon" href="./img/logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="./estilos.css">
+    <link rel="stylesheet" type="text/css" href="./assets/gagalin.ttf">
+    
+    <link rel="stylesheet" href="responsive.css">
+    <!-- boostrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+    </script>
+
+    <script src="https://kit.fontawesome.com/dfb3ba8b0a.js"></script>
+</head>
+
+<body>
+
+    <!-- nav -->
+    <nav class="menu">
+        <label class="logo" for="">HC</label>
+
+        <ul class="menu-items">
+
+            <li><a href="#">Inicio</a></li>
+            <li class="active"><a href="#">Categorias <i class="fas fa-caret-down"></i></a>
+                <ul class="submenu">
+                    <li><a class="nav-selectores" href="#selectores">Accion</a></li>
+                    <li><a class="nav-selectores" href="#selectores">Ciencia Ficcion</a></li>
+                    <li><a class="nav-selectores" href="#selectores">Infantil</a></li>
+                    <li><a class="nav-selectores" href="#selectores">Suspenso</a></li>
+                    <li><a class="nav-selectores" href="#selectores">Terror</a></li>
+                    <li><a class="ver-mas" href="#selectores">Ver mas</a></li>
+                </ul>
+
+            </li>
+            <li><a href="#">Fecha <i class="fas fa-caret-down"></i></a>
+                <ul class="submenu">
+                    <li><a href="#">2000 - 2005</a></li>
+                    <li><a href="#">2006 - 2011</a></li>
+                    <li><a href="#">2012 - 2016</a></li>
+                    <li><a href="#">2016 - 2021</a></li>
+                </ul>
+            </li>
+            <li><a href="#">Nosotros</a></li>
+
+        </ul>
+        <span class="btn-menu" id="btn-menu">
+            <i class="fa fa-bars"></i>
+        </span>
+    </nav>
+    <div class="bloque">
+        <span><i class="fas fa-hand-point-down"></i> &nbsp; Help Cine te ayuda a elegir que ver hoy &nbsp; <i
+                class="fas fa-hand-point-down"></i></span>
+
+
+        <!--  barra de busqueda -->
+
+        <input class="buscador" type="search" placeholder="Busca tus peliculas">
+        <a href="#" class="search-btn"><i class="fas fa-search"></i></a>
+
+
+
+    </div>
+
+    <!-- carrousel -->
+
+    <div class="root-carousel">
+        <div class="root-carousel-peliculas"></div>
+        <div class="root-carousel-series"></div>
+        <div class="root-carousel-infaltil"></div>
+    </div>
+
+    <section id="selectores">
+        <div class="cont-selectores">
+            <a class="selectores" href="#posts">Accion</a>
+            <a class="selectores" href="#posts">Anime</a>
+            <a class="selectores" href="#posts">Aventura</a>
+            <a class="selectores" href="#posts">Belica</a>
+            <a class="selectores" href="#posts">Comedia</a>
+            <a class="selectores" href="#posts">Ciencia Ficcion</a>
+            <a class="selectores" href="#posts">Documental</a>
+            <a class="selectores" href="#posts">Drama</a>
+            <a class="selectores" href="#posts">Fantasia</a>
+            <a class="selectores" href="#posts">Guerra</a>
+            <a class="selectores" href="#posts">Infantil</a>
+            <a class="selectores" href="#posts">Musical</a>
+            <a class="selectores" href="#posts">Romantica</a>
+            <a class="selectores" href="#posts">Suspenso</a>
+            <a class="selectores" href="#posts">Terror</a>
+            <a class="selectores" href="#posts">Thriller</a>
+            <a class="selectores" href="#posts">Policiacas</a>
+            <a class="selectores" href="#posts">Adultos</a>
+            <a href="#posts" class="" id="btnVolver">Volver al listado</a>
+        </div>
+
+    </section>
+
+    <!-- posts -->
+    <div class="titulo-peliculas">
+        <h3>Peliculas</h3>
+    </div>
+
+    <div class="contenedor">
+        <section id="posts" class="posts">
+            <template id="Cartelera-pelicula" class="cartelera">
+                <article class="post-card">
+                    <h2 class="titulo"></h2>
+                    <img class="imagen" src="" alt="">
+                    <p>
+                        <time datetime=""></time>
+                    </p>
+                    <h2 class="categoria"></h2>
+                    <h4 class="hvr-pulse">10 </h4>
+                    <a href="pruebaPelicula.html" target="_blank" class="showArticle" data-articulo="">Ver Articulo</a>
+                    <!-- hvr-wobble-top -->
+                </article>
+            </template>
+        </section>
+
+        <!-- posts elegidos -->
+
+        <section id="posts-elegido" class="posts">
+            <template id="Cartelera-pelicula" class="cartelera">
+                <article class="post-card-elegido">
+                    <h2 class="titulo"></h2>
+                    <img class="imagen" src="" alt="">
+                    <p>
+                        <time datetime=""></time>
+                    </p>
+                    <h2 class="categoria"></h2>
+                    <p class="descripcion">Descripcion</p>
+                    <a href="pruebaPelicula.html" target="_blank">Ver Articulo</a>
+                </article>
+            </template>
+        </section>
+    </div>
+
+    <!--  series -->
+
+    <div class="titulo-series">
+        <h3 class="titulo-series-h3">Series</h3>
+    </div>
+
+    <div class="contenedor">
+        <section id="posts-series" class="posts">
+            <template id="Cartelera-series" class="cartelera">
+                <article class="post-card-series">
+                    <h2 class="titulo"></h2>
+                    <img class="imagen" src="" alt="">
+                    <p>
+                        <time datetime=""></time>
+                    </p>
+                    <h2 class="categoria"></h2>
+                    <h4 class="hvr-pulse">10 </h4>
+                    <a href="pruebaPelicula.html" target="_blank" class="showArticle hvr-wobble-top">Ver Articulo</a>
+
+                </article>
+            </template>
+        </section>
+
+        <!-- posts elegidos -->
+
+        <section id="posts-elegido-series" class="posts">
+            <template id="Cartelera-series" class="cartelera">
+                <article class="post-card-elegido-serie">
+                    <h2 class="titulo"></h2>
+                    <img class="imagen" src="" alt="">
+                    <p>
+                        <time datetime=""></time>
+                    </p>
+                    <h2 class="categoria"></h2>
+                    <p class="descripcion">Descripcion</p>
+                    <a href="pruebaPelicula.html" target="_blank">Ver Articulo</a>
+                </article>
+            </template>
+        </section>
+    </div>
+
+    
+    
+
+    <!-- carrousel -->
+    <div class="titulo-banners">
+        <h3 class="titulo-banners-h3">Estrenos del Mes</h3>
+    </div>
+
+    <div id="carouselExampleSlidesOnly" class="micarousel carousel slide" data-bs-ride="carousel">
+        <div class="micarousel-inner carousel-inner">
+            <div class="carousel-item active" data-bs-interval="3000">
+                <img src="./img/1.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item" data-bs-interval="3500">
+                <img src="./img/2.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item" data-bs-interval="3000">
+                <img src="./img/3.png" class="d-block w-100" alt="...">
+            </div>
+        </div>
+    </div>
+
+    <!-- contact testimonial-->
+    <div id="contact" class="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 ">
+
+                    <div class="img">
+                        <img src="./img/logo.png" alt="">
+                        <h3>Help Cine</h3>
+                    </div>
+                </div>
+                <div class="col-md-6 ">
+                    <form class="main_form" method="post" action="correo.php">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <h5 class="text-center ">Contactame</h5>
+                                <input class="contactus" placeholder="Nombre Completo" type="text" name="FullName">
+                            </div>
+                            <div class="col-sm-12">
+                                <input class="contactus" placeholder="Email" type="text" 
+                                name="Email">
+                            </div>
+                            <div class="col-sm-12">
+                                <input class="contactus" placeholder="Telefono" type="text" name="Phone">
+                            </div>
+                            <div class="col-sm-12">
+                                <textarea class="textarea" placeholder="Mensaje" type="text" name="Message"></textarea>
+                            </div>
+                            <div class="col-sm-12">
+                                <button class="send">Enviar</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- end contact -->
+
+    <script src="./main.js"></script>
+    <script src="./Logic/SelectoresGenero.js" type="module"></script>
+    <script src="./Logic/nav-categorias.js" type="module"></script>
+    <script src="./Logic/articulos-peliculas.js" type="module"></script>
+    <script src="./Logic/articulos-series.js" type="module"></script>
+
+
+</body>
+
+</html>

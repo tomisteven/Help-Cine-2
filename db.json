@@ -1,0 +1,121 @@
+{
+    "Peliculas": [
+
+        {
+            "id": "p1",
+            "categoria": "Infantil",
+            "Nombre": "Cars",
+            "Estreno": "21-5-04",
+            "img": "./img/cars.jpg",
+            "reseña": ""
+        },
+        {
+            "id": "p2",
+            "categoria": "Infantil",
+            "Nombre": "Blancanieves",
+            "Estreno": "22-10-16",
+            "img": "./img/blancanieves.jpg",
+            "reseña": ""
+        },
+        {
+            "id": "p3",
+            "categoria": "Ciencia Ficcion",
+            "Nombre": "Al filo del maniana",
+            "Estreno": "27-11-16",
+            "img": "./img/Alfilodelmañana.jpg",
+            "reseña": ""
+        },
+        {
+            "id": "p4",
+            "categoria": "Accion",
+            "Nombre": "Busqueda Implacable 2",
+            "Estreno": "22-10-12",
+            "img": "./img/busquedaimplacable2.jpg",
+            "reseña": ""
+        },
+        {
+            "id": "p5",
+            "categoria": "Anime",
+            "Nombre": "Dragon Ball Z",
+            "Estreno": "2-10-11",
+            "img": "./img/dragonball.jpg",
+            "reseña": ""
+        }
+    ],
+    "Series": [{
+        "id": "s1",
+        "categoria": "Accion",
+        "Nombre": "Lupin",
+        "Estreno": "20-05-21",
+        "img": "./cars.jpg",
+        "reseña": ""
+    }],
+    "Destacados-mes-peliculas": [{
+            "id": "d-m1",
+            "nombre": "Conjuro 3",
+            "img": "./img/conjuro3.jpg",
+            "reseña": ""
+        },
+        {
+            "id": "d-m2",
+            "nombre": "Conjuro 2",
+            "img": "./img/conjuro2.jpg",
+            "reseña": ""
+        },
+        {
+            "id": "d-m3",
+            "nombre": "Conjuro 1",
+            "img": "./img/conjuro1.jpg",
+            "reseña": ""
+        }
+    ],
+
+    "Destacado-mes-series": [{
+            "id": "dms1",
+            "nombre": "Lupin",
+            "estreno": "22-06-2021",
+            "img": "./img/lupin.jpeg",
+            "reseña": ""
+        },
+        {
+            "id": "dms2",
+            "nombre": "Inocente",
+            "estreno": "07-06-2021",
+            "img": "./img/inocente.jpeg",
+            "reseña": ""
+        },
+        {
+            "id": "dms2",
+            "nombre": "Elite 4",
+            "estreno": "02-06-2021",
+            "img": "./img/elite.jpg",
+            "reseña": ""
+        }
+
+    ],
+    "Destacado-mes-infantil": [{
+            "id": "dmi1",
+            "nombre": "La familia Mitchell",
+            "estreno": "02-06-2021",
+            "img": "./img/familiamitchell.jpg",
+            "reseña": ""
+        }, {
+            "id": "dmi2",
+            "nombre": "Luca",
+            "estreno": "02-06-2021",
+            "img": "./img/luca.jpg",
+            "reseña": ""
+        },
+        {
+            "id": "dmi2",
+            "nombre": "Ohana, Magnifica familia",
+            "estreno": "02-06-2021",
+            "img": "./img/ohana.jpg",
+            "reseña": ""
+        }
+
+    ]
+
+
+
+}

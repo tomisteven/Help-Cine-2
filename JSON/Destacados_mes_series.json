@@ -1,0 +1,25 @@
+{
+    "DestacadoMesSeries": [{
+            "id": "dms1",
+            "nombre": "Lupin",
+            "estreno": "22-06-2021",
+            "img": "./img/series/lupin.jpeg",
+            "reseña": ""
+        },
+        {
+            "id": "dms2",
+            "nombre": "Inocente",
+            "estreno": "07-06-2021",
+            "img": "./img/inocente.jpeg",
+            "reseña": ""
+        },
+        {
+            "id": "dms2",
+            "nombre": "Elite 4",
+            "estreno": "02-06-2021",
+            "img": "./img/elite.jpg",
+            "reseña": ""
+        }
+
+    ]
+}

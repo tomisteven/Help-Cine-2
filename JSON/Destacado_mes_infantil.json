@@ -1,0 +1,24 @@
+{
+    "DestacadoMesInfantil": [{
+            "id": "dmi1",
+            "nombre": "La familia Mitchell",
+            "estreno": "02-06-2021",
+            "img": "./img/familiamitchell.jpg",
+            "reseña": ""
+        }, {
+            "id": "dmi2",
+            "nombre": "Luca",
+            "estreno": "02-06-2021",
+            "img": "./img/luca.jpg",
+            "reseña": ""
+        },
+        {
+            "id": "dmi2",
+            "nombre": "Ohana, Magnifica familia",
+            "estreno": "02-06-2021",
+            "img": "./img/ohana.jpg",
+            "reseña": ""
+        }
+
+    ]
+}

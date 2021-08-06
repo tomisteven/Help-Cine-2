@@ -1,0 +1,21 @@
+{
+    "DestacadosMesPeliculas": [{
+            "id": "d-m1",
+            "nombre": "Conjuro 3",
+            "img": "./img/conjuro3.jpg",
+            "reseña": ""
+        },
+        {
+            "id": "d-m2",
+            "nombre": "Conjuro 2",
+            "img": "./img/conjuro2.jpg",
+            "reseña": ""
+        },
+        {
+            "id": "d-m3",
+            "nombre": "Conjuro 1",
+            "img": "./img/conjuro1.jpg",
+            "reseña": ""
+        }
+    ]
+}
