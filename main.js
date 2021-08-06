@@ -55,6 +55,10 @@ const getAll = () => {
   ajax({
     url: "./JSON/Peliculas.json",
     success: (res) => {
+      const $btnInicio = document.getElementById("btn-inicio")
+      $btnInicio.addEventListener("click", () => {
+        location.reload()
+      })
 
       const fecha = new Date().toLocaleDateString()
       //console.log(res)
