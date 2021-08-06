@@ -304,6 +304,7 @@
     }
     .fa-caret-down{
         display: none;
+        visibility: hidden;
     }
 
     .menu {
