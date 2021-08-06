@@ -33,11 +33,12 @@ ajax({
                 console.log(Catseleccionada)
 
                 if (Catseleccionada.length == 0) {
-                    alert("No hay peliculas con ese genero")
+                    
                     //si hay pelicula que coincida con el selector la imprime en pantalla
                   } else {
                     
                     Catseleccionada.forEach((el) => {
+                        $$template.querySelector(".showArticle").setAttribute("data-articulo", el.Nombre)
                       
                       $$template.querySelector(".titulo").textContent = el.Nombre
                       $$template.querySelector(".imagen").src = el.img
@@ -95,7 +96,7 @@ ajax({
                   } else {
                     
                     Catseleccionada.forEach((el) => {
-                      
+                        $$templateSeries.querySelector(".showArticle").setAttribute("data-articulo", el.Nombre)
                       $$templateSeries.querySelector(".titulo").textContent = el.Nombre
                       $$templateSeries.querySelector(".imagen").src = el.img
                       $$templateSeries.querySelector(".categoria").innerHTML = `<i class="fas fa-hand-point-right"></i> &nbsp; Categoria: &nbsp;${el.categoria}`
