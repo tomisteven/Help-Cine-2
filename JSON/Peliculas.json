@@ -22,7 +22,7 @@
             "puntos": "6/10",
             "actores": "Maribel Verdú, Macarena García, Daniel Giménez Cacho",
             "director": "Pablo Berger"
-            
+
         },
         {
             "id": "p3",
@@ -35,7 +35,7 @@
             "director": "Doug Liman",
             "actores": "Tom Cruise, Emily Blunt, Bill Paxton"
         },
-        
+
         {
             "id": "p5",
             "categoria": "Anime",
@@ -43,11 +43,11 @@
             "Estreno": "2-10-11",
             "img": "./img/dragonball.jpg",
             "reseña": "La paz ha llegado a la Tierra. Sin embargo, todavía quedan resquicios del ejército de Freezer. Sorbet y Tagamo, antiguos miembros de élite de esta armada, han acabado por llegar al planeta. El objetivo principal es revivir a su líder con las Bolas de Dragón y planear su venganza contra los Saiyajin. Pero si Goku y Vegeta quieren salvar al mundo deben alcanzar el nivel de verdaderos dioses",
-             "actores" : "Masako Nozawa, Ryô Horikawa, Hiromi Tsuru",
-             "director" : "Tadayoshi Yamamuro",
-             "puntos": "6/10"
+            "actores": "Masako Nozawa, Ryô Horikawa, Hiromi Tsuru",
+            "director": "Tadayoshi Yamamuro",
+            "puntos": "6/10"
         },
-        
+
         {
             "id": "p7",
             "categoria": "Suspenso",
@@ -55,9 +55,9 @@
             "Estreno": "2-10-11",
             "img": "./img/contratiempo.jpg",
             "reseña": "Adrián Doria (Mario Casas) es un exitoso empresario que es acusado de un asesinato, aunque él se declara inocente. Para defenderse, contrata los servicios de la mejor preparadora de testigos del país, Virginia Goodman (Ana Wagener), con quien trabaja una noche para encontrar un argumento que logre liberarle de la cárcel. Pero la aparición de un nuevo testigo de cargo hace peligrar su estrategia, viéndose obligados a recomponer las piezas de un puzle imposible con el tiempo en su contra.",
-            "actores":"Mario Casas, Bárbara Lennie, Ana Wagener",
-            "director":"Oriol Paulo",
-            "puntos":"9/10"
+            "actores": "Mario Casas, Bárbara Lennie, Ana Wagener",
+            "director": "Oriol Paulo",
+            "puntos": "9/10"
 
         },
         {
@@ -79,12 +79,12 @@
             "Estreno": "2-10-11",
             "img": "./img/terminator.jpg",
             "reseña": "En el año 2029, después de devastar la Tierra y esclavizar a la humanidad, las máquinas, gobernadas por la inteligencia artificial conocida como Skynet, están a punto de perder la guerra contra la resistencia humana liderada por John Connor",
-            "actores":"Arnold Schwarzenegger, Michael Biehn, Linda Hamilton",
-            "director":"James Cameron",
+            "actores": "Arnold Schwarzenegger, Michael Biehn, Linda Hamilton",
+            "director": "James Cameron",
             "puntos": "8/10"
 
         },
-        
+
 
         {
             "id": "p11",
@@ -103,7 +103,7 @@
             "Nombre": "Black Widow",
             "Estreno": "2-10-11",
             "img": "./img/blackwidow.jpg",
-            "reseña": "Ambientada despues de los sucesos de Civil War, Natasha Romanoff debera no solo escapar de las autoridades sino tambien de enfrentar su pasado como espia",
+            "reseña": "A mas de 2 años marvel vuelve a los cines con una historia que hacia falta, pero en mi opinion no de la mejor manera .Ambientada despues de los sucesos de Civil War, Natasha Romanoff debera no solo escapar de las autoridades sino tambien de enfrentar su pasado como espia. Scarlett Johansson quien vuelve a interpretar el papel de black widow de una manera excelente, tomando mas el lado sentimental del personaje (que extrañaremos en el ucm) logrando fundar los motivos de lo que despues haria en endgame. que no me gusto de la pelicula ? lo ya mancionado, esa perdida de escencia del personaje, momentos de mucha casualidad dentro del guion, momentos medios extraños en el CGI, el personaje de red guardian y me hubiera gustado que se cuente mas de la gistoria del origen del personaje",
             "actores": "Scarlett Johansson, Florence Pugh, Rachel Weisz, David Harbour, William Hurt, Ray Winstone, O.T. Fagbenle, Michelle Lee, Olivier Richters, Nanna Blondell",
             "director": "Cate Shortland",
             "puntos": "7/10"
@@ -114,7 +114,7 @@
             "Nombre": "Los 8 Mas odiados",
             "Estreno": "2-10-11",
             "img": "./img/los8masodiados.jpg",
-            "reseña": "Pocos años despues de la guerra de secesion, 8 viajeros no del todo amigables y con muchas cosas en desacuerdo se ven obligados a pasar unas cuantas horas encerrados en un paraje mientras una intensa tormenta de nieve cae a su alrededor", 
+            "reseña": "Pocos años despues de la guerra de secesion, 8 viajeros no del todo amigables y con muchas cosas en desacuerdo se ven obligados a pasar unas cuantas horas encerrados en un paraje mientras una intensa tormenta de nieve cae a su alrededor, que no me gusto de esta pelicula ? sinceramente es dificil encontrar algo qu no me guste de este film, pero considero que hay dos personajes que podrian haber sido un poco mas inportantes como el caso de bob 'el mexicano' y el de joe gage 'El baquero'. Una curiosidad, la voz  que se escucha como narrador es la del mismisimo tarantino, la pelicula estuvo a punto de no grabarse porque se habia filtrado el guion completo en internet, pero despues de una larga charla organizada por los protagonistas convencieron al director de hacerla, el cual por obvias razones decidio cambiar un par de cosas",
             "actores": "Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins, Tim Roth, Demian Bichir, Michael Madsen, Bruce Dern, James Parks",
             "director": "Quentin Tarantino",
             "puntos": "9/10"
@@ -126,9 +126,9 @@
             "Estreno": "2-10-11",
             "img": "./img/laguerradelmañana.jpeg",
             "reseña": "El mundo se paraliza cuando viajeros del futuro se hacen presente para pedir ayuda al pasado en una guerra contra una especie alienigena letal que estan a punto de perder",
-            "actores":"Chris Pratt, Yyonne Strahoyvski, JK Simmons, Betty Gilpin, Ryan Kiera Armstrong, Sam Richardson, Keith Powers, Jasmine Mathews",
-            "director":"Chris McKay",
-            "puntos":"7/10"
+            "actores": "Chris Pratt, Yyonne Strahoyvski, JK Simmons, Betty Gilpin, Ryan Kiera Armstrong, Sam Richardson, Keith Powers, Jasmine Mathews",
+            "director": "Chris McKay",
+            "puntos": "7/10"
 
         },
         {
@@ -142,7 +142,7 @@
             "director": "Santiago Mitre",
             "puntos": "7/10"
         },
-        
+
         {
             "id": "p17",
             "categoria": "Musical",
@@ -191,7 +191,7 @@
             "director": "Mark Raso"
 
         },
-        
+
         {
             "id": "p22",
             "categoria": "Guerra",
@@ -211,7 +211,7 @@
             "Estreno": "2-10-11",
             "img": "./img/rododelsiglo.jpeg",
             "reseña": "hecho real, ocurrido el viernes 13 de enero de 2006 cuando Fernando araujo fourma un grupo de 6 personas para planear y ejecutar el robo a un reconocido banco de buenos aires buscando ser perfectos y quedar en la historia llevandose millones de dolares y joyas",
-            "puntos":"8/10",
+            "puntos": "8/10",
             "actores": "Diego Peretti, Guillermo Francella",
             "director": "Ariel Winograd"
         },
@@ -233,7 +233,7 @@
             "reseña": "Thomas es un adolescente cuya memoria fue borrada y que ha sido encerrado junto a otros chicos de su edad en un laberinto plagado de monstruos y misterios. Para sobrevivir, tendrá que adaptarse a las normas y a los demás habitantes del laberinto",
             "puntos": "8/10"
         },
-    {
+        {
             "id": "p26",
             "categoria": "Policiacas",
             "Nombre": "El secreto de sus ojos",
@@ -241,34 +241,34 @@
             "img": "./img/elsecretodesusojos.jpg",
             "reseña": "Una brillante película de nuestro cine nacional, me animo a decir una de las mejores de la historia. Que con una frase deja inmortalizada una escena 'Me dijiste que era perpetua...' Benjamín Espósito es oficial de un Juzgado de Instrucción de Buenos Aires recién retirado. Obsesionado por un brutal asesinato ocurrido veinticinco años antes, en 1974, decide escribir una novela sobre el caso, del cual fue testigo y protagonista. Reviviendo el pasado, viene también a su memoria el recuerdo de una mujer, a quien ha amado en silencio durante todos esos años",
 
-            "puntos" : "10/10"
-    },
-    {
+            "puntos": "10/10"
+        },
+        {
             "id": "p27",
             "categoria": "Infantil",
             "Nombre": "Space Jam",
             "Estreno": "2-10-11",
             "img": "./img/spacejam.jpg",
-            "reseña": "Secuela de la cinta original de 1996, Space Jam, protagonizada por Michael Jordan. En esta segunda parte, la super estrella de la NBA es LeBron James, quien queda atrapado junto a su hijo Dom en un extraño lugar, un espacio digital de una fuerza todopoderosa y malvada conocida como A.I. Para volver a casa y poner a salvo a su hijo, el jugador de baloncesto deberá unir fuerzas con Bugs Bunny, Lola Bunny y el resto de personajes de los Looney Tunes para enfrentarse en un partido de baloncesto a los campeones digitalizados por A.I" ,
-            
+            "reseña": "Secuela de la cinta original de 1996, Space Jam, protagonizada por Michael Jordan. En esta segunda parte, la super estrella de la NBA es LeBron James, quien queda atrapado junto a su hijo Dom en un extraño lugar, un espacio digital de una fuerza todopoderosa y malvada conocida como A.I. Para volver a casa y poner a salvo a su hijo, el jugador de baloncesto deberá unir fuerzas con Bugs Bunny, Lola Bunny y el resto de personajes de los Looney Tunes para enfrentarse en un partido de baloncesto a los campeones digitalizados por A.I",
+
             "puntos": "4/10"
 
-    },
-    {
+        },
+        {
             "id": "p28",
             "categoria": "Drama",
             "Nombre": "Cruella",
             "Estreno": "2-10-11",
             "img": "./img/cruella.jpeg",
             "reseña": "La icónica villana de 101 Dálmatas (1961), con el cabello teñido mitad de blanco y la otra mitad de color negro, y amante incondicional de las pieles, es la protagonista de este filme. La película narra los orígenes de Cruella varios años antes de los eventos que ocurrían en el clásico de Disney. ¿Descubriremos cómo Cruella se volvió tan fría y retorcida, además de cómo nació su obsesión por las pieles?",
-            "puntos":"8/10",
-            "actores":"mma Stone, Emma Thompson, Joel Fry, Paul Walter Hauser, John McCrea, Emily Beecham, Mark Strong, Kayvan Novak, Kirby Howell-Baptiste, Jamie Demetriou",
-            "director":"Craig Gillespie",
+            "puntos": "8/10",
+            "actores": "mma Stone, Emma Thompson, Joel Fry, Paul Walter Hauser, John McCrea, Emily Beecham, Mark Strong, Kayvan Novak, Kirby Howell-Baptiste, Jamie Demetriou",
+            "director": "Craig Gillespie",
             "año": "2021"
 
 
-    },
-     {
+        },
+        {
 
             "id": "p29",
             "categoria": "Romantica",
@@ -277,12 +277,12 @@
             "img": "./img/eternoresplandor.jpeg",
             "reseña": "Joel descubre que su novia ha hecho que le roben la memoria para olvidarse d el, por lo cual joe decide hacer lo mismo pero se arrepiente en pleno procedimiento, luchar u olvidar..",
             "puntos": "8/10",
-            "actores":"Jim Carrey, Kate Winslet, Kristen Dunst, Mark Ruffalo, Elijah Wood, Tom Wikinson, Thomas Jay Ryan, Gerry Robert Byrne, Jane Adams, David Cross",
-            "director":"Michel Gondry",
+            "actores": "Jim Carrey, Kate Winslet, Kristen Dunst, Mark Ruffalo, Elijah Wood, Tom Wikinson, Thomas Jay Ryan, Gerry Robert Byrne, Jane Adams, David Cross",
+            "director": "Michel Gondry",
             "año": "2004"
 
-     },
-     {
+        },
+        {
             "id": "p30",
             "categoria": "Terror",
             "Nombre": "Army of dead",
@@ -290,36 +290,36 @@
             "img": "./img/armyofdead.jpg",
             "reseña": "Ciudad de las vegas es tierra de zombies, un grupo de mercenarios es contratado para extraer un motin del corazon de la ciudad donde se deberan enfrentar a todo ser no vivo para conseguirlo",
             "puntos": "4/10",
-            "director":"Zack Snyder",
+            "director": "Zack Snyder",
             "actores": "Dave Bautista, Ella Purnell, Ana de la Reguera, Theo Rossi, Huma Qureshi, Omari Hardwick, Hiroyuki Sanada, Garret Dillahunt, Raúl Castillo, Nora Arnezeder"
 
-     },
-     {
+        },
+        {
             "id": "p31",
             "categoria": "Thriller",
-            "Nombre": "The prestige", 
+            "Nombre": "The prestige",
             "Estreno": "2-10-11",
             "img": "./img/theprestige.jpg",
-            "reseña": "londres siglo XIX, dos reconocidos artistas de la magia luego de un fallido truco se encargaran de desprestigiarse uno al otro, en una carrera por ser el mejor en el escenario que los llevara a consecuensias irreparables"
-            ,"puntos" : "9/10",
-            "actores":"Hugh Jackman, Christian Bale, Michael Caine, Scarlett Johansson, David Bowie, Piper perabo, Andy Serkis, Rebecca Hall, Ricky Jay, Ron Perkins",
-            "director":"Christopher Nolan"
+            "reseña": "londres siglo XIX, dos reconocidos artistas de la magia luego de un fallido truco se encargaran de desprestigiarse uno al otro, en una carrera por ser el mejor en el escenario que los llevara a consecuensias irreparables",
+            "puntos": "9/10",
+            "actores": "Hugh Jackman, Christian Bale, Michael Caine, Scarlett Johansson, David Bowie, Piper perabo, Andy Serkis, Rebecca Hall, Ricky Jay, Ron Perkins",
+            "director": "Christopher Nolan"
 
-     },
-     {
+        },
+        {
             "id": "p32",
             "categoria": "Accion",
             "Nombre": "Tom Clancy Sin remordimientos",
             "Estreno": "2-10-11",
             "img": "./img/tomclancy.jpg",
             "reseña": "Basada en la novela homonima del reconocido escritor sobre espionaje e inteligencia militar Tom Clancy. Una conspiracion internacional sale a la luz cuando un grupo de elite intenta vengar el asesinato de un familiar de uno de los integrantes",
-            "puntos" : "4/10",
-            "actores":"Michael B Jordan, Jamie Bell, Jodie Turner-Smith, Cam Gigandet, Brett Gelman, Luke Mitchell, Jack Kesy, Colman Domingo, Todd Lasance, Jacob Scipio",
-            "director":"Stefano Sollima"
+            "puntos": "4/10",
+            "actores": "Michael B Jordan, Jamie Bell, Jodie Turner-Smith, Cam Gigandet, Brett Gelman, Luke Mitchell, Jack Kesy, Colman Domingo, Todd Lasance, Jacob Scipio",
+            "director": "Stefano Sollima"
 
 
-     },
-     {
+        },
+        {
             "id": "p33",
             "categoria": "Accion",
             "Nombre": "Memento",
@@ -327,25 +327,25 @@
             "img": "./img/memento.jpg",
             "reseña": "Leonard quien aparece una amnesia anterograda(No retener nuevos recuerdos), lo ultimo recuerda es intentar salvar a su esposa cuando la asesinaron, ahora solo con ese recuerdo y notas busca venganza",
             "puntos": "9/10",
-            "actores":"Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior, Stephen tobolowsky, Harriet Sansom Harris y Jorja Fox",
-            "director":"Christopher Nolan",
+            "actores": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior, Stephen tobolowsky, Harriet Sansom Harris y Jorja Fox",
+            "director": "Christopher Nolan",
             "año": "2000"
 
 
-     },
-     {
+        },
+        {
             "id": "p34",
             "categoria": "Drama",
             "Nombre": "Phantom Thread",
             "Estreno": "2-10-11",
             "img": "./img/phantomthread.jpg",
             "reseña": "Reynolds Woodcock es un reconocido diseñador en la cresta de la ola en un londres de 1950, un dia conoce a alma una joven que le cambiara su ordenada vida, ¿Una historia de amor?",
-            "puntos" : "8/10",
-            "actores":"Daniel Day-Lewis, Vicky Krieps, Lesley Manville, Richard Graham, Bern Collaco, Jane Perry, Camila Rutherford, Pip Phillips, Dave Simon, Ingrid Sophie Schram",
-            "director":"Paul Thomas Anderson",
+            "puntos": "8/10",
+            "actores": "Daniel Day-Lewis, Vicky Krieps, Lesley Manville, Richard Graham, Bern Collaco, Jane Perry, Camila Rutherford, Pip Phillips, Dave Simon, Ingrid Sophie Schram",
+            "director": "Paul Thomas Anderson",
             "año": "2017"
 
-     },{
+        }, {
             "id": "p35",
             "categoria": "Suspenso",
 
@@ -353,25 +353,117 @@
             "Estreno": "2-10-11",
             "img": "./img/corre.jpg",
             "reseña": "Chloe es una joven en silla de ruedas que padece varias enfermedades, quien vive sola con su madre que pronto descubrira que tiene varios secretos oscuros",
-            "puntos" : "5/10",
-            "actores":"Sarah Paulson, Kiera Allen, Pat Healy, Sara Sohn, Bradley Sawatzky, Erik Athavale, Sharon Bajer, Onalee Ames, David Swim, BJ Harrison",
-            "director":"Aneesh Chaganty",
+            "puntos": "5/10",
+            "actores": "Sarah Paulson, Kiera Allen, Pat Healy, Sara Sohn, Bradley Sawatzky, Erik Athavale, Sharon Bajer, Onalee Ames, David Swim, BJ Harrison",
+            "director": "Aneesh Chaganty",
             "año": "2020"
 
 
-     }
-     ,{
+        }, {
             "id": "p36",
             "categoria": "Comedia",
-            "Nombre": "Loco por los votos", 
+            "Nombre": "Loco por los votos",
             "Estreno": "2-10-11",
             "img": "./img/locoporlosvotos.jpg",
-            "reseña": "Por primera vez el repudiable congresista cam Brandy tendra oposicion en una eleccion. un simpatico e inocente marty huggins sera el rival, bajo el ala del poder economico" ,
-            "actores":"Will Ferrel, Zach Galifianakis, Jason Sudeikis, Sarah Baker, Dylan McDermott, Katherine LaNasa, Brian Cox, John Lithgow, Dan Aykrovd, Scott Martin",
-            "director":"Jay Roach",
-            "puntos" : "7/10",
+            "reseña": "Por primera vez el repudiable congresista cam Brandy tendra oposicion en una eleccion. un simpatico e inocente marty huggins sera el rival, bajo el ala del poder economico",
+            "actores": "Will Ferrel, Zach Galifianakis, Jason Sudeikis, Sarah Baker, Dylan McDermott, Katherine LaNasa, Brian Cox, John Lithgow, Dan Aykrovd, Scott Martin",
+            "director": "Jay Roach",
+            "puntos": "7/10",
             "año": "2012"
-     }
+        },
+        {
+            "id": "p43",
+            "categoria": "Thriller",
+            "Nombre": "El lobo de wall street",
+            "año": "2013",
+            "img": "./img/ellobo.jpg",
+            "director": "Martin Scorsese",
+            "actores":"Leonardo DiCaprio, Johan Hill, Margot Robbie, Kyle Chandler, Cristin Milioti, Rob Reiner, Matthew McConaughey, PJ Byrne, Jon Bernthal, Jean Dujardin",
+            "reseña":"Aunque no es de mis peliculas favoritas de martin scorsese por su trama, es inegable sus excelencias tecnicas y sus cualidades. En los 80 jorgan belfort era un joven con grandes ambiciones en el negocio de las acciones, con la ambicion, obcesion y una gran habilidad para la venta forjo su apodo de lobo de wall street sin importar los limites legales. Leonardo DiCaprio es quien interpreta a jordan belfort en el film, con una actuacion descomunal como nos tiene acostumbrados este gran actor sumandole una cuota de humor espetacular. un personaje que no conoce de limites lo que lo lleva al estrellato y a estrellarse por la ambicion. Jonah hill el es donnie azoff en la pelicula, socio y amigo de jordan belfort que lo acompaña no en los exitos economicos sino tambien en el camino de las adicciones y la ambicion, con una gran actuacion no solo funciona como la mano derecha de belfort sino como un gran pilar en el humor del film. La historia esta inspirada en un hecho real, el guion es una adaptacion del libro homonimo, escrito por su propio jordan belfort publicado en septiembre de 2007. quien cuenta con un cameo en la pelicula. Oscars.. fue nominada a mejor actor (leonardo dicaprio), mejor director (scorsese), mejor actor de reparto (jonah hill), mejor guion adaptado (terrence winter) y a mejor pelicula. lamentablemente no gano ninguna de las categorias"
+
+        },
+        {
+            "id": "p37",
+            "categoria": "Accion",
+            "Nombre": "The Suicide Squad",
+            "img": "./img/suicidesquad.jpg",
+            "puntos": "8/10",
+            "reseña": "The Suicide Squad una película que sinceramente no tenía muchas expectativas de ver, ya por su primera versión y los dichos de James Gunn contra Scorsese, pero la verdad me terminó sorprendiendo. Gran pelicula de accion, comedia, gore y sangrienta. Con una historia basica, pero  con identidad propia. Un grupo de supervillanos encerrados en prision son llevados a una peligrosa mision a cambio de reducir sus penas, bajo el mando de amanda waller se enfrentaran a enemigos tan peligrosos como ellos.",
+            "actores": "Margot Robbie, Idris Elba, Viola Davis, David Dastmalchian, John Cena, Jai Courtney, Joaquín Cosío, Nathan Fillion, Joel Kinnaman, Mayling Ng",
+            "director": "James Gunn"
+
+        },
+        {
+            "id": "p38",
+            "categoria": "Ciencia Ficcion",
+            "Nombre": "Jungle Cruise",
+            "año": "2021",
+            "img": "./img/junglecruise.jpg",
+            "reseña": "Una nueva película de Disney con un elenco de lujo y visualmente bella, pero olvidaron lo más importante la historia. En una selva amazónica del siglo xx Frank, un experto estafador y capitán, navegara junto a la botánica Lily Houghton para verificar un mito, en el camino deberán enfrentarse a un capitán alemán y a la peligrosa jungla.Dwayne JohnsonEs quien interpreta a Frank, este experto capitán que conoce las amazonas como la palma de su mano.Un rol que ya le sienta cómodo al actor, pero que fuera de contexto no sabes si estás viendo otra versión de Jumanji o una remake de Journey 2. Emily Blunt Quien interpreta a la botánica Lily Houghton que busca hacerse un camino dentro de una sociedad machista en esta aventura.En este caso si me gustó su actuación en un papel con el equilibrio perfecto entre comedia y drama siempre en tono de una película Disney.  La historia Aunque suene raro la película está basada en una atracción de Magic kingdom de Disneyland.Atracción que gracias a esta película y nuevas sociedades está siendo renovada con detalles nuevos del film.Sin dudas sirve como campaña publicitaria para la atracción. Los antagonistas En mi opinión lo peor del film, sin mucho argumento que los justifique, poca participación y no entiendo como un actor de la talla de Jesse Plemons que va a protagonizar la próxima película de Martin Scorsese se preste a una bajeza como esta. Lo Visual Claramente lo mejor del film es la parte visual, con toda la variedad de colores que caracterizan al amazonas, la vestimenta de la época y los excelentes momentos del CGI que nos regala la película. Jaume Collet - Serra El español es quien está a cargo de la dirección, su debut dentro de una película de Disney y sobretodo de un film para toda la familia, ya que anteriormente trabajo en producciones de suspenso y terror.En esta ocasión se podría decir que no fue su mejor trabajo dando una película desequilibrada ",
+            "actores": " Dwayne Johnson, Emily Blunt, Jesse Plemons, Edgar Ramirez, Jack Whitehall, Paul Giamatti, Dani Rovira, Quim Gutiérrez, Veronica Falcón, Raphael Alejandro",
+            "director":"Jaume Collet-Serra",
+            "puntos": "5/10"
+        },
+        {
+            "id": "p39",
+            "Nombre": "Old",
+            "categoria": "Suspenso",
+            "img": "./img/old.jpg",
+            "puntos": "7/10",
+            "reseña": "Una película entretenida con actuaciones que van de menor a mayor y una idea interesante, pero que pintaba para ser más de lo que fue. Argumento: Una familia descubre una playa paradisiaca para pasar unas vacaciones, pero lo que no sabían es que el tiempo en esa playa no pasa igual que fuera de ella. Actuaciones: Las actuaciones le hacen justicia al argumento con el pasar del tiempo van en crecimiento, Como en el caso de Vicky Krieps y Gael García Bernal. También nos encontramos con grandes actuaciones desde el primer minuto como el caso de Alex Wolff, Thomasin McKenzie y Rufus Sewell ¿lo mejor? La variedad de los personajes con sus distintas características, el concepto de cómo afecta el avance del tiempo no solo a nivel físico sino también mental y educativo, los detalles sobre como la oleada cubre las heridas y la poca fortaleza de los castillos de arena. La historia. El guion es una adaptación del comic sandcastle de Pierre Oscar Lévy y Frederik Peeters publicado en 2010. Una gran historia en una adaptación que mantiene el suspenso y el concepto de la historia pero que no termina de ser 100% efectiva. M. Night Shyamalan El director indio reconocido por su trabajo en la trilogía del protegido, sexto sentido entre otras es el encargado del guion un poco flojo a nivel de diálogos y un gran trabajo en la dirección armando buenos momentos de suspenso y elección de planos que acompañan excelentemente la historia. El final Cuando estás viendo la película te preguntas como va a terminar y seguramente jamás te esperarías la respuesta, justificando varias cosas que no cierran de algunos personajes y hasta trayendo un debate social/filosófico importante.  ¿Qué no me gustó? En mi opinión lo más flojo de la película es la sobre explicación de las cosas, algo que no solo se da en algunas partes de la película sino en todo el film. otro de los puntos bajos son el comienzo de algunas actuaciones. Fotografía y banda de sonido.. Algo que no es constante en calidad con el correr de las películas, pero si tienen sus buenos momentos sobre todo la banda de sonido ayuda a crear momentos de suspensos muy buenos y la fotografía se luce en casi toda la película a través de contrastes que ayudan en la narración y al resaltar lo importante. ",
+            "director": "M. Night Shyamalan",
+            "actores":"Gael García Bernal, Vicky Krieps, Thomasin McKenzie, Rufus Sewell, Abbey Lee, Ken Leung, Alex Wolff, Eliza Scanlen, Embeth Davidtz, Gustaf Hammarsten, Nolan River",
+            "año": "2021"
+
+
+        },
+        {
+            "id": "p40",
+            "Nombre": "Cielo rojo sangre",
+            "categoria": "Terror",
+            "img": "./img/cielorojosangre.jpg",
+            "puntos": "7/10",
+            "año": "2021",
+            "actores":"Peri Baumeister, Graham McTavish, Dominic Purcell, Roland Møller, Chidi Ajufo, Rebecca Dyson-Smith, Alexander Scheer, Leonie Brill, Roy McCrerey, Gordon Brown",
+            "director" :"Peter Thorwarth",
+            "reseña": "Una grata produccion alemana para netflix, kejos de ser una gran pelicula, pero superior a los basicos estrenos de la plataforma.. la historia ocurre en un avion secuestrado por terroristas donde dentro de el hay una mujer que debe revelar su oscuro secreto para intentar salvar al su pequeño hijo.Peri Baumeister La actriz alemana es quien interpreta a esta madre que oculta el secreto oscuro, una actuacion que va mas a menos en mi opinion, pero un personaje interesante demostrando el poder de la maternidad dentro de un descontrol absoluto. Alexander Scheer, en mi opinion lo mejor en actuacion en el film, con cambios muy rotundos desde el primer munuto, el mejore dentro del grupo de los 'malos', una gran actuacion que sobresale del resto del elenco. Algo que me gusto del film es que busca la logica de las cosas (Escena del auto) algo que dentro de las peliculas de este estilo dificilmente se encuentre, algo que se juega en contra en la pelicula es el mal manejo del marketing, desde el trailer sopoleando muchisimas partes de la pelicula como tambien el poster de la presentacin en la plataforma donde revela algo transcendetal en las bases de la pelicula, El final no me parecio malo, pero si poco claro en algunas cosas y sin arriesgarse a que haya una segunda parte no va a tener desde arranque una base solida"
+        },
+        {
+            "id": "p41",
+            "Nombre": "The little Things",
+            "categoria": "Suspenso",
+            "img": "./img/littlethings.jpg",
+            "puntos": "8/10",
+            "reseña": "Una película con un enfoque claro donde se lucen los personajes principales y las interpretaciones de tres grandes actores. El Argumento.. Un experimentado sheriff y un joven detective de homicidios se juntan para atrapar a un asesino en serie que hace revivir cosas del pasado a todo el condado. Denzel Washington Es quien interpreta al experimentado sheriff Joe Deacon quien esconde un secreto que lo atormentará toda su vida. Un papel que le calza a la perfección al actor, logrando explotar al máximo el personaje con esa cuota de incertidumbre constante por su secreto. Rami Malek Interpreta al detective Jim Baxter, quien ya no sabe qué hacer para atrapar a este escurridizo asesino en serie y recurre a la ayuda de Deacon mientras lucha por la presión de los medios y la sociedad. Personalmente me pareció una actuación que va de menor a mayor con el correr de la película. Jared Leto Con una actuación magistral nominada a los globos de oro interpreta a Albert Sparma un reparador de electrodomésticos que se vuelve el principal sospechoso de esta serie de asesinatos, un personaje que gracias a la actuación de Leto se vuelve aterrador y repulsivo. Enfoque claro La película tiene un enfoque claro, que es el de llevar al extremo a sus personajes más que nada para que el espectador se ponga de lado de los detectives y todo lo que deben hacer para culpar al asesino, cosa que divide al espectador ya que no es el enfoque más utilizado en los policiales. El final Creo yo otro de los puntos que divide a la gente a la hora de ver el film. En mi opinión el final justifica el ritmo lento de la película ayudando a terminar de profundizar en los personajes principales, las similitudes entre ellos y sus objetivos dentro de la película. John Lee Hancock Director y guionista de la película vuelve a la fórmula de centrarse en sus personajes principales y los vínculos que los rodean como lo hizo en sus mejores películas “Un sueño posible” y ‘El sueño de Walt’ (ambas muy recomendables si no las viste). ¿Qué no me gustó? Por momentos la interpretación de Rami Malek me pareció un poco sobreactuada, el guion en si no me disgustó, pero me pareció bastante básico y escenas que me parecieron demás que simplemente parecieron de relleno",
+            "director": "John Lee Hancock",
+            "actores":"Denzel Washington, Rami Malek, Jared Leto, Chris Bauer, Sofia Vassilieva, Natalie Morales, Terry Kinney, Michael Hyatt, Kerry O'Malley, Sheila Houlahan",
+            "año": "2021"
+
+        }
+        ,
+        {
+            "id": "p42",
+            "Nombre": "The Infiltrator",
+            "categoria": "Suspenso",
+            "año": "2016",
+            "reseña": "Pelicula basada en hechos reales, con grandes actuaciones, pero que para muchos puede resultar un poco lenta,en los años 80 el agente robert mazur se infiltra en un cartel de drogras colombiano haciendose pasar por un importante empresario que los ayudara a lavar su dinero. bryan Cranston el brillante actor interpreta a nuestro protagonista robert mazur de una manera excelente y aunque obviamente este lejos de su papel de walter white su habilidad para explotar al personaje por momentos te hace comparalos. el elenco cuenta con grandes actuaciones aparte de la de bryan cranstom. Con 3 que sobresalen, Diane Kruger quien interpreta a una agente que acompaña a mazur fingiendo ser su esposa , john leguizamo en el papel de un policia poco tradicional y amy rian en un rol secundario pero muy interesante. LA historia esta basada en la autobiografia de robert mazur agente estadounidense que ayudo, bajo su nombre encuberto 'Robert Musella' un empresario corrupto, a desarmar la organizacion del lavado de dinero del cartel de pablo escobar. Porque ver este film ? Considero que, Aunque tenga sus errores tambien tiene sus virtudes la cuales son bryan cranston y su increible papel, una historia muy interesante y otra mirada diferente  de lo que estamos acostumbrados a ver peliculas o series sobre narcotrafico.",
+             "actores": "Bryan Cranston, John Leguizamo, Diane Kruger, Amy Ryan, Joseph Gilgun, Benjamin Bratt, Juliet Aubrey, Rubén Ochandiano, Simón Andreu, Saïd Taghmaoui",
+             "director": "Brad Furman",
+             "puntos": "7/10",
+             "img": "./img/infiltration.jpg"
+        }, 
+        {
+            "id": "p43",
+            "Nombre": "Interstellar",
+            "categoria": "Ciencia Ficcion",
+            "año": "2014",
+            "director": "Christopher Nolan",
+            "actores":" Matthew McConaughey, Anne Hathaway, David Gyasi, Jessica Chastain, Mackenzie Foy, Matt Damon, Michael Caine, John lithgow, Casey Affleck, Timotheé Chalamet, Wes Bentley, Ellen Burstyn, Topher grace, David Oyelowo, Collette Wolfe, Leah Cairns, Elves Gabel",
+            "puntos": "9/10",
+            "img": "./img/interstellar.jpg",
+            "reseña": "Al ver que la tierra esta llegando a su fin de un grupo de exploradores emprende una mision mas alla de nuestra galaxia para encontrar un lugar donde mudar la humanidad restante, Matthew Mcconaughey es quien interpreta a joseph cooper, el piloto encargado de esta misteriosa y arriesgada mision. una actuacion brillante en un papel no solo protagonista sino tambien de conexion con el espectador, siendo pieza fundamental para entender a travez de sus preguntas la complejidad de las teorias cientificas que plantea el film. El elenco.. la pelicula cuenta con nombres y actuaciones de lujo, donde se destacan anne Hathaway, en su papel de encargada cientifica de la mision. Michael caine como el cerebro detras de todo con un giro inesperado en la historia entre otros nombres como matt damon, casey affleck y timothee chalamet.. Oscars, tuvo 5 nominaciones, a mejor sonido, mejor edicion de sonido, mejor diseño de produccion, mejor banda sonora y mejores efectos visuales. que no me gusto ? aunque me parece una gran pelicula no es de mis favoritas de christopher Nolan, dentrodel guion hay momentos autocomplacientes justificados por el famoso porque yo lo digo, aunque no quiere decir que este mal simplemente son detalles que no me gustaron"
+        }
+
 
     ]
 }
