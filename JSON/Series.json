@@ -515,20 +515,6 @@
 
     },
     {
-        "id": "s40",
-        "categoria": "Accion",
-        "Nombre": "V de venganza",
-
-        "Estreno": "20-05-21",
-        "img": "./img/series/vdevenganza.jpg",
-        "reseña": "",
-        "puntos":"10/10",
-        "actores":"",
-        "director":"",
-        "año":""
-
-    }
-    ,{
         "id": "s41",
         "categoria": "Ciencia Ficcion",
         "Nombre": "Mortal Kombat",
