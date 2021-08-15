@@ -14,6 +14,7 @@ const $fragment = document.createDocumentFragment();
 const $posts = document.getElementById("posts")
 const $postElegidos = document.getElementById("posts-elegido")
 
+const $btnVolver = document.getElementById("btnVolver")
 
 
 ajax({
@@ -69,6 +70,17 @@ ajax({
 
             })
         })
+        $btnVolver.addEventListener("click", () => {
+          
+            //peliculas
+            $postElegidos.innerHTML = ""
+            $postElegidos.style.display = "none"
+            $posts.style.display = "flex"
+            //series
+            $postElegidoSeries.innerHTML = ""
+            $postElegidoSeries.style.display = "none"
+            $postSeries.style.display = "flex"
+           })
 
 
 
@@ -115,6 +127,17 @@ ajax({
                     $postSeries.style.display = "none"
                   }
             })
+            $btnVolver.addEventListener("click", () => {
+          
+                //peliculas
+                $postElegidos.innerHTML = ""
+                $postElegidos.style.display = "none"
+                $posts.style.display = "flex"
+                //series
+                $postElegidoSeries.innerHTML = ""
+                $postElegidoSeries.style.display = "none"
+                $postSeries.style.display = "flex"
+               })
         })
     }
 })

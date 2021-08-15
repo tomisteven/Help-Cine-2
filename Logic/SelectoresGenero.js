@@ -1,12 +1,3 @@
-
-
-
-let $pelicula = document.querySelector(".pelicula")
-const $imagen = document.querySelector(".imagen")
-const $titulo = document.querySelector(".titulo")
-const $descripcion = document.querySelector(".descripcion")
-const $categoria = document.querySelector(".categoria")
-
 const $$template = document.getElementById("Cartelera-pelicula").content
 const $$templateSeries = document.getElementById("Cartelera-series").content
 const $fragment = document.createDocumentFragment();
@@ -109,6 +100,17 @@ ajax({
         //siguiente paso: IMPRIMIR LOS POST : HECHO -CORREGIR BUG DE IMPRESION DE POSTS --HECHO
         //FUNCION DE CARGAR MAS PELICULAS
       })
+      $btnVolver.addEventListener("click", () => {
+          
+        //peliculas
+        $postElegidos.innerHTML = ""
+        $postElegidos.style.display = "none"
+        $posts.style.display = "flex"
+        //series
+        $postElegidoSeries.innerHTML = ""
+        $postElegidoSeries.style.display = "none"
+        $postSeries.style.display = "flex"
+       })
     })
   }
 })
@@ -178,18 +180,7 @@ ajax({
           $postElegidoSeries.style.display = "none"
           $postSeries.style.display = "flex"
          })
-          /* //titulo
-          const $titulo_serie = document.querySelector(".titulo-series-h3")
-          const $titulo_serie2 = document.querySelector(".titulo-series")
-          $titulo_serie2.textContent= "Series"
-          $titulo_serie.textContent="Series"
-          $titulo_serie.style.marginLeft= "400px"
-          $titulo_serie.style.color = "red"
-          $titulo_serie.style.fontSize = "30px"
-          $titulo_serie.style.display = "flex"
-          $titulo_serie.style.align = "center"
           
-          $titulo_serie.style.fontFamily = "gagalin" */ 
          
         //siguiente paso: IMPRIMIR LOS POST : HECHO -CORREGIR BUG DE IMPRESION DE POSTS --HECHO
         //FUNCION DE CARGAR MAS PELICULAS

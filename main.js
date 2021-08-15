@@ -17,6 +17,7 @@ const $postElegidos = document.getElementById("posts-elegido")
 const $postElegidoSeries = document.getElementById("posts-elegido-series")
 //template articulos
 
+const $btnVolver = document.getElementById("btn-volver")
 
 const ajax = (options) => {
   let {
@@ -74,6 +75,15 @@ const getAll = () => {
 
         $$template.querySelector(".titulo").textContent = el.Nombre
         $$template.querySelector(".imagen").src = el.img
+        $$template.querySelector(".puntos").textContent = `${el.puntos}/10`
+
+        if(el.puntos > 6){
+          $$template.querySelector(".puntos").style.backgroundColor = "green"
+        }
+        else{
+          $$template.querySelector(".puntos").style.backgroundColor = "red"
+        }
+
         $$template.querySelector(".categoria").innerHTML = `<i class="fas fa-hand-point-right"></i> Categoria:${el.categoria}`
         $$template.querySelector("time").textContent = fecha
 
@@ -82,28 +92,21 @@ const getAll = () => {
         //console.log(el.Nombre)
       })
 
-      /* for (let i = 0; i < Max; i++) {
-        $$template.querySelector(".showArticle").setAttribute("data-articulo", res.Peliculas[i].Nombre)
-
-        $$template.querySelector(".titulo").textContent = res.Peliculas[i].Nombre
-        $$template.querySelector(".imagen").src = res.Peliculas[i].img
-        $$template.querySelector(".categoria").innerHTML = `<i class="fas fa-hand-point-right"></i> Categoria:${res.Peliculas[i].categoria}`
-        $$template.querySelector("time").textContent = fecha
-
-        let $clone = document.importNode($$template, true);
-        $fragment.appendChild($clone);
-
-      } */
-
       $postElegidos.style.display = "none"
       $posts.appendChild($fragment)
-      
 
 
-
-
-
-
+      $btnVolver.addEventListener("click", () => {
+          
+        //peliculas
+        $postElegidos.innerHTML = ""
+        $postElegidos.style.display = "none"
+        $posts.style.display = "flex"
+        //series
+        $postElegidoSeries.innerHTML = ""
+        $postElegidoSeries.style.display = "none"
+        $postSeries.style.display = "flex"
+       })
     },
     //configuramos el mensaje de error
     error: (err) => {
@@ -139,6 +142,14 @@ const getAll = () => {
 
         $$template.querySelector(".titulo").textContent = el.Nombre
         $$template.querySelector(".imagen").src = el.img
+        $$template.querySelector(".puntos").textContent = `${el.puntos}/10`
+
+        if(el.puntos > 6){
+          $$template.querySelector(".puntos").style.backgroundColor = "green"
+        }
+        else{
+          $$template.querySelector(".puntos").style.backgroundColor = "red"
+        }
         $$template.querySelector(".categoria").innerHTML = `<i class="fas fa-hand-point-right"></i> Categoria:${el.categoria}`
         $$template.querySelector("time").textContent = fecha
 

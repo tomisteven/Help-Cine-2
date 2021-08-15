@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'gagalin';
+    src: url(./assets/gagalin.ttf);
+}
+#nosotros{
+    font-family: "gagalin";
+    
+    border-top: 2px solid rgb(0, 0, 0);
+    border-bottom: 2px solid rgb(0, 0, 0);
+    
+    width: 100%;
+    margin: 25px auto;
+}
+.cont-nosotros{
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+
+}
+.cont-p{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.cont-p ul{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+}
+.cont-p ul li{
+    font-size: 45px;
+    
+}
+.cont-p ul li .fa-facebook{
+    color: rgb(41, 44, 255)
+}
+.cont-p ul li .fa-instagram{
+    color: rgb(243, 109, 31)
+}
+.cont-p ul li .fa-pinterest{
+    color: rgb(255, 43, 43)
+}
+.cont-p ul li .fa-youtube{
+    color: rgba(255, 0, 0, 0.671)
+}
+.cont-p ul li .fa-twitter{
+    color: rgba(39, 191, 251, 0.966)
+}
+.cont-p ul li:hover{
+    transform: scale(1.4);
+    transition: .5s all;
+}
+.cont-nosotros p{
+    font-size: 20px;
+    position: relative;
+    text-align: start;
+    top: 50px
+}
