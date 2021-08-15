@@ -49,6 +49,7 @@
 .descripcion-articulos h1{
     font-size: 30px;
     margin-bottom: 50px;
+    letter-spacing: 3px;
 }
 .descripcion-articulos h6{
     margin-bottom: 40px;
