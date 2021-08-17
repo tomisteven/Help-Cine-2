@@ -42,7 +42,7 @@ ajax({
         //console.log(datos.Peliculas);
 
         let articulo = localStorage.getItem("articulo");
-
+        console.log(articulo);
 
         let Catseleccionada = datos.Peliculas.filter(item => item.Nombre.toLowerCase().includes(localStorage.getItem("articulo").toLowerCase()))
 
