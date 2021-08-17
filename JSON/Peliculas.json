@@ -255,6 +255,18 @@
 
         },
         {
+            "id": "p51",
+            "categoria": "Suspenso",
+            "Nombre": "The game",
+            "año": "1997",
+            "actores": "Michael Douglas, Sean Penn, James Rebhorn, Deborah Kara Unger, Peter Donat, Carrol Baker, Armin Mueller-Stahl, Anna Katarina, Mark Boone junior, Tommy Flanagan",
+            "director": "Sylvester Stallone",
+            "puntos": "8",
+            "img": "./img/game.jpg",
+            "reseña": ""
+        }
+        ,
+        {
             "id": "p28",
             "categoria": "Drama",
             "Nombre": "Cruella",
@@ -535,6 +547,29 @@
             "director":"Michael Gracey",
             "año":"2017",
             "img": "./img/showman.jpg"
+    }, 
+    {
+            "id": "p50",
+            "Nombre": "Love and monsters",
+            "categoria": "Aventura",
+            "puntos": "6",
+            "director": "Michael Matthews",
+            "año": "2020",
+            "img": "./img/loveandmonsters.jpg",
+            "actores": "Dylan O´Brien, Michael Rooker, Ariana Greenblatt, Jessica Henwick, Ellen Hollman, Damien Garvey, Melanie Zanetti, Tasneem Roc, Amali Golden, Dan Ewing",
+            "reseña": "Pelicula entretenida, con una premisa interesante, correctas actuaciones, una nominacion a los oscars y una narracion juvenil. En unmundo postapocaliptico invadido de gigantes monstruos, un joven sin mucha habilidad para enfrentarlos decide emprender un largo viaje para reencontrarse con su novia. Dylan o`brien es quien interpreta a joel, de una manera correcta, este joven emprendera esta dificil travesia, donde se enfrentara a sus mayores miedos, aprendera a desafiarlos y llevara varias lecciones de vida. La historia no estab basada en la novela de julio verne 'la isla misteriosa'. pero la idea principal de los incectos gigantes y el concepto de que tengan sentimientos se le parece mucho. Los efectos visuales no caben dudas que lo mejor del fiml, una impecable recreacion de una ciudad apocaliptica y grande s monstruos perfectamente realizados. La pelicula obtuvo la nominacion a mejores efectos visuales para la proxima entrega de los oscars. El film tiene un lindo mensaje que dejar, y es de pelear contra tus miedos sin depender de tus limitacione, de apreciar lo que tienes a tu lado en todo momento y que la union hace la fuerza. Que no me gusto? el cierre de los personajes que deja sin mucho sentido a muchos en la historia, la falta ed explicacion de varios momentos y las constantes caidas en cliches que tiene a lo largo del film"
+
+    },
+    {
+            "id": "p51",
+            "Nombre": "Crimen y deseo",
+            "categoria": "Thriller",
+            "puntos": "7",
+            "director": "Phillip Noyce",
+            "actores":"Emilia Clarke, Jack Huston, Thora Birch, Johnny Knoxville, Karl Glusman, Sophie Lowe, Kevin Dunn, Joshua Mikel, Chris Mulkey, Brittany O’Grady",
+            "año":"2018",
+            "img": "./img/crimendeseo.jpg",
+            "reseña":"Una pelicula basada en un hecho real impactante. con varios puntos altos y otros bastante bajos, pero igual es interesante de ver. Una joven agente edl fbi llega a un pequeño publo con grandes aspiraciones, donde se enredara con una joven informante tanto en el ambito laboral como el amoroso. Emilia clarke la reconocida actriz interpreta a susan de una manera brillante, esta joven adicta e informante del fbi que paso por momentos muy dificiles y buscara encontrar la paz. Jack huston interpreta a mark, un joven agente del fbi con grandes ambiciones en detener el trafico de drogas, donde demostrara una falta de empatia y misoginia, alarmantes. La historia esta basada en el libro homonimo de no ficcion de joe sharkey, publicado el 14 de octubre de 1994, sobre la relacion entre estos dos protagonistas que ocurrio en kentucky en 1989. El desarrollo de la pelicula se puede definir como una montaña rusa, con un primer acto interesante, un segundo acto bastante chato sin mucho atractivo y un tercer acto donde el film crece exponencialmente. Phillip Noyce director de la pelicula que utiliza muy bien el recurso de primer plano para remarcar el sentimiento preciso de los personajes y tapar el flojo guion que hay detras del film. el final claramente si conoces el casomo te va a sorprenderm por eso mismo te recomiendo no investigar nada del caso antes de ver la pelicula. que no me gusto? como ya mencione el segundo acto de la pelicula me parecio muy plano, la premisa e importancia de la historia merecia una narracion mucho mas profunda de lo que propone finalmente el film. Sumandole la poca importancia que se les da a algunos personajes "
     }
 
 
