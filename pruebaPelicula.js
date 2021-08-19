@@ -55,11 +55,7 @@ ajax({
             $template.querySelector(".reseña-articulo").textContent = `Descripcion: ${item.reseña}`
             $template.querySelector(".actores-articulo").textContent = `Actores: ${item.actores}`
             $template.querySelector(".puntos").textContent = item.puntos
-            if (item.puntos > 7) {
-                $template.querySelector(".puntaje").style.backgroundColor = "green"
-            }else{
-                $template.querySelector(".puntaje").style.backgroundColor = "red"
-            }
+            
             //clonamos todos los posts
             let $clone = document.importNode($template, true);
             //los agregamos al fragmento
