@@ -84,6 +84,17 @@
             "puntos": "8"
 
         },
+        {
+            "id": "p58",
+            "categoria": "Infantil",
+            "Nombre": "Raya y el ultimo dragon",
+            "año":"2021",
+            "img": "./img/rayayelultimodragon.jpg",
+            "actores":"Animaciones",
+            "puntos":"8",
+            "director":"Don Hall y Carlos López Estrada.",
+            "reseña":"Una pelicula sumamente ENTRETENIDA, CON UNA ANIMACIÓN DE LUJO Y PERSONAJES QUERIBLES BAJO LA DIRECCIÓN DE UN GANADOR DE UN ÓSCAR. 500 AÑOS DESPUÉS DEL SACRIFICIO DE LOS DRAGONES PARA SALVAR A LOS HUMANOS, ESAS FUERZAS MALIGNAS VOLVIERON Y SERÁ RAYA LA ENCARGADA DE ENCONTRAR AL ÚLTIMO DRAGÓN Y RESTAURAR EL ORDEN. Raya.. SIGUIENDO CON LA LÍNEA DE LAS PRINCESAS COMO MOANA Y FROZEN, RAYA ES UN PERSONAJE DESCONFIADO QUE DEBERÁ VOLVER A CONFIAR EN ALGUIEN PARA PODER DERROTAR LAS FUERZAS OSCURAS Y RESTAURAR LA union. Sisu EL CORAZÓN Y ALMA DE LA PELÍCULA. ES QUIEN LE AGREGA LA CUOTA DE HUMOR AL FILM, PERO A LA VEZ ES LA UNIÓN DE MUCHOS OTROS PERSONAJES Y LA REPRESENTACIÓN DE LA CONFIANZA Y LA ESPERANZA POR EL OTRO. UNO DE LOS PUNTOS MÁS ALTOS DEL FILM (APARTE DE SUS PERSONAJES) ES LA SOLTURA EN LA QUE PASA DEL HUMOR A LA ACCIÓN Y DESDE AHÍ A LO DRAMÁTICO SIN HACER NOTAR NADA FORZADO. animaciones.. WALT DISNEY ANIMATION STUDIOS LO HIZO DE NUEVO. UNA BRILLANTE ANIMACIÓN QUE CADA VEZ LO LLEVA MÁS A LO REAL ENTRE LOS MOVIMIENTOS, LAS GESTICULACIONES DE LOS PERSONAJES Y ESA AMBIENTACIÓN DEL SUDESTE ASIÁTICO MARAVILLOSA. Mensaje.. CLARAMENTE EL FILM DEJA UN MENSAJE DE CONFIAR EN EL OTRO SIN JUZGAR ERRORES DEL PASADO Y DAR UNA SEGUNDA OPORTUNIDAD. TAMBIÉN COMO UN RANGO NO TE DEFINE, SINO TUS ACCIONES."
+        },
 
 
         {
@@ -168,6 +179,28 @@
 
         },
         {
+            "id": "p59",
+            "categoria": "Drama",
+            "Nombre": "the truman show",
+            "año":"1998",
+            "img": "./img/truman.jpg",
+            "actores":"Jim Carrey, Laura Linney, Noah Emmerich, Ed Harris, Natascha McElhone, Holland Taylor, Paul Giamatti, Adam Tomei, Harry Shearer, Brian Delate",
+            "director":"Peter Weir",
+            "puntos":"9",
+            "reseña":"UNA PELÍCULA ENTRETENIDA, CON UN MENSAJE PROFUNDO, ACTUACIONES DE LUJO Y UNA IDEA ORIGINAL BRILLANTE CON REPERCUSIONES FUERA DEL CINE. TRUMAN ES UN HOMBRE COMÚN Y CORRIENTE EN UN PEQUEÑO PUEBLO, LO QUE NO SABE ES QUE TODO LO QUE HACE SE ESTÁ TRASMITIENDO EN VIVO PARA TODO EL MUNDO DESDE EL DÍA QUE nacio. Jim carrey ES ALUCINANTE LO QUE APORTA EN SU PAPEL DE TRUMAN, UN ACTOR QUE RELACIONAMOS CASI SIEMPRE CON EL HUMOR, PERO CUANDO LE AGREGA ESA CUOTA DE DRAMATISMO ES EXCELENTE. DESDE HOY MI PAPEL FAVORITO DEL ACTOR EN EL CINE. ACTUACIONES DE LUJO.. APARTE DE LAS GRAN ACTUACIÓN DE JIM CARREY, HAY QUE MENCIONAR LAS GRANDES INTERPRETACIONES DE LAURA LINNEY (ESPOSA DE TRUMAN) Y ED HARRIS (CREADOR DE ESTE SHOW) ACTOR QUE GANÓ UN GLOBO DE ORO POR LA PELÍCULA AL IGUAL QUE JIM CARREY. Critica social.. CLARAMENTE EL FILM TRASMITE UNA PROFUNDA CRÍTICA A LOS MEDIOS DE COMUNICACIÓN POR LO QUE MUESTRAN, PERO TAMBIÉN AL CONSUMIDOR DEMOSTRÁNDOLE QUE SON ELLOS LOS QUE TIENEN EL PODER DE ELEGIR QUE VER. Andrew niccol ENCARGADO DEL GUION. UN GUION SUMAMENTE ORIGINAL QUE LO LLEVO A SER NOMINADO A LOS PREMIOS ÓSCARS, GLOBO DE ORO Y GANAR EL BAFTA A MEJOR GUION ORIGINAL. del cine a la psicologia.. De THE INTERNATIONAL JOURNAL OF PSYCHOANALYSIS REALIZÓ UN ESTUDIO SOBRE EL FILM RELACIONANDO LA HISTORIA CON LA TRANSICIÓN DE LA ADOLESCENCIA HACIA LA ADULTEZ, SOBRE SALIR DE ESA ZONA DE CONFORT PARA CONVERTIRSE EN UN TRUE-MAN (UN HOMBRE VERDADERO). Del cine a la psiquiatria.. DESDE EL 2008, EL PSIQUIATRA JOEL GOLD, DIAGNOSTICO A PACIENTES CON ESQUIZOFRENIA QUE DECÍAN VIVIR EN UN REALITY SHOW CON EL SÍNDROME DE TRUMAN. TERMINO QUE AUN EN LA ACTUALIDAD SIGUE vigente. Curiosidad.. EL DIRECTOR DEL FILM EN UN MOMENTO QUISO QUE EL PÚBLICO SEA PARTE ¿CÓMO? DETENIENDO LA FUNCIÓN CON EL OBJETIVO DE PROYECTAR UNA CÁMARA DE LA SALA DEL CINE DONDE SE ESTABA VIENDO EL FILM Y DAR UN GOLPE DE EFECTO. IDEA QUE POR DIVERSOS MOTIVOS LEGALES FUE DESCARTADA."
+        },
+        {
+            "id": "p60",
+            "categoria": "Comedia",
+            "Nombre": "El agente topo",
+            "año":"2021",
+            "director":"Maite Alberdi.",
+            "actores":"Sergio Chamby, Rómulo Aitken, Marta Olivares, Berta Ureta, Zoila Gonzalez, Petronila Abarca, Rubira Olivares",
+            "puntos":"7",
+            "img": "./img/agentetopo.jpg",
+            "reseña":"UNA PRODUCCIÓN CHILENA PRESELECCIONADA A MEJOR PELÍCULA EXTRANJERA EN LA PRÓXIMA EDICIÓN DE LOS ÓSCARS. SERGIO, UN HOMBRE DE 83 AÑOS, SE INFILTRA EN UN HOGAR DE ANCIANOS DONDE SE SOSPECHABA MALTRATOS A LOS RESIDENTES. PERO SE ENCONTRARÁ CON UNA SITUACIÓN ANGUSTIANTE. Sergio chamy ES QUIEN PROTAGONIZA ESTA PELÍCULA COMO EL AGENTE TOPO, UN PERSONAJE SUMAMENTE SINCERO Y QUE EMANA TERNURA, LO QUE HACE QUE TE ENCARIÑES CON ÉL DESDE EL MINUTO 1. Narrativa.. EL JUEGO DE MEZCLAR LO DOCUMENTAL Y FICCIÓN HACEN A LA PELÍCULA MÁS VALIOSA AÚN. DEMOSTRANDO QUE ESTO ES, LAMENTABLEMENTE, LO QUE PASAN MUCHOS ANCIANOS. Reflexion.. CLARAMENTE ES UNA PELÍCULA QUE LLAMA A LA REFLEXIÓN, DEL POCO VALOR QUE MUCHOS LE DAN A LAS PERSONAS MAYORES Y EL ABANDONO QUE SUFREN MUCHOS DE ELLOS DE SUS PROPIAS FAMILIAS AL LLEVARLOS A UN hogar para ancianos. Maite alberdi.. Directora y guionista de la pelicula, una GRAN DIRECTORA DOCUMENTALISTA RECONOCIDA MUNDIALMENTE POR 'LA ONCE' Y 'LOS NIÑOS' VUELVE A BRILLAR. CON UN GUION EXCELENTE Y UN TRABAJO DETRÁS DE CÁMARA  brillante. Frase 'NINGÚN ANCIANO DEBE ESTAR EXILIADO DE NUESTRA FAMILIA. LOS ANCIANOS SON UN TESORO PARA LA SOCIEDAD' 'DONDE NO SE HONRA A LOS ANCIANOS, NA HAY FUTURO PARA LOS JÓVENES'"
+        },
+        {
             "id": "p19",
             "categoria": "Romantica",
             "Nombre": "Patines de plata",
@@ -178,6 +211,16 @@
             "director": "Michael Lockshin",
             "puntos": "7"
 
+        },
+        {
+            "id": "p68",
+            "categoria": "Drama",
+            "Nombre": "Promising Young woman",
+            "actores":" Carey Mulligan, Bo Burnham, Alison Brie, Connie Britton, Adam Brody, Jennifer Coolidge, Laverne Cox, Clancy Brown, Alfred Molina, Christopher Mintz-Plasse",
+            "director":"Emerald Fennell",
+            "año":"2020",
+            "puntos":"9",
+            "reseña":"UN BRILLANTE FILM NOMINADO A MEJOR PELÍCULA DE DRAMA EN LOS GLOBOS DE ORO, CON UN GUION DEBATIBLE LA PROPÓSITO O ERROR DEL FILM?. CASSIE ES UNA JOVEN QUE DEJÓ LA UNIVERSIDAD POR UN DESAGRADABLE HECHO. AHORA TIENE UNA DOBLE VIDA, DE DÍA ATIENDE UNA CAFETERÍA Y DE NOCHE QUE ENCARGA DE VENGAR ESE HECHO. Carey Mulligan CON UNA ACTUACIÓN SINIESTRA, ATERRADORA, INTELIGENTE Y DRAMÁTICA BRILLA EN EL PAPEL DE CASSIE. UNA INTERPRETACIÓN QUE, EN MI OPINIÓN, MERECE TENER UN LUGAR EN LOS PRÓXIMOS ÓSCARS. Una montaña rusa.. LA PELÍCULA TIENE SUS PUNTOS MUY ALTOS, SOBRE TODO EN EL PRINCIPIO DEL FILM Y EN EL FINAL. PERO SU GUION CONSTANTEMENTE ES UNA MONTAÑA RUSA, ENTRE EL DRAMA Y EL HUMOR NEGRO (EXCELENTEMENTE UTILIZADO) que maneja el film. Es a proposito ? CLARAMENTE QUE UNA PERSONA QUE VIVIÓ LO DE CASSIE JUSTIFICA ESA MONTAÑA RUSA DE EMOCIONES QUE VEMOS, POR LO TANTO, ELIJO CREER QUE FUE A PROPÓSITO Y NO UN ERROR DEL FILM. El final.. TOTALMENTE SORPRESIVO Y MAJESTUOSO. LUN FINAL FELIZ? DEPENDE COMO LO MIRES. SI ALGO NO LE FALTA A ESTE FILM SON LOS GRANDES GIROS EN LA TRAMA Y LOS mensajes a una sociedad machista"
         },
         {
             "id": "p20",
@@ -205,6 +248,17 @@
 
         },
         {
+            "id": "p61",
+            "categoria": "Drama",
+            "Nombre": "Atrapame si puedes",
+            "año": "2002",
+            "img": "./img/atrapame.jpg",
+            "actores":"Leonardo DiCaprio, Tom Hanks, Christopher Walken, Amy Adams, Nathalie Baye, Martin Sheen, Jennifer Garner, Brian Howe, Frank John Hughes, James Brolin",
+            "director":"Steven Spielberg",
+            "puntos":"9",
+            "reseña":"REPASEMOS ESTA ENTRETENIDA Y DISTINTA A LO QUE NOS TIENE ACOSTUMBRADOS EL GRAN STEVEN SPIELBERG. FRANK ES UN JOVEN E INTELIGENTE ESTAFADOR ADQUIERE DIVERSAS IDENTIDADES PARA COMETER LOS DELITOS. CARL HANRATTY UN AGENTE DEL FBI, COMENZARA A SEGUIRLO, PERO FRANK SIEMPRE VA UN PASO DELANTE DE el. Hecho real.. BASADA EN LA VIDA DE FRANK ABAGNALE JR, QUIEN en LA DÉCADA DEL 60 Y EN TAN SOLO CINCO AÑOS EN TRABAJÓ CON OCHO IDENTIDADES DIFERENTES FALSIFICANDO CHEQUES QUE ALCANZARON LA SUMA DE 2,5 MILLONES DE DÓLARES EN 26 PAÍSES DIFERENTES. HOY EN DÍA TRABAJA COMO ASCENSOR DE FRAUDES PARA EL FBI. Leonardo Dicaprio INTERPRETA A FRANK EN LA PELÍCULA, UN PAPEL QUE LOGRA EXPLOTAR EL ACTOR AL MÁXIMO. DESDE LOS CAMBIOS FÍSICOS DEL PERSONAJE Y LOS CAMBIOS EN SUS PENSAMIENTOS. ACTUACIÓN NOMINADA A LOS GLOBOS DE ORO A MEJOR ACTOR DE DRAMA. Tom hanks COMPLETA ESTA DUPLA PROTAGÓNICA DE LUJO INTERPRETANDO AL OFICIAL DEL FBI CARL HANRATTY, UN PERSONAJE MÁS TENUE PERO NO MENOS INTERESANTE, CON MATICES QUE NOTAN UNA COMODIDAD DEL ACTOR EN EL papel. Elenco de lujo.. A LOS NOMBRES PESADOS DE DICAPRIO Y HANKS SE LE SUMAN PARA COMPLETAR EL ELENCO NOMBRES PESADOS COMO CHRISTOPHER WALKEN (NOMINADO AL ÓSCAR POR SU PAPEL), AMY ADAMS, MARTIN SHEEN, NATHALIE BAYE Y JAMES BROLIN. "
+        },
+        {
             "id": "p23",
             "categoria": "Belica",
             "Nombre": "El robo del siglo",
@@ -216,6 +270,17 @@
             "director": "Ariel Winograd"
         },
         {
+            "id": "p67",
+            "categoria": "Thriller",
+            "Nombre": "Inception",
+            "año":"2010",
+            "actores":" Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Ken Watanabe, Marion Cotillard, Tom Hardy, Cillian Murphy, Tom Berenger, Michael Caine, Dileep Rao",
+            "director":"Christopher Nolan",
+            "puntos":"10",
+            "reseña": "CADA VEZ QUE MIRO ESTA PELÍCULA ME PREGUNTO ¿QUÉ TAN BUENA ES SI LA MIRO DE VUELTA? Y CLARAMENTE CADA VEZ ES MEJOR. COBB ES UN ESPECIALISTA EN METERSE EN LOS SUEÑOS DE LOS DEMÁS, UN MAGNATE LO CONTRATARÁ PARA IMPLANTAR UNA IDEA A UN RIVAL Y ASÍ SACARLO DE LA COMPETENCIA EMPRESARIAL. Leonardo di caprio... CON UNA ACTUACIÓN CRUDA, INTELIGENTE Y OBSESIVA INTERPRETA EXCELENTEMENTE A COBB. LOS ÓSCARS IGNORARON POR AÑOS A DICAPRIO, PERO ESTA INTERPRETACIÓN MERECIÓ AL MENOS UNA NOMINACIÓN. Guion... SEGÚN EL DIRECTOR LO EMPEZÓ 10 AÑOS ANTES DEL FILM. UN GUION SUMAMENTE ORIGINAL, INNOVADOR Y MINUCIOSO DESDE LA COMPLEJA HISTORIA HASTA EL DETALLE DE QUE SI SUMAS LAS INICIALES DE LOS PROTAGONISTAS EL RESULTADO ES DREAMS PAY (LOS SUEÑOS SE PAGAN). Christopher Nolan.. SIN LUGAR A DUDAS UN REVOLUCIONARIO DEL CINE ACTUAL. SIEMPRE CON SIMBOLISMOS SUMAMENTE PRESENTES COMO DEBATES FILOSÓFICOS, EN ESTE CASO LA REALIDAD. ¿SI ESTÁ EN TU CABEZA NO EXISTE?. Frase.. 'SIENTO QUE, CON EL TIEMPO, COMENZAMOS A VER LA REALIDAD COMO LA PARIENTE POBRE DE LOS SUEÑOS... EN ESE SENTIDO, QUIERO HACERLES NOTAR QUE NUESTROS SUEÑOS, NUESTRAS REALIDADES VIRTUALES. ESAS ABSTRACCIONES QUE DISFRUTAMOS Y QUE NOS RODEAN, SON SUBCONJUNTOS DE REALIDAD' - Christopher Nolan"
+
+        },
+        {
             "id": "p24",
             "categoria": "Adultos",
             "Nombre": "365",
@@ -224,7 +289,8 @@
             "reseña": "Laura Biel es ejecutiva que se convierte en la obsesión de Massimo Torricelli, un jefe de la mafia herido en un atentado mortal contra su padre. Luego de recuperarse de sus heridas, Massimo decide buscar a Laura a toda costa y secuestrarla, ofreciéndole 365 días para que se enamore de él",
             "puntos": "6"
 
-        }, {
+        }, 
+        {
             "id": "p25",
             "categoria": "Aventura",
             "Nombre": "Maze runner",
@@ -232,6 +298,17 @@
             "img": "./img/mazerunner.jpg",
             "reseña": "Thomas es un adolescente cuya memoria fue borrada y que ha sido encerrado junto a otros chicos de su edad en un laberinto plagado de monstruos y misterios. Para sobrevivir, tendrá que adaptarse a las normas y a los demás habitantes del laberinto",
             "puntos": "8"
+        },
+        {
+            "id": "p67",
+            "categoria": "Suspenso",
+            "Nombre": "Bajo Cero",
+            "año":"2021",
+            "actores":"avier Gutiérrez, Karra Elejalde, Luis Callejo, Patrick Criado, Andrés Gertrudix, Isak Férriz, Miquel Gelabert, Édgar Vittorino, Florín Opritescu, Ángel Solo",
+            "director":"luís Quílez",
+            "puntos":"8",
+            "img": "./img/bajocero.jpg",
+            "reseña":"UNA INTERESANTE PRODUCCIÓN ESPAÑOLA DE NETFLIX. CON UN GUION QUE NO DEJA NADA AL AZAR. ¿EL MEJOR FILM ESPAÑOL DE LA plataforma. EN UNA NOCHE FRÍA DE INVIERNO, UN REPENTINO TRASLADO DE PRISIONEROS SALE MAL CUANDO UN MISTERIOSO ASALTA EL BLINDADO DONDE VAN LOS PRISIONEROS, PERO ¿QUÉ QUIERE DE VERDAD?. Javier Gutierrez.. PROTAGONIZA LA PELÍCULA BRILLANTEMENTE EN EL ROL DE UN POLICÍA APEGADO A LAS NORMAS, QUE TENDRÁ QUE REFUGIARSE EN EL BLINDADO JUNTO CON LOS PRISIONEROS. DONDE COMENZARÁ UNA BATALLA ENTRE LO SENTIMENTAL Y LO ÉTICO. Actuaciones.. JUNTO A LA DE JAVIER GUTIÉRREZ HAY GRANDES ACTUACIONES COMO LA DE PATRICK CRIADO, ISAK FERRIZ (PRISIONEROS) Y KARRA ELEJALDE (ASALTANTE). COMO TAMBIÉN OTRAS QUE DEJAN MUCHO QUE DESEAR. personajes..ALGO QUE ME ENCANTÓ, DESDE SUS PRESENTACIONES Y COMO CADA UNO REPRESENTA ALGO EN LA HISTORIA Y NO SON SOLO PIEZAS SUELTAS DEL GUION. DESDE LOS QUE TIENEN POCOS MINUTOS EN PANTALLAS HASTA LOS QUE MÁS TIEMPO VEMOS. Critica al sistema.. CLARAMENTE LA PELÍCULA BAJA LÍNEA EN EL TEMA. EN ESTE CASO EL SISTEMA JURÍDICO DE ESPAÑA, PERO QUE TRANQUILAMENTE LO PODEMOS TRASLADAR AL MENOS A CUALQUIER PAÍS DE LATINOAMÉRICA. No apta para detallistas.. SI SOS DE VER CADA DETALLE DEL FILM TE HARÁ RUIDO UN PAR DE COSAS QUE CARECEN DE BASES ARGUMENTATIVAS Y OTRAS DE PRODUCCIÓN. PERO EN ESTE CASO ESTÁ BUENO DEJARSE LLEVAR POR LO QUE NOS quiere contar "
         },
         {
             "id": "p26",
@@ -242,6 +319,17 @@
             "reseña": "Una brillante película de nuestro cine nacional, me animo a decir una de las mejores de la historia. Que con una frase deja inmortalizada una escena 'Me dijiste que era perpetua...' Benjamín Espósito es oficial de un Juzgado de Instrucción de Buenos Aires recién retirado. Obsesionado por un brutal asesinato ocurrido veinticinco años antes, en 1974, decide escribir una novela sobre el caso, del cual fue testigo y protagonista. Reviviendo el pasado, viene también a su memoria el recuerdo de una mujer, a quien ha amado en silencio durante todos esos años",
 
             "puntos": "10"
+        },
+        {
+            "id": "p52",
+            "categoria": "Drama",
+            "Nombre": "The father",
+            "año": "2020",
+            "actores": "Anthony Hopkins, Olivia Colman, Imogen Poots, Rufus Sewell, Olivia Williams, Mark Gatiss, Eyie Wray, Ayesha Dharker",
+            "img": "./img/thefather.jpg",
+            "reseña": "UNA PELÍCULA EMOTIVA, INTELIGENTE, CON ACTUACIONES DESCOMUNALES, UN GUION DETALLISTA Y UNA NARRATIVA ALUCINANTE. ANTHONY ES UN HOMBRE DE 83 AÑOS QUE LUCHA CON UN NOTORIO DETERIORO MENTAL DONDE SU MENTE CONFUNDE LAS REALIDADES, MIENTRAS QUE SU HIJA ANNE SUFRE PAULATINAMENTE LA PÉRDIDA DE SU PADRE Y SE AFERRA AL DERECHO DE VIVIR SU PROPIA VIDA.ALUCINANTE. aNTHONY HOPKINS ES QUIEN JUSTAMENTE INTERPRETA A ANTHONY DE UNA MANERA ALUCINANTE CON TODOS LOS TINTES QUE UN DETERIORO MENTAL PUEDO CAUSAR, CON CAMBIOS DE HUMOR, DE EDAD MENTAL Y LA CONFUSIÓN DE LA PROPIA REALIDAD. ACTUACIÓN NOMINADA A LOS ÓSCARS DE ESTE AÑO. OLIVIA COLMAN CON OTRA ACTUACIÓN EXCELENTE, ELLA ES ANNE, LA HIJA DE ANTHONY QUE DEBERÁ AFRONTAR ESTA PÉRDIDA GRADUAL DE SU PADRE Y DEBATIR INTERNAMENTE SOBRE SU DERECHO A SEGUIR VIVIENDO, COSA QUE TRAERÁ POLÉMICAS EN EL MENSAJE DE LA PELÍCULA. TAMBIÉN NOMINADA A LOS ÓSCARS. NARRATIVA.. LA HISTORIA NO ES UNA GRAN NOVEDAD, PERO LA FORMA EN NARRAR ESTA HISTORIA SI ES LO IMPACTANTE. ASÍ COMO EN SOUND OF METAL NOS BUSCAN METER EN LA AUDICIÓN DEL PERSONAJE, EN ESTE FILM ES REVIVIR EN IMÁGENES LO QUE A ESTE SEÑOR LE ESTA OCURRIENDO. eMOTIVA.. LA HISTORIA DE POR SÍ YA ES TRISTE, PERO SI SE AGREGA ESTA VISIÓN DESDE EL LADO DE QUIEN LA PADECE CON LA BRILLANTE ACTUACIÓN DEL PROTAGONISTA Y CON UN CLIMA MÁS TEATRAL ES IMPOSIBLE QUE NO TE CONMUEVA Y HASTA LOGRE SACARTE UNA LAGRIMA, COMO EN MI CASO. LA HISTORIA ESTÁ BASADA EN LA OBRA DE TEATRO HOMÓNIMA DEL PROPIO DIRECTOR Y GUIONISTA DE LA PELÍCULA, CUAL SU PRIMERA PRESENTACIÓN FUE EL 11 DE SEPTIEMBRE DE 2012 ALUCINANTE. FLORIAN ZELLER BRILLA EN LA ADAPTACIÓN DE SU OBRA DE TEATRO, EN UN GUION ESPECTACULAR (NOMINADO A LOS PRÓXIMOS ÓSCARS) Y UNA INVENTIVA EN LA NARRATIVA EXCELENTE, PERO EN LA LABOR DE DIRECTOR HAY PEQUEÑOS MOMENTOS QUE NO ME GUSTARON COMO EL EXCESO DE PLANO"
+
+
         },
         {
             "id": "p27",
@@ -255,6 +343,58 @@
 
         },
         {
+            "id": "p53",
+            "categoria": "Ciencia Ficcion",
+            "Nombre": "Godzilla vs King Kong",
+            "año": "2021",
+            "director": "Adam Wingard",
+            "actores": "Alexander Skarsgard, Rebecca Hall, Demian Bichir, Millie Bobby Brown, Eiza González, Shun Oguri, Kyle Chandler, Julian Dennison, Zhang Ziyi, Van Marten.",
+            "img": "./img/godzilla.jpg",
+            "reseña": "UN CROSSOVER ÉPICO, UNA PELÍCULA CON GRANDES MOMENTOS Y OTROS FLOJOS DE PAPELES. ERA LO QUE ESPERABA. GODZILLA EMPIEZA A ATACAR SIN RAZÓN APARENTE, MIENTRAS QUE LOS CUIDADORES DE KONG EMPRENDEN UN PELIGROSO VIAJE EN BUSCA DE SU HOGAR HASTA QUE ESTOS DOS TITANES CHOÇAN EN EL CAMINO. CLARAMENTE LOS MEJORES MOMENTOS DE LA PELÍCULA SON LAS PELEAS ENTRE ESTOS TITANES. DONDE SE NOTAN LAS FORTALEZAS Y DEBILIDADES DE CADA UNO. CON UNOS EFECTOS ESPECIALES INCREÍBLES. era lo que esperaba.. YA CON LOS ANTECEDENTES DE LAS OTRAS PELÍCULAS DEL MONSTERVERSE SE PREVENÍA QUE LOS HUMANOS NO ERAN EL FUERTE DE LA PELÍCULA Y EN ESTE FILM SE CONFIRMA. GRANDES PELEAS ENTRE LOS TITANES, PERO POCO APORTE DE LOS.PERSONAJES HUMANOS. millie bobby brown UNO DE LOS DOS PERSONAJES HUMANOS QUE APORTAN ALGO A LA TRAMA, Y EN ESTE CASO CON UNA BUENA ACTUACIÓN, APORTA EN LA CONTINUIDAD DE LA HISTORIA DE GODZILLA Y AL DESCUBRIR LAS RAZONES DEL TITÁN. kaylee hottle EL PERSONAJE HUMANO QUE SIN HABLAR APORTA MUCHO EN LA HISTORIA, DESDE UN LADO SENTIMENTAL QUE HASTA TE PUEDE HACER CAER UNA LAGRIMA. Banda sonora ALGO QUE ME SORPRENDIÓ MUCHO PARA BIEN, ENCARGADA POR THOMAS B. HOLKENBORG, QUIEN YA DEMOSTRÓ SU TALENTO EN OTRAS BANDAS DE SONIDOS COMO MAD MAX: FURY ROAD, EN EL SNYDER CUT, SU PARTICIPACIÓN EN LA DE BATMAN VS SUPERMAN Y EN DEADPOOL. El final... CLARAMENTE ES UN FINAL que NO VI VENIR, UN GRAN GIRO EN LA PELÍCULA QUE VA A GENERAR UNA GRIETA ENTRE LOS QUE LES GUSTARÁ Y LOS QUE ESPERABAN OTRA COSA. ¿LES GUSTÓ ESE GIRO FINAL?"
+
+        },
+        {
+            "id": "p54",
+            "categoria": "Suspenso",
+            "Nombre": "El cuervo",
+            "año": "2020",
+            "actores": "John Cusack, Alice Eye, Luke Evans, Brendan Gleeson, Kevin McNally, Oliver Jackson-Cohen, Jimmy Yuill, Sam Hazeldine, Pam Ferris, Brendan Coyle.",
+            "director": "James McTeigue",
+            "img": "./img/elcuervo.jpg",
+            "puntos": "8",
+            "reseña": "UNA PELÍCULA CON ACTUACIONES DE LUJO Y UNA TRAMA MÁS QUE INTERESANTE SOBRE LOS RELATOS DEL ESCRITOR EDGAR ALLAN POE. UN ASESINO ANDA SUELTO POR BALTIMORE RECREANDO ESCENAS DE LAS ESCRITURAS DE UNO DE LOS MEJORES ESCRITORES DEL SIGLO XIX, EDGAR ALLAN POE, QUIEN SE UNE A LA POLICÍA PARA ENCONTRARLO. john cusack EL GRAN ACTOR ESTADOUNIDENSE INTERPRETA A POE EXCELENTEMENTE. UN ESCRITOR EN BUSCA DE RECONOCIMIENTO, FALTA DE RELACIONES PERSONALES Y EN BANCARROTA QUE SE UNIRÁ A LA POLICÍA PARA ATRAPAR AL ASESINO ARRIESGANDO TODO LO QUE TIENE. quien fue edgar allan poe ? FUE UN ESCRITOR, POETA Y CRÍTICO DE LOS MÁS INFLUYENTES EN EL SIGLO XIX, RECONOCIDO POR SUS CUENTOS DE TERROR Y CONSIDERADO COMO EL INVENTOR DE LOS RELATOS DETECTIVESCOS. UN GRAN CREADOR DE MISTERIOS EN SUS NOVELAS, PERO SU MAYOR MISTERIO ES SU EXTRAÑA MUERTE A LOS 40. que es verdad en la pelicula ? LA TRAMA EN SI ES PURA FICCIÓN, YA QUE NO SE SABE CÓMO MURIÓ POE, SI SABE QUE LO ENCONTRARON DESORIENTADO CON ROPA DESALINEADA Y REPITIENDO SOLO UNA PALABRA 'REYNOLDS' DURANTE CUATRO DIAS HASTA SU MUERTE. LO QUE SI SON VERIDICOS SON LOS PERSONAJES Y LAS CUENTOS MENCIONADOS. Ambientacion ALGO QUE SE PUEDE DEJAR PASAR POR ALTO ES LA EXCELENTE AMBIENTACIÓN DEL FILM. EN LA CIUDAD DE BALTIMORE A PRINCIPIOS DEL SIGLO XIX, DESDE EL VESTUARIO, LOS DIÁLOGOS Y LA PUESTA EN ESCENA. ¿QUÉ NO ME GUSTÓ? LA POCA IMPORTANCIA QUE LE DIERON A LA SUBTRAMA DE ESTA MÍSTICA PERSONALIDAD DE LA LITERATURA MIENTRAS VIVÍA UNA DECADENCIA EVIDENTE, ALGUNO EFECTOR ESPECIALES Y LAS TRANSICIONES FORZADAS PARA HACER ENCAJAR LA HISTORIA. Polemica UNA PELÍCULA QUE EN SU MOMENTO TRAJO UN DEBATE PARA LOS FANS DEL ESCRITOR, SOBRE SI LA PELÍCULA DEJABA BIEN REPRESENTADA LA FIGURA DEL ESCRITOR. MUCHOS DICEN QUE NO POR LA FALTA DE TERROR QUE LO CARACTERIZABA Y OTROS QUE SI YA QUE FUE EL PRECURSOR DE LOS RELATOS DETECTIVESCOS."
+
+        },
+        {
+            "id": "p55",
+
+            "categoria": "Comedia",
+            "Nombre": "Yes day",
+            "año": "2021",
+            "actores": "Jannifer Garner, Edgar Ramirez, Jenna Ortega, Julian Lerner, Nat Faxon, June Diane Raphael, Ava Allan, Jordan Johnson-Hinds, Leonardo Nam, Greg Cromer",
+            "director": " Miguel Arteta",
+            "img": "./img/yesday.jpg",
+            "puntos": "7",
+            "reseña": "UNA INTERESANTE Y DIVERTIDA COMEDIA DE NETFLIX. CON BUENAS ACTUACIONES, PERO TAMBIÉN CON SUS +PUNTOS BAJOS. PARA ALLISON Y CARLOS EL 'NO' ES UNA PALABRA MUY COMÚN HACIA SUS HIJOS, HASTA QUE UN DÍA DECIDEN DAR A SUS HIJOS UN 'YES DAY', UNA AVENTURA QUE LOS UNIRÁ COMO FAMILIA. JENNIFER GARNER LA ACTRIZ NORTEAMERICANA INTERPRETA A ALLISON SUMAMENTE BIEN, UNA MADRE QUE LOS HIJOS LA TILDAN DE ABURRIDA UNA DE LAS RAZONES PARA EMPEZAR EL YES DAY. CON EL CORRER DE LOS MINUTOS SE VUELVE EL ALMA Y EL EJE DEL FILM. EDGAR Ramirez EL ACTOR VENEZOLANO INTERPRETA A CARLOS, UN PADRE CON UNA GRAN ADICCIÓN AL TRABAJO QUE DEBERÁ DEJAR TODO COMO CONDICIÓN PARA ESTE GRAN DÍA.UNA ACTUACIÓN TÍMIDA QUE LE DA UN PLUS AL PERSONAJE. Los hijos.. INTERPRETADOS POR JENNA ORTEGA, JULIAN LERNER Y EVERLY CARGANILLA COMPLETAN ESTA FAMILIA DE 5. UNA FAMILIA QUE GRACIAS A SUS ACTUACIONES GENERAN UNA QUÍMICA ENTRE LOS PERSONAJES EXCELENTE. la historia ESTÁ BASADA EN EL LIBRO HOMÓNIMO DE LA ESCRITORA ESTADOUNIDENSE AMY KROUSE ROSENTHAL PUBLICADO EL 5 DE MAYO DE 2009. Mensaje CLARAMENTE LA PELÍCULA BUSCA DEJAR UN LINDO MENSAJE DE UNIÓN FAMILIAR, ESCUCHANDO TANTOS A LOS PADRES Y SUS LÍMITES COMO TAMBIÉN A LOS HIJOS Y SUS NECESIDADES DE DIVERTIRSE. Otra pelicula.. UNA PELÍCULA QUE ME HIZO ACORDAR A OTRA MUCHO MÁS CÓMICA DE JIM CARREY ISI SEÑORI (MUY RECOMENDABLE SI NO LA VISTE) YA SEA POR SU PREMISA O EL RECURSO EN VARIOS CHISTES MEDIOS CLICHÉS. Que no me gusto? QUE NO PROFUNDIZA JAMÁS EN NINGUNO DE LOS TEMAS QUE BUSCA MOSTRAR, COMO EL TEMA DE LAS RESPONSABILIDADES, LAS COMUNES DISCUSIONES ENTRE LOS HIJOS ADOLESCENTES CON SUS PADRES Y LAS CONSECUENCIAS QUE PUEDE TRAER EL DECIR TODO QUE NO."               
+
+
+
+
+        },
+        {
+            "id": "p56",
+            "categoria": "Ciencia Ficcion",
+            "Nombre": "Zack Snyder's",
+            "año": "2021",
+            "img": "./img/zack.jpg",
+            "puntos": "9",
+            "director":" Zack Snyder",
+            "actores":"Ben Affleck, Gal Gadot, Ezra Miller, jason Momoa, Ray Fisher, Henry Cavill, Amy Adams, Joe Morton, Amber Heard, Jared Leto",
+            "reseña":"UN REGALO DEL DIRECTOR A LOS AMANTES DEL CINE DE SUPERHÉROES. DONDE LA EPICIDAD ES LO QUE predomina. TRAS LA MUERTE DE SUPERMAN LA TIERRA ESTÁ POR SER ATACADA POR MISTERIOSAS DEIDADES, MIENTRAS QUE BRUCE WAYNE Y DIANA PRINCE FORMAN UN GRUPO DE METAHUMANOS PARA detener a de steppenwolf, dessad y darkseid. PERSONAJEs.. A DIFERENCIA DE LA LIGA DE LA JUSTICIA DE 2017, ESTE FILM NO SÓLO AGIGANTA A LOS RELEGADOS DEL FILM ANTERIOR SINO QUE EMPODERA LAS FIGURAS DE AQUAMAN, BATMAN, WONDER WOMAN Y AL MISMÍSIMO SUPERMAN. Cybort UNO DE LOS MÁS NINGUNEADOS EN LA PELÍCULA ANTERIOR TOMA UN PROTAGONISMO QUE LO CONVIERTE EN EL ALMA DE ESTA PELÍCULA. DESDE LO EMOCIONAL Y MÍSTICO DEL PROPIO PERSONAJE. SU HISTORIA LE DA SENTIDO A MUCHAS COSAS QUE LA PELÍCULA ANTERIOR NO EXPLICABA. FLASH OTRO DE LOS GRANDES REZAGADOS DEL 2017, EL CARISMA DE LA PELÍCULA PARA POR ÉL. CON UNA ESCENA EN PARTICULAR QUE LO AGIGANTA Y LO LLEVA AL NIVEL QUE SE MERECE EL PERSONAJE. Que mejoro ? EXACTAMENTE TODO, DESDE LA ESENCIA DE LOS PERSONAJES, LAS EXCELENTES ESCENAS DE ACCIÓN (CON UN SLOW MOTION GENIAL) Y SOBRE TODO EL DARLE UN PORQUE A TODO. COSA QUE LA ANTERIOR NUNCA ESPECIFICABA NADA. Dioses que fallan UNA DE LAS COSAS QUE MÁS DE GUSTARON ES LA NOTORIA IDEA DEL DIRECTOR EN HACER VER A LOS PERSONAJES COMO MISMÍSIMOS DIOSES, PERO QUE A LA VEZ TAMBIÉN FALLAN Y NECESITAN APOYO. El final AUNQUE, POR EL MOMENTO, LA PELÍCULA NO ES CONSIDERADA CANON, EL FINAL DEJA ABIERTO A MUCHAS NUEVAS PRODUCCIONES DE DC Y LOS FANÁTICOS VAN A QUERER QUE ZACK SNYDER SEA QUIEN ESTÉ A CARGO."
+
+        },
+        
+        {
             "id": "p51",
             "categoria": "Suspenso",
             "Nombre": "The game",
@@ -263,9 +403,8 @@
             "director": "Sylvester Stallone",
             "puntos": "8",
             "img": "./img/game.jpg",
-            "reseña": ""
-        }
-        ,
+            "reseña": "repasemos una pelicula de un siempre cuestionado david fincher.. Un multimillonario nicholas van orton tiene todo lo material que puede desear. En el dia de su cumpleaños su hermano menor decide hacerle un regalo muy especial que lo llevara al desborde a su apatico hermano.. Michael douglas con una asombrosa actuacion que desborda de matices que te llevaran a la confusion constante, interpreta a este multimillonario que entrara en un juego que javas se olvidara, pero le cambiara su perspectiva para siempre. El elenco en distintos momentos del film se le suman a douglas, sean penn (como su hermano) y deborah kara unger con actuaciones brillantes que aportan muchisimo en la historia y sembrar mas confucion e intriga.. esta pelicula, es para ver mas de una vez? el film te atrae atravez de la sorpresa e intriga que siembra constantemente, en mi opinion no es una pelicula que cada vez que la veas te sorprendera, pero si encontraras detalles en los dialogos y puestas en escena que a primera vista por ahi no notaste. El final con el correr de la pelicula podes imaginarte diversos tipos de finales y es muy dificil que aciertes con el verdadero final. Te puede gustar o no (ami no me gusto) pero no caben dudas que es la sorpresa maxima dentro de un sinfin de intrigas"
+        },
         {
             "id": "p28",
             "categoria": "Drama",
@@ -307,6 +446,17 @@
 
         },
         {
+            "id": "p64",
+            "categoria": "Accion",
+            "Nombre": "El Irlandes",
+            "año": "2019",
+            "actores":"Robert De Niro, Al Pacino, Joe pesci, Stephen Graham, Harvey Keitel, Bobby Cannavale, Anna Paquin, Ray Romano, Kathrine Narducci, Jesse Plemons",
+            "director":"Martin Scorsese",
+            "puntos":"9",
+            "img":"./img/elirlandes.jpg",
+            "reseña":"REPASEMOS ESTA OBRA MAESTRA DE MARTIN SCORSESE. UN RELATO REAL SOBRE MAFIA, AMISTAD, LEALTAD Y SOBRE TODO DE CONSECUENCIAS. DESDE LA MIRADA DEL ESTAFADOR Y SICARIO FRANK SHEERAN, NOS CUENTA LA HISTORIA DEL CRIMEN ORGANIZADO EN ESTADOS UNIDOS. DESDE LA DÉCADA DEL 50 HASTA EL SIGLO 21 Y SU RELACIÓN CON EL SINDICALISTA JIMMY HOFFA. Robert de niro ES QUIEN INTERPRETA A FRANK DE UNA FORMA EXCELENTE, UN PEQUEÑO ESTAFADOR QUE PRONTAMENTE IRA ESCALANDO EN EL PODER HACIENDO AMISTADES DENTRO DEL SINDICATO Y LA MAFIA.Elenco de lujo.. COMPLETAN EL TRÍO PROTAGÓNICO CON ACTUACIONES DESLUMBRANTES, DOS LEYENDAS DEL CINE, AL PACINO COMO JIMMY HOFFA Y JOE PESCI COMO RUSSELL BUFALINO. ¿ que mas agregar de estas dos leyendas?. La historia.. BASADA EN EL LIBRO 'I HEARD YOU PAINT HOUSES', DE CHARLES BRANDT PUBLICADO EN 2004. SOBRE LA VIDA DE JIMMY HOFFA Y SU DESAPARICIÓN QUE SIGUE SIENDO UN MISTERIO PARA EL PROPIO FBI. Quien fue jimmy Hoffa ? FUE UN SINDICALISTA NORTEAMERICANO DE LA HERMANDAD DE CAMIONEROS, QUIEN TUVO MUCHA INJERENCIA EN EL CRIMEN ORGANIZADO DE LA ÉPOCA Y VÍNCULOS CON LA MAFIA. UN DÍA DESAPARECIÓ Y NADIE SABE QUÉ PASÓ CON ÉL. Martin Scorsese.. SIN DUDAS UNO DE LOS MEJORES DIRECTORES DE LA HISTORIA Y LO DEMUESTRA EN ESTA PELÍCULA. ENCONTRANDO EL EQUILIBRIO PERFECTO ENTRE EL DRAMA, LOS TINTES DE HUMOR Y LA VIOLENCIA."
+        },
+        {
             "id": "p31",
             "categoria": "Thriller",
             "Nombre": "The prestige",
@@ -344,6 +494,17 @@
             "año": "2000"
 
 
+        },
+        {
+            "id": "p65",
+            "categoria": "A",
+            "Nombre": "Drama",
+            "año":"2020",
+            "actores":"Frances McDormand, David Strathairn, Linda May, Charlene Swankie, Bob Wells, Gay DeForest, Patricia Grier",
+            "director":"Chloé Zhao",
+            "img":"./img/nomadland.jpg",
+            "reseña":"UNA DE LAS PELÍCULAS FAVORITAS PARA LA TEMPORADA DE PREMIOS. UN RELATO SINCERO QUE NO BUSCA ENTRETENER SINO LLEVAR UN MENSAJE MÁS PROFUNDO. FERN LO PERDIÓ TODO DURANTE LA RECESIÓN DE 2011, SU TRABAJO, SU CASA, SU MARIDO Y HASTA EL PUEBLO DONDE VIVÍA. AHORA EN UNA CARAVANA COMIENZA UNA VIDA NOMADE POR EL OESTE DE ESTADOS UNIDOS. Frances mcdormand LA RECONOCIDA ACTRIZ, COMO NOS TIENE ACOSTUMBRADOS, BRILLA UNA VEZ MÁS. INTERPRETA A FERN EN EL FILM CON UNA ACTUACIÓN SUMAMENTE NATURAL ENTRE EL DRAMA Y LO POÉTICO. GRAN CANDIDATA EN LOS proximos oscars. La historia.. ESTÁ BASADA EN EL LIBRO NO FICCIÓN 'NOMADLAND: SURVIVING AMERICA IN THE TWENTY-FIRST CENTURY' DE JESSICA BRUDER, PUBLICADO EL 19 DE SEPTIEMBRE DE 2017. Fotografia.. UNO DE LOS PUNTOS MÁS ALTOS DEL FILM, NOS REGALA HERMOSOS RETRATOS DE LA PUESTA DEL SOL MEZCLÁNDOLO CON LA HISTORIA DE LA EXISTENCIA HUMANA. TANTO LA FOTOGRAFÍA COMO LA ACTUACIÓN DE FRANCES SON LO QUE SOSTIENEN EL FILM. Chloe zhao DIRECTORA Y ENCARGADA DE LA ADAPTACIÓN DEL GUION, BUSCA SALIR DEL DOLOR PARA CONSTRUIR UN RELATO POSITIVO DENTRO DE LO NEGATIVO. SIN DUDAS SU MEJOR FILM. Una triologia ? LA DIRECTORA TIENE 3 PELÍCULAS, LAS 3 SOBRE LA EXISTENCIA HUMANA Y SUS CONFLICTOS, EN 3 ETAPAS DE LA VIDA. LA PRIMERA FUE SONGS MY BROTHERS TAUGHT ME (EN LA NIÑEZ), LA SEGUNDA FUE THE RIDER (ADULTOS) Y NOMADLAND (ADULTO MAYOR). "
+            
         },
         {
             "id": "p34",
@@ -391,8 +552,8 @@
             "puntos": "9",
             "img": "./img/ellobo.jpg",
             "director": "Martin Scorsese",
-            "actores":"Leonardo DiCaprio, Johan Hill, Margot Robbie, Kyle Chandler, Cristin Milioti, Rob Reiner, Matthew McConaughey, PJ Byrne, Jon Bernthal, Jean Dujardin",
-            "reseña":"Aunque no es de mis peliculas favoritas de martin scorsese por su trama, es inegable sus excelencias tecnicas y sus cualidades. En los 80 jorgan belfort era un joven con grandes ambiciones en el negocio de las acciones, con la ambicion, obcesion y una gran habilidad para la venta forjo su apodo de lobo de wall street sin importar los limites legales. Leonardo DiCaprio es quien interpreta a jordan belfort en el film, con una actuacion descomunal como nos tiene acostumbrados este gran actor sumandole una cuota de humor espetacular. un personaje que no conoce de limites lo que lo lleva al estrellato y a estrellarse por la ambicion. Jonah hill el es donnie azoff en la pelicula, socio y amigo de jordan belfort que lo acompaña no en los exitos economicos sino tambien en el camino de las adicciones y la ambicion, con una gran actuacion no solo funciona como la mano derecha de belfort sino como un gran pilar en el humor del film. La historia esta inspirada en un hecho real, el guion es una adaptacion del libro homonimo, escrito por su propio jordan belfort publicado en septiembre de 2007. quien cuenta con un cameo en la pelicula. Oscars.. fue nominada a mejor actor (leonardo dicaprio), mejor director (scorsese), mejor actor de reparto (jonah hill), mejor guion adaptado (terrence winter) y a mejor pelicula. lamentablemente no gano ninguna de las categorias"
+            "actores": "Leonardo DiCaprio, Johan Hill, Margot Robbie, Kyle Chandler, Cristin Milioti, Rob Reiner, Matthew McConaughey, PJ Byrne, Jon Bernthal, Jean Dujardin",
+            "reseña": "Aunque no es de mis peliculas favoritas de martin scorsese por su trama, es inegable sus excelencias tecnicas y sus cualidades. En los 80 jorgan belfort era un joven con grandes ambiciones en el negocio de las acciones, con la ambicion, obcesion y una gran habilidad para la venta forjo su apodo de lobo de wall street sin importar los limites legales. Leonardo DiCaprio es quien interpreta a jordan belfort en el film, con una actuacion descomunal como nos tiene acostumbrados este gran actor sumandole una cuota de humor espetacular. un personaje que no conoce de limites lo que lo lleva al estrellato y a estrellarse por la ambicion. Jonah hill el es donnie azoff en la pelicula, socio y amigo de jordan belfort que lo acompaña no en los exitos economicos sino tambien en el camino de las adicciones y la ambicion, con una gran actuacion no solo funciona como la mano derecha de belfort sino como un gran pilar en el humor del film. La historia esta inspirada en un hecho real, el guion es una adaptacion del libro homonimo, escrito por su propio jordan belfort publicado en septiembre de 2007. quien cuenta con un cameo en la pelicula. Oscars.. fue nominada a mejor actor (leonardo dicaprio), mejor director (scorsese), mejor actor de reparto (jonah hill), mejor guion adaptado (terrence winter) y a mejor pelicula. lamentablemente no gano ninguna de las categorias"
 
         },
         {
@@ -414,7 +575,7 @@
             "img": "./img/junglecruise.jpg",
             "reseña": "Una nueva película de Disney con un elenco de lujo y visualmente bella, pero olvidaron lo más importante la historia. En una selva amazónica del siglo xx Frank, un experto estafador y capitán, navegara junto a la botánica Lily Houghton para verificar un mito, en el camino deberán enfrentarse a un capitán alemán y a la peligrosa jungla.Dwayne JohnsonEs quien interpreta a Frank, este experto capitán que conoce las amazonas como la palma de su mano.Un rol que ya le sienta cómodo al actor, pero que fuera de contexto no sabes si estás viendo otra versión de Jumanji o una remake de Journey 2. Emily Blunt Quien interpreta a la botánica Lily Houghton que busca hacerse un camino dentro de una sociedad machista en esta aventura.En este caso si me gustó su actuación en un papel con el equilibrio perfecto entre comedia y drama siempre en tono de una película Disney.  La historia Aunque suene raro la película está basada en una atracción de Magic kingdom de Disneyland.Atracción que gracias a esta película y nuevas sociedades está siendo renovada con detalles nuevos del film.Sin dudas sirve como campaña publicitaria para la atracción. Los antagonistas En mi opinión lo peor del film, sin mucho argumento que los justifique, poca participación y no entiendo como un actor de la talla de Jesse Plemons que va a protagonizar la próxima película de Martin Scorsese se preste a una bajeza como esta. Lo Visual Claramente lo mejor del film es la parte visual, con toda la variedad de colores que caracterizan al amazonas, la vestimenta de la época y los excelentes momentos del CGI que nos regala la película. Jaume Collet - Serra El español es quien está a cargo de la dirección, su debut dentro de una película de Disney y sobretodo de un film para toda la familia, ya que anteriormente trabajo en producciones de suspenso y terror.En esta ocasión se podría decir que no fue su mejor trabajo dando una película desequilibrada ",
             "actores": " Dwayne Johnson, Emily Blunt, Jesse Plemons, Edgar Ramirez, Jack Whitehall, Paul Giamatti, Dani Rovira, Quim Gutiérrez, Veronica Falcón, Raphael Alejandro",
-            "director":"Jaume Collet-Serra",
+            "director": "Jaume Collet-Serra",
             "puntos": "5"
         },
         {
@@ -425,9 +586,21 @@
             "puntos": "7",
             "reseña": "Una película entretenida con actuaciones que van de menor a mayor y una idea interesante, pero que pintaba para ser más de lo que fue. Argumento: Una familia descubre una playa paradisiaca para pasar unas vacaciones, pero lo que no sabían es que el tiempo en esa playa no pasa igual que fuera de ella. Actuaciones: Las actuaciones le hacen justicia al argumento con el pasar del tiempo van en crecimiento, Como en el caso de Vicky Krieps y Gael García Bernal. También nos encontramos con grandes actuaciones desde el primer minuto como el caso de Alex Wolff, Thomasin McKenzie y Rufus Sewell ¿lo mejor? La variedad de los personajes con sus distintas características, el concepto de cómo afecta el avance del tiempo no solo a nivel físico sino también mental y educativo, los detalles sobre como la oleada cubre las heridas y la poca fortaleza de los castillos de arena. La historia. El guion es una adaptación del comic sandcastle de Pierre Oscar Lévy y Frederik Peeters publicado en 2010. Una gran historia en una adaptación que mantiene el suspenso y el concepto de la historia pero que no termina de ser 100% efectiva. M. Night Shyamalan El director indio reconocido por su trabajo en la trilogía del protegido, sexto sentido entre otras es el encargado del guion un poco flojo a nivel de diálogos y un gran trabajo en la dirección armando buenos momentos de suspenso y elección de planos que acompañan excelentemente la historia. El final Cuando estás viendo la película te preguntas como va a terminar y seguramente jamás te esperarías la respuesta, justificando varias cosas que no cierran de algunos personajes y hasta trayendo un debate social/filosófico importante.  ¿Qué no me gustó? En mi opinión lo más flojo de la película es la sobre explicación de las cosas, algo que no solo se da en algunas partes de la película sino en todo el film. otro de los puntos bajos son el comienzo de algunas actuaciones. Fotografía y banda de sonido.. Algo que no es constante en calidad con el correr de las películas, pero si tienen sus buenos momentos sobre todo la banda de sonido ayuda a crear momentos de suspensos muy buenos y la fotografía se luce en casi toda la película a través de contrastes que ayudan en la narración y al resaltar lo importante. ",
             "director": "M. Night Shyamalan",
-            "actores":"Gael García Bernal, Vicky Krieps, Thomasin McKenzie, Rufus Sewell, Abbey Lee, Ken Leung, Alex Wolff, Eliza Scanlen, Embeth Davidtz, Gustaf Hammarsten, Nolan River",
+            "actores": "Gael García Bernal, Vicky Krieps, Thomasin McKenzie, Rufus Sewell, Abbey Lee, Ken Leung, Alex Wolff, Eliza Scanlen, Embeth Davidtz, Gustaf Hammarsten, Nolan River",
             "año": "2021"
 
+
+        },
+        {   
+            "id": "p61",
+            "Nombre": "Minari",
+            "categoria": "Drama",
+            "img": "./img/minari.jpg",
+            "puntos": "8",
+            "actores":"Steven Yeun, Han Ye-ri, Youn Yuh-jung, Alan Kim, Noel Cho, Will Patton, Scott Haze, Eric Starkey, Esther Moon",
+            "director":" Lee Isaac Chung.",
+            "año":"2020",
+            "reseña":"UN RELATO ÍNTIMO FAMILIAR SOBRE ALCANZAR EL SUEÑO AMERICANO. UN FILM QUE DARÁ QUE HABLAR EN LA TEMPORADA DE PREMIOS. AÑOS 80'. LA VIDA DE ESTA FAMILIA COREANA CAMBIA REPENTINAMENTE CUANDO SE MUDAN A ARKANSAS CON LA AMBICIÓN DE CUMPLIR EL SUEÑO AMERICANO. Alan kim EL ALMA DE LA PELÍCULA. INTERPRETA A DAVID BRILLANTEMENTE, UN NIÑO QUE SE VE INVERSO EN LOS CAMBIOS DE CULTURA Y ES LA UNIÓN DE TODOS LOS PERSONAJES. Actuaciones.. COMPLETAN LA FAMILIA STEVEN YEUN (PADRE), HAN YE-RI (MADRE), NOEL CHO (HERMANA) Y YOUN YUH-JUNG (ABUELA). TODOS PERSONAJES INTERESANTES Y QUE CUMPLEN UN PROPÓSITO EN EL FILM. Obsesion y ambicion.. CLARAMENTE EL FILM NOS MUESTRA UNA HISTORIA DE FAMILIA EN BUSCA DEL SUEÑO AMERICANO CON SUS AMBICIONES Y CONSECUENCIAS. Y LA OBSESIÓN QUE SEGUIR FIRME CON UNA IDEA Y LAS CONSECUENCIAS. Choques de cultura.. ALGO MUY LINDO QUE TIENE LA PELÍCULA ES VER LAS GRANDES DIFERENCIA DE CULTURA Y LAS GRANDES SIMILITUDES, SOBRE TODO EN LO HUMANO Y COMO EN LA DESESPERACIÓN SE ENCUENTRA ESA UNIÓN. lee isaac chung DIRECTOR Y GUIONISTA DEL FILM. LA CUAL LA CONSIDERA UNA SEMI AUTOBIOGRAFÍA DE SU INFANCIA, DONDE LOGRA HACER DE LO SENCILLO UN MAGNÍFICO TRABAJO, GRACIAS A SU NARRATIVA."
 
         },
         {
@@ -437,8 +610,8 @@
             "img": "./img/cielorojosangre.jpg",
             "puntos": "7",
             "año": "2021",
-            "actores":"Peri Baumeister, Graham McTavish, Dominic Purcell, Roland Møller, Chidi Ajufo, Rebecca Dyson-Smith, Alexander Scheer, Leonie Brill, Roy McCrerey, Gordon Brown",
-            "director" :"Peter Thorwarth",
+            "actores": "Peri Baumeister, Graham McTavish, Dominic Purcell, Roland Møller, Chidi Ajufo, Rebecca Dyson-Smith, Alexander Scheer, Leonie Brill, Roy McCrerey, Gordon Brown",
+            "director": "Peter Thorwarth",
             "reseña": "Una grata produccion alemana para netflix, kejos de ser una gran pelicula, pero superior a los basicos estrenos de la plataforma.. la historia ocurre en un avion secuestrado por terroristas donde dentro de el hay una mujer que debe revelar su oscuro secreto para intentar salvar al su pequeño hijo.Peri Baumeister La actriz alemana es quien interpreta a esta madre que oculta el secreto oscuro, una actuacion que va mas a menos en mi opinion, pero un personaje interesante demostrando el poder de la maternidad dentro de un descontrol absoluto. Alexander Scheer, en mi opinion lo mejor en actuacion en el film, con cambios muy rotundos desde el primer munuto, el mejore dentro del grupo de los 'malos', una gran actuacion que sobresale del resto del elenco. Algo que me gusto del film es que busca la logica de las cosas (Escena del auto) algo que dentro de las peliculas de este estilo dificilmente se encuentre, algo que se juega en contra en la pelicula es el mal manejo del marketing, desde el trailer sopoleando muchisimas partes de la pelicula como tambien el poster de la presentacin en la plataforma donde revela algo transcendetal en las bases de la pelicula, El final no me parecio malo, pero si poco claro en algunas cosas y sin arriesgarse a que haya una segunda parte no va a tener desde arranque una base solida"
         },
         {
@@ -449,29 +622,51 @@
             "puntos": "8",
             "reseña": "Una película con un enfoque claro donde se lucen los personajes principales y las interpretaciones de tres grandes actores. El Argumento.. Un experimentado sheriff y un joven detective de homicidios se juntan para atrapar a un asesino en serie que hace revivir cosas del pasado a todo el condado. Denzel Washington Es quien interpreta al experimentado sheriff Joe Deacon quien esconde un secreto que lo atormentará toda su vida. Un papel que le calza a la perfección al actor, logrando explotar al máximo el personaje con esa cuota de incertidumbre constante por su secreto. Rami Malek Interpreta al detective Jim Baxter, quien ya no sabe qué hacer para atrapar a este escurridizo asesino en serie y recurre a la ayuda de Deacon mientras lucha por la presión de los medios y la sociedad. Personalmente me pareció una actuación que va de menor a mayor con el correr de la película. Jared Leto Con una actuación magistral nominada a los globos de oro interpreta a Albert Sparma un reparador de electrodomésticos que se vuelve el principal sospechoso de esta serie de asesinatos, un personaje que gracias a la actuación de Leto se vuelve aterrador y repulsivo. Enfoque claro La película tiene un enfoque claro, que es el de llevar al extremo a sus personajes más que nada para que el espectador se ponga de lado de los detectives y todo lo que deben hacer para culpar al asesino, cosa que divide al espectador ya que no es el enfoque más utilizado en los policiales. El final Creo yo otro de los puntos que divide a la gente a la hora de ver el film. En mi opinión el final justifica el ritmo lento de la película ayudando a terminar de profundizar en los personajes principales, las similitudes entre ellos y sus objetivos dentro de la película. John Lee Hancock Director y guionista de la película vuelve a la fórmula de centrarse en sus personajes principales y los vínculos que los rodean como lo hizo en sus mejores películas “Un sueño posible” y ‘El sueño de Walt’ (ambas muy recomendables si no las viste). ¿Qué no me gustó? Por momentos la interpretación de Rami Malek me pareció un poco sobreactuada, el guion en si no me disgustó, pero me pareció bastante básico y escenas que me parecieron demás que simplemente parecieron de relleno",
             "director": "John Lee Hancock",
-            "actores":"Denzel Washington, Rami Malek, Jared Leto, Chris Bauer, Sofia Vassilieva, Natalie Morales, Terry Kinney, Michael Hyatt, Kerry O'Malley, Sheila Houlahan",
+            "actores": "Denzel Washington, Rami Malek, Jared Leto, Chris Bauer, Sofia Vassilieva, Natalie Morales, Terry Kinney, Michael Hyatt, Kerry O'Malley, Sheila Houlahan",
             "año": "2021"
 
-        }
-        ,
+        },
+        {
+            "id": "p62",
+            "Nombre": "Descuida, yo te cuido",
+            "categoria": "Suspenso",
+            "img": "./img/descuida.jpg",
+            "puntos": "8",
+            "actores":"Eiza González, Dianne Wiest, Chris Messina, Isiah Whitlock Jr, Macon Blair, Damian Young, Arthur Hiou, Jamie Ghazarian",
+            "director":"J Blakeson",
+            "año":"2021",
+            "reseña":"UN INTERESANTE ESTRENO DE NETFLIX. UNA PELÍCULA QUE MEZCLA EL THRILLER CON COMEDIA NEGRA. CON ACTUACIONES DE LUJO. MARLA GRAYSON ES UNA TUTORA LEGAL QUE SE APROVECHA DE ANCIANOS PARA ESTAFARLOS. SU NUEVA VÍCTIMA TERMINA SIENDO MÁS DIFÍCIL DE LO normal. Rosamund pike LA ACTRIZ BRITÁNICA INTERPRETA DE FORMA INSENSIBLE, SÍNICA Y MARAVILLOSA A ESTA ESTAFADORA. PAPEL POR EL CUAL ESTÁ NOMINADA A LOS GLOBOS DE.ORO DE ESTE AÑO. Elenco de lujo.. INTEGRAN EL ELENCO LA GANADORA DE DOS ÓSCARS DIANNE WIEST (COMO LA ANCIANA VÍCTIMA) Y EL GANADOR DE 4 PREMIOS EMMY Y UN GLOBO DE ORO PETER DINKLAGE, COMO EL ANTAGONISTA. pero, quien es el bueno ? ESE ES UNO DE LOS PUNTOS ALTOS DEL FILM, DONDE CLARAMENTE NO EMPATIZAS CON NINGUNO DE LOS DOS BANDOS Y ES UNA CONSTANTE PELEA ENTRE PERSONAJES SINIESTROS Y AMORALES. critica social.. CLARAMENTE, EXAGERANDO O NO (SU DIRECTOR DICE 'LAMENTABLEMENTE ESTOS TIPOS DE CASOS EXISTEN EN DEMASÍA'), LA PELÍCULA BUSCA MOSTRAR LOS GRISES DE UN SISTEMA JUDICIAL DENTRO DE UN CAPITALISMO SALVAJE. Que no me gusto ? ERRORES TÍPICOS QUE CAEN ESTE TIPO DE PELÍCULAS, DONDE TODO ESTÁ SERVIDO Y BAJO EL ALA DEL PODER DEL GUION, PERO QUE TERMINA HACIENDO RUIDO POR MOMENTOS."
+        },
+        {
+            "id": "p55",
+            "Nombre": "Principe en nueva york 2",
+            "categoria": "Comedia",
+            "img": "./img/principenuevayork.jpg",
+            "puntos": "4",
+            "actores":"Eddie Murphy, Arsenio Hall, James Earl Jones, Shari Headley, Jermaine Fowler, Leslie Jones, John Amos, Wesley Snipes, Vanessa Bell Calloway, Kiki Layne",
+            "director":"Craig Brewer",
+            "año":"2021",
+            "reseña":"LES NECESARIA UNA SECUELA 33 AÑOS DESPUÉS?, ¿PUEDE ESE MISMO HUMOR CAUSAR GRACIA TRES DÉCADAS despues? AKEEM VUELVE A NEW YORK CUANDO DESCUBRE QUE TIENE UN HIJO EN LA CIUDAD, PARA ASÍ LOGRAR CONVERTIRLO EN EL NUEVO REY DE ZAMUNDA.Eddie murphy QUIEN VUELVE A INTERPRETAR A AKEEM DE UNA MANERA CORRECTA, LEJOS DE SUS ACTUACIONES DESLUMBRANTES QUE ERAN HABITUALES HACE UN PAR DE AÑOS ATRÁS. Actuaciones.. LO MÁS DESTACABLE DE LA PELÍCULA (O LO ÚNICO) SON LAS ACTUACIONES, SOBRE TODO LAS INTERPRETACIONES DE WESLEY SNIPES, ARSENIO HALL Y LESLIE JONES. Era necesaria ? VOY A CONTESTAR LA PREGUNTA PARAFRASEANDO UN DIALOGO DENTRO DE LA PELÍCULA 'MUCHAS VECES LAS SECUELAS ARRUINAN LA IDEA ORIGINAL', Y SIN LUGAR A DUDAS ESTE ES UN CASO DE ESOS. Guion.. MAS QUE PARECER UN NUEVO GUION PARA CONTAR OTRA HISTORIA O CONTINUAR LA HISTORIA. EL GUION ES BÁSICAMENTE LO MISMO DE LA PRIMERA PELÍCULA, PERO CAMBIANDO PERSONAJES Y SOBREEXPLOTANDO LO MEJOR DE LA PELÍCULA ANTERIOR. COMO SIEMPRE ESCRIBO, LA COMEDIA EN MI OPINIÓN, ES EL GÉNERO MÁS SUBJETIVO DE TODOS. MUCHOS FILMS DE COMEDIA BUSCAN EXPONER UN TEMA DELICADO A TRAVÉS DEL HUMOR OTROS SIMPLEMENTE BUSCAN HACERTE REÍR. ESTA SECUELA A MÍ NO ME CAUSO NINGUNO DE LAS DOS. Se puede ver sin ver la primera? SINO VISTE LA PRIMERA ENTREGA (TE RECOMIENDO QUE LO HAGAS) SI PODÉS VER ESTA SECUELA, YA QUE LOS MOMENTOS RELACIONADOS ESTÁN SOBRE EXPLICADOS CUANDO SUCEDEN. Mismo humor.. LA PELÍCULA MANEJA EL MISMO HUMOR QUE SU PRIMERA ENTREGA, DONDE LO POLÍTICAMENTE INCORRECTO DE LOS 80 HOY ES UN CHISTE CASI SIN SENTIDO. CLARAMENTE ES UNA PELÍCULA DEDICADA A LOS FANS DE LA PRIMERA ENTREGA."
+
+        },
         {
             "id": "p42",
             "Nombre": "The Infiltrator",
             "categoria": "Suspenso",
             "año": "2016",
             "reseña": "Pelicula basada en hechos reales, con grandes actuaciones, pero que para muchos puede resultar un poco lenta,en los años 80 el agente robert mazur se infiltra en un cartel de drogras colombiano haciendose pasar por un importante empresario que los ayudara a lavar su dinero. bryan Cranston el brillante actor interpreta a nuestro protagonista robert mazur de una manera excelente y aunque obviamente este lejos de su papel de walter white su habilidad para explotar al personaje por momentos te hace comparalos. el elenco cuenta con grandes actuaciones aparte de la de bryan cranstom. Con 3 que sobresalen, Diane Kruger quien interpreta a una agente que acompaña a mazur fingiendo ser su esposa , john leguizamo en el papel de un policia poco tradicional y amy rian en un rol secundario pero muy interesante. LA historia esta basada en la autobiografia de robert mazur agente estadounidense que ayudo, bajo su nombre encuberto 'Robert Musella' un empresario corrupto, a desarmar la organizacion del lavado de dinero del cartel de pablo escobar. Porque ver este film ? Considero que, Aunque tenga sus errores tambien tiene sus virtudes la cuales son bryan cranston y su increible papel, una historia muy interesante y otra mirada diferente  de lo que estamos acostumbrados a ver peliculas o series sobre narcotrafico.",
-             "actores": "Bryan Cranston, John Leguizamo, Diane Kruger, Amy Ryan, Joseph Gilgun, Benjamin Bratt, Juliet Aubrey, Rubén Ochandiano, Simón Andreu, Saïd Taghmaoui",
-             "director": "Brad Furman",
-             "puntos": "7",
-             "img": "./img/infiltration.jpg"
-        }, 
+            "actores": "Bryan Cranston, John Leguizamo, Diane Kruger, Amy Ryan, Joseph Gilgun, Benjamin Bratt, Juliet Aubrey, Rubén Ochandiano, Simón Andreu, Saïd Taghmaoui",
+            "director": "Brad Furman",
+            "puntos": "7",
+            "img": "./img/infiltration.jpg"
+        },
         {
             "id": "p43",
             "Nombre": "Interstellar",
             "categoria": "Ciencia Ficcion",
             "año": "2014",
             "director": "Christopher Nolan",
-            "actores":" Matthew McConaughey, Anne Hathaway, David Gyasi, Jessica Chastain, Mackenzie Foy, Matt Damon, Michael Caine, John lithgow, Casey Affleck, Timotheé Chalamet, Wes Bentley, Ellen Burstyn, Topher grace, David Oyelowo, Collette Wolfe, Leah Cairns, Elves Gabel",
+            "actores": " Matthew McConaughey, Anne Hathaway, David Gyasi, Jessica Chastain, Mackenzie Foy, Matt Damon, Michael Caine, John lithgow, Casey Affleck, Timotheé Chalamet, Wes Bentley, Ellen Burstyn, Topher grace, David Oyelowo, Collette Wolfe, Leah Cairns, Elves Gabel",
             "puntos": "9",
             "img": "./img/interstellar.jpg",
             "reseña": "Al ver que la tierra esta llegando a su fin de un grupo de exploradores emprende una mision mas alla de nuestra galaxia para encontrar un lugar donde mudar la humanidad restante, Matthew Mcconaughey es quien interpreta a joseph cooper, el piloto encargado de esta misteriosa y arriesgada mision. una actuacion brillante en un papel no solo protagonista sino tambien de conexion con el espectador, siendo pieza fundamental para entender a travez de sus preguntas la complejidad de las teorias cientificas que plantea el film. El elenco.. la pelicula cuenta con nombres y actuaciones de lujo, donde se destacan anne Hathaway, en su papel de encargada cientifica de la mision. Michael caine como el cerebro detras de todo con un giro inesperado en la historia entre otros nombres como matt damon, casey affleck y timothee chalamet.. Oscars, tuvo 5 nominaciones, a mejor sonido, mejor edicion de sonido, mejor diseño de produccion, mejor banda sonora y mejores efectos visuales. que no me gusto ? aunque me parece una gran pelicula no es de mis favoritas de christopher Nolan, dentrodel guion hay momentos autocomplacientes justificados por el famoso porque yo lo digo, aunque no quiere decir que este mal simplemente son detalles que no me gustaron"
@@ -482,12 +677,45 @@
             "categoria": "Policiacas",
             "año": "1995",
             "director": "David Fincher",
-            "actores":"Brad Pitt, Morgan Freeman, Gwyneth Paltrow, Kevin Spacey, John C. McGinley, Richard Roundtree, R. Lee Ermey, Leland Orser, Richard Schiff, Julie Araskog, entre otros",
+            "actores": "Brad Pitt, Morgan Freeman, Gwyneth Paltrow, Kevin Spacey, John C. McGinley, Richard Roundtree, R. Lee Ermey, Leland Orser, Richard Schiff, Julie Araskog, entre otros",
             "puntos": "9",
             "img": "./img/seven.jpg",
-            "reseña":"Repasemos a pedido de ustedes una de las mejores películas de David Fincher ¿uno de los mejores thrillers policiales de la historia? Argumento: El teniente Somerset está a punto de retirarse y ser remplazado por un entusiasta y joven detective. Antes deberán resolver una cadena de homicidios aterradores donde el asesino juega con sus habilidades. Morgan Freeman Es quien de una manera brillante interpreta al teniente Somerset, quien constantemente insiste con el retiro, pero su instinto y pasión por su trabajo lo hace meterse en la investigación. Un personaje que aporta el lado de frialdad e inteligencia para atrapar a este espeluznante asesino. Brad Pitt Con una gran actuación y una de las más infravaloradas del actor interpreta a este joven detective Mills, quien en busca del prestigio de atrapar al asesino dejará de lados muchas otras partes de su vida. Un personaje que gana importancia con el correr de la película y más aún en el final. La moral: Este es un punto clave en la película, los arcaicos conceptos de moral que plantea el asesino basados en viejas culturas, los debates que se generan en el film sobre estos conceptos y el mensaje final (aunque brusco, obviamente es un policial) del crecimiento y amplitud de la sociedad a la moral y la ética, David Fincher Después de un debut con tropiezos en la dirección de Alien 3 Fincher puso manos a la obra de esta genial película en 1995. La cual no se caracteriza por una rebuscada historia sino por la perfección narrativa que tiene sembrando incertidumbre de quien es este aterrador asesino y la excelente elección de planos que hablan por sí solos. El final.. que en su momento fue criticado por “no seguir la esencia de los asesinatos”, pero en mi opinión es un gran giro argumental que profundiza el debate de moral que busca dar tanto la película como el asesino. Muchas veces la elección de esconder cosas forma parte de la moral. Curiosidades: Todos los libros de John Doe eran libros reales escritos para la película. Tardaron dos meses en terminarse y costaron 15.000 dólares, En el guion había 9 finales distintos y se eligió el que más convenció no solo a fincher sino a Brad Pitt y en un principio se pensó a Al Pacino y Denzel Washington para la dupla protagónica. El 7 fuera y dentro del film: El 7 fue más que solo el titulo o la cantidad de pecados capitales, sino también al momento de la grabación el gran conflicto sucede a los 7 minutos del comienzo y a los 7 minutos del final, Fueron 7 las cajas de cucarachas para la escena de la gula y fueron 7 los millones que ganó Brad Pitt por el film."
+            "reseña": "Repasemos a pedido de ustedes una de las mejores películas de David Fincher ¿uno de los mejores thrillers policiales de la historia? Argumento: El teniente Somerset está a punto de retirarse y ser remplazado por un entusiasta y joven detective. Antes deberán resolver una cadena de homicidios aterradores donde el asesino juega con sus habilidades. Morgan Freeman Es quien de una manera brillante interpreta al teniente Somerset, quien constantemente insiste con el retiro, pero su instinto y pasión por su trabajo lo hace meterse en la investigación. Un personaje que aporta el lado de frialdad e inteligencia para atrapar a este espeluznante asesino. Brad Pitt Con una gran actuación y una de las más infravaloradas del actor interpreta a este joven detective Mills, quien en busca del prestigio de atrapar al asesino dejará de lados muchas otras partes de su vida. Un personaje que gana importancia con el correr de la película y más aún en el final. La moral: Este es un punto clave en la película, los arcaicos conceptos de moral que plantea el asesino basados en viejas culturas, los debates que se generan en el film sobre estos conceptos y el mensaje final (aunque brusco, obviamente es un policial) del crecimiento y amplitud de la sociedad a la moral y la ética, David Fincher Después de un debut con tropiezos en la dirección de Alien 3 Fincher puso manos a la obra de esta genial película en 1995. La cual no se caracteriza por una rebuscada historia sino por la perfección narrativa que tiene sembrando incertidumbre de quien es este aterrador asesino y la excelente elección de planos que hablan por sí solos. El final.. que en su momento fue criticado por “no seguir la esencia de los asesinatos”, pero en mi opinión es un gran giro argumental que profundiza el debate de moral que busca dar tanto la película como el asesino. Muchas veces la elección de esconder cosas forma parte de la moral. Curiosidades: Todos los libros de John Doe eran libros reales escritos para la película. Tardaron dos meses en terminarse y costaron 15.000 dólares, En el guion había 9 finales distintos y se eligió el que más convenció no solo a fincher sino a Brad Pitt y en un principio se pensó a Al Pacino y Denzel Washington para la dupla protagónica. El 7 fuera y dentro del film: El 7 fue más que solo el titulo o la cantidad de pecados capitales, sino también al momento de la grabación el gran conflicto sucede a los 7 minutos del comienzo y a los 7 minutos del final, Fueron 7 las cajas de cucarachas para la escena de la gula y fueron 7 los millones que ganó Brad Pitt por el film."
 
         },
+        {
+            "id": "p63",
+            "Nombre": "Once upon a time",
+            "categoria": "Comedia",
+            "año": "2019",
+            "actores":"Leonardo DiCaprio, Brad Pitt, Margot Robbie, Emile Hirsch, Margaret Qualley, Al Pacino, Kurt Russell, Bruce Dern, Timothy Olyphant, Dakota Fanning",
+            "director":"Quentin Tarantino",
+            "puntos":"9",
+            "img": "./img/once.jpg",
+            "reseña":"REPASEMOS ESTE HOMENAJE AL CINE, SU HISTORIA Y A LOS CINÉFILOS DE LA MANO DEL INIGUALABLE QUENTIN tarantino. EN LOS AÑOS 60 EL ACTOR RICK DALTON INTENTA AMOLDARSE A LOS CAMBIOS DENTRO DE LA INDUSTRIA AL MISMO TIEMPO QUE SU DOBLE DE RIESGO. PARALELAMENTE LA FAMILIA MANSON EMPEZABA A COMETER SUS DELITO Leonardo dicaprio.. QUE DECIR DE UNO DE LOS MEJORES ACTORES DE LA HISTORIA. SIMPLEMENTE QUE DA VIDA A ESTE DEVENIDO RICK DALTON DE UNA MANERA SUPERLATIVA REPRESENTANDO. LO FUGAZ DE LA FAMA. Elenco de lujo..POR UN LADO TENEMOS A BRAD PITT COMO EL DOBLE DE DALTON CON UNA ACTUACIÓN Y UN PERSONAJE ALUCINANTE. Y POR EL OTRO A MARGOT ROBBIE INTERPRETANDO A SHARON TATE DEL CUAL ME HUBIERA GUSTADO VER MÁS MATICES. Diseño de produccion.. UNA VERDADERA OBRA DE ARTE, LAS PUESTAS DE ESCENA DONDE REFLEJAN LA ABUNDANCIA DE UNA CIUDAD COMO LOS ANGELES EN LOS 60 JUNTO CON LA SOLEDAD QUE SE SIENTE DENTRO DE ESA ABUNDANCIA. Quentin tarantino AUNQUE NO ES MI FAVORITA DEL DIRECTOR, NO CABE DUDA QUE SE DESTACA BUSCANDO TRASCENDER LA PANTALLA MOSTRANDO LAS DIFICULTADES Y EL CAMBIO DE HERRAMIENTAS AL HACER UNA PELÍCULA CON EL CORRER DE LOS AÑOS. Quien fue charles manson? CONOCIDO POR LIDERAR UN SECTA LLAMADA 'LA FAMILIA MANSON' EN EL DESIERTO DE CALIFORNIA, EN LA DÉCADA DEL 60', QUIENES COMETÍAN ASESINATOS MACABROS CON EL FIN DE PRECIPITAR UNA SUPUESTA GUERRA RACIAL QUE SE AVECINABA. 10 Nominaciones a los oscars.. MEJOR PELICULA, MEJOR ACTOR, MEJOR ACTOR DE REPARTO (GANÓ), MEJOR FOTOGRAFÍA, MEJOR DISEÑO DE VESTUARIO, MEJOR DIRECTOR, MEJOR DISEÑO DE PRODUCCIÓN (GANÓ), MEJOR EDICIÓN DE SONIDO, MEJOR MEZCLA DE SONIDO Y MEJOR GUION ORIGINAL."
+        },
+        {
+            "id": "p57",
+            "Nombre": "Vidas de papel",
+            "categoria": "Drama",
+            "año": "2021",
+            "director": " Can Ulkay",
+            "actores":"Cagatay Ulusoy, Emir Ali Dogrul, Ersin Arici, Turgay Tanulku, Selen Ozturk",
+            "puntos": "7",
+            "img": "./img/vidasdepapel.jpg",
+            "reseña": "UNA INTERESANTE PELÍCULA TURCA DE NETFLIX, QUE TIENE SUS PUNTOS BUENOS Y OTROS BASTANTES BAJOS. CON EL ABANDONO COMO EJE CENTRAL. MEHMET DIRIGE UN DEPÓSITO DE RESIDUOS MIENTRAS PADECE UNA ENFERMEDAD QUE VA EMPEORANDO, CUANDO DE REPENTE APARECE UN NIÑO QUE LE HARÁ REVIVIR SU PROPIA infancia. Cagatay ulusoy ES QUIEN INTERPRETA A MEHMET DE UNA FORMA CORRECTA, CON UNA GRAN EXPLOSIÓN AL FINAL DE LA PELÍCULA. UN ACTOR QUE SALTO A LA FAMA EN ESTE LADO DEL MUNDO POR FORMAR PARTE DE LA SERIE DE NETFLIX 'THE PROTECTOR'. Actuaciones.. ESTE ES UNO DE LOS PUNTOS FLOJOS DEL FILM, LA ÚNICA ACTUACIÓN SOBRESALIENTE ES LA DEL YA MENCIONADO. EL RESTO DEL ELENCO DEJA MUCHO QUE DESEAR. Desarrollo..UNA PELÍCULA QUE COMIENZA COMO UN RELATO SUPERFICIAL DE SUPERVIVENCIA, Y CON EL PASAR DE LOS MINUTOS DE CONVIERTE EN UN CRUDO RELATO existencialista. Fotografia.. UNO DE LOS PUNTOS QUE MÁS ME GUSTARON DE LA PELÍCULA. DESDE LA SIMETRÍA, LAS TONALIDADES DE COLORES DEPENDIENDO DE LO QUE VA PASANDO Y LOS PLANOS LARGOS PARA ENCUADRAR Y MOSTRAR LA INMENSIDAD DE ESTAMBUL. La critica social.. CLARAMENTE LA PELÍCULA EXPONE UNA CRÍTICA SOCIAL, SOBRE EL MALTRATO, EL ABANDONO, LAS DIFICULTADES PARA ACCEDER AL SISTEMA DE SALUD EN MUCHAS PARTES DEL MUNDO Y SOBRE TODO LO QUE UNO PIENSA DE LOS DEMÁS Y DE UNO MISMO. can ulkay ES QUIEN ESTÁ ENCARGADO DE LA DIRECCIÓN DEL FILM. UN ESPECIALISTA DE LLEVAR TEMAS REALES AL CINE Y SOBRE TODO DE SU TURQUÍA NATAL OTRAS RECOMENDACIONES DEL DIRECTOR 'MUSLUM' Y 'AYLA: THE DAUGHTER of war'. Que no me gusto ? COMO YA MENCIONÉ ANTES LA MAYORÍA DE LAS ACTUACIONES Y LA GRAN CANTIDAD DE CORTES DE CÁMARA QUE BUSCAN MOSTRAR LOS DETALLES, PERO CON LA VELOCIDAD COMO ESTÁN MANEJADOS NO DEJA APRECIAR ESOS DETALLES Y TERMINAN MAREANDO. "
+
+        }
+        ,{
+            "id": "p66",
+            "Nombre": "Noticias del gran mundo",
+            "categoria": "Drama",
+            "año": "2021",
+            "actores":"Tom Hanks, Helena Zengel, Neil Sandilands, Elizabeth Marvel, Ray McKinnon, Mare Winningham, Bill Camp, Chukwudi Iwuji, Thomas Francis Murphy, Michael Angelo Covino", "director":"Paul Greengrass",
+            "puntos": "9",
+            "reseña":"UN MUY SATISFACTORIO ESTRENO DE NETFLIX. UN WESTERN QUE ENLAZA LO CLÁSICO CON LO NUEVO Y CON UN TOM HANKS QUE BRILLA NUEVAMENTE. UN VETERANO DE LA GUERRA CIVIL NORTEAMERICANA SE ENCARGA DE IR EN PUEBLO EN PUEBLO A LEER LAS NOTICIAS. CUANDO SE ENCUENTRA A UNA PEQUEÑA NIÑA, QUIEN CAMBIARÁ TODO TIPO DE PLANES. Tom Hanks CON UNA ACTUACIÓN TANTO FÍSICA COMO VERBAL FASCINANTE, LE DA VIDA A ESTE VETERANO DE GUERRA QUE LLEVARÁ A CASA A LA NIÑA. UNA VEZ MÁS TOM DEMUESTRA QUE ES UNO DE LOS MEJORES DE HOLLYWOod. Helena zengel..  la joven actriz de 12 años interpreta a la NIÑA QUE FUE SECUESTRADA POR INDÍGENAS Y PERDIÓ A SU FAMILIA. UNA VERDADERA REVELACIÓN QUE FUE NOMINADA A LOS PRÓXIMOS GLOBOS DE ORO Y A LOS PREMIOS del sindicato de actores. La historia.. ESTÁ BASADA EN LA NOVELA HOMÓNIMA DE LA RECONOCIDA POETA Y NOVELISTA NORTEAMERICANA PAULETTE JILES, PUBLICADA EL 4 DE octubre de 2016. La quimica.. LA PAREJA PROTAGONISTA TRASMITEN UNA QUÍMICA POCAS VECES VISTAS. COMIENZA COMO UNA RELACIÓN FRÍA PERO CON EL PASAR DE LOS MINUTOS LA QUÍMICA DE PADRE E HIJA TRASPASA LA PANTALLA. Paralelismos.. AUNQUE LA PELÍCULA SE AMBIENTE HACE MÁS DE 100 AÑOS, SE PUEDEN HACER PARALELISMOS CON LA ACTUALIDAD SOBRE EL RACISMO Y LA IMPORTANCIA DE LA LIBERTAD DE PRENSA EN UN SOCIEDAD. Ambientacion.. TAN DETALLISTA COMO FANTÁSTICA, DESDE LA PUESTA EN ESCENA, EL VESTUARIO Y HASTA LOS MODELOS DE ARMAS (1870 DESPUÉS DE LA GUERRA CIVIL NORTEAMERICANA) QUE JUNTO A SU GRAN FOTOGRAFÍA VUELVE AL FILM redondo"
+        }
+        ,
         {
             "id": "p45",
             "Nombre": "Otra ronda",
@@ -497,58 +725,57 @@
             "actores": "Mads Mikkelsen, Thomas Bo Larsen, Magnus Millang, Lars Ranthe, Susse Wold, Maria Bonnevie, Dorte Højsted, Helene Reingaard Neumann, Martin Greis, Magnus Sjørup",
             "puntos": "9",
             "img": "./img/otraronda.jpg",
-            "reseña":" repasemos el film ganador a mejor pelicula internacional en la ultima edicion de los premios oscars. Recientemente añadida a netflix. Cuatro maestros de una secundaria en dinamarca quieren cambiar sus vidas monotonas, para eso implementan una teoria donde deberan mantener un minimo de alcohol en sangre durante su vida diaria. Mads Mikkelsen: el gran actor danes interpreta a martin, un profesor de historia amargado que bsuca cambiar su vida y para eso recurre al alcohol. una actuacion brillante con cambios de humor drasticos sin parecer forzados y un presonaje que representa en carne propia lo que busca dejar la pelicula. El elenco: completan el elenco de una manera excelente actores no muy conocidos por aqui pero si en dinamarca como.. thomas bo larsen como tommy el profesor de gymnacia quesera una pieza fundamental en lo emotivo, lars ranthe profesor de musica que busca quedar en la memoria de alguien y magnus millang en el papel de un profesor de psicologia que fue el que planteo la teoria del alcohol y el de ir por mas. La historia toma como concepto una frase atribuida al filosofo y psiquiatra noruego finn skarderud de que 'el hombre nace con un deficit de 0,5 gramos de alcohol en la sangre' por ello este grupo de amigos intenta vivir con ese numero. frase que fue desmentida por el propio filosofo (que participo en el film) pero esto deja otro guiño a la critica social, en este caso las cosas que se toman fuera del contexto. EL transfondo no es unn tributo al alcohol ni mucho menos. es una critica tanto social sobre el excesivo consumo de alcohol y los problemas que trae, como tambien una critica existencialista de como muchas veces busca cambiar cosas de su vida cotidiana y recurre al camino mas facil o externos cuando verdaderamente la solucion esta en uno mismo. thomas vinterberg el director danes ques estuvo nominado a mejor director en los ultimos oscars logra una pelicula brillante desde la eleccion de lo que mostrar y lo que no, los efectos del alcohol y la narracion genial para comprender las causas, los efectos y la importancia de la familia en las adicciones. El final emotivo y movilizante sin dudas. pero tambien en mi opinion los ultimos 10 minutos, fuera de las genialidades tecnocas de las escenas, me parecio un poco contradictorio a la historia en si y lo que busca dejar."
+            "reseña": " repasemos el film ganador a mejor pelicula internacional en la ultima edicion de los premios oscars. Recientemente añadida a netflix. Cuatro maestros de una secundaria en dinamarca quieren cambiar sus vidas monotonas, para eso implementan una teoria donde deberan mantener un minimo de alcohol en sangre durante su vida diaria. Mads Mikkelsen: el gran actor danes interpreta a martin, un profesor de historia amargado que bsuca cambiar su vida y para eso recurre al alcohol. una actuacion brillante con cambios de humor drasticos sin parecer forzados y un presonaje que representa en carne propia lo que busca dejar la pelicula. El elenco: completan el elenco de una manera excelente actores no muy conocidos por aqui pero si en dinamarca como.. thomas bo larsen como tommy el profesor de gymnacia quesera una pieza fundamental en lo emotivo, lars ranthe profesor de musica que busca quedar en la memoria de alguien y magnus millang en el papel de un profesor de psicologia que fue el que planteo la teoria del alcohol y el de ir por mas. La historia toma como concepto una frase atribuida al filosofo y psiquiatra noruego finn skarderud de que 'el hombre nace con un deficit de 0,5 gramos de alcohol en la sangre' por ello este grupo de amigos intenta vivir con ese numero. frase que fue desmentida por el propio filosofo (que participo en el film) pero esto deja otro guiño a la critica social, en este caso las cosas que se toman fuera del contexto. EL transfondo no es unn tributo al alcohol ni mucho menos. es una critica tanto social sobre el excesivo consumo de alcohol y los problemas que trae, como tambien una critica existencialista de como muchas veces busca cambiar cosas de su vida cotidiana y recurre al camino mas facil o externos cuando verdaderamente la solucion esta en uno mismo. thomas vinterberg el director danes ques estuvo nominado a mejor director en los ultimos oscars logra una pelicula brillante desde la eleccion de lo que mostrar y lo que no, los efectos del alcohol y la narracion genial para comprender las causas, los efectos y la importancia de la familia en las adicciones. El final emotivo y movilizante sin dudas. pero tambien en mi opinion los ultimos 10 minutos, fuera de las genialidades tecnocas de las escenas, me parecio un poco contradictorio a la historia en si y lo que busca dejar."
 
         },
         {
             "id": "p46",
             "categoria": "Accion",
             "Nombre": "V de venganza",
-            
+
             "img": "./img/vdevenganza.jpg",
             "reseña": "Una pelicula que en su estreno trajo una gran grita entre quienes la amaron y la odiaron, en mi opinion es profunda, reflexiva e increible. en un futuro distopico inglaterra esta bajho el mando de un gobierno sumamente totalitario, una figura misteriosa conocido como 'v' intentara terminar con esto y exponer las verdades que el gobierno busco esconder. Hugo weaving es quien esta bajo esta misteriosa y poetica figura conodida como V, una actuacion sobresaliente donde no se le ve la cara y aun asi atravez de su expresion corporal y en su voz se le nota el sentimiento que nos quiere expresar. Natalie portman con una actuacion que crece durante el film interpreta a evey, una joven empleada de un medio de comunicacion estatal, quien a entablar una relacion al principio confusa con v se vuelve un eslabon fundamental en los proximos acontecimientos. Critica social: la pelicula plantea una fuerte critica no solo al poder como normalmente conocemos (medio de comunicacion y gobierno) sino que busca cambiar ese concepto y demostrar que el verdadero poder lo tiene la sociedad, como tambien parte de la culpa, pero sobre todo que la union de la sociedad hace la fuerza. Dialogos, una pelicula que se puede destacar por la historia, por los efectos especiales y muchas otras cosas, pero no se puede pasar por alto el poder que tiene a la hora de expresar una idea y eso gracias a sus dialogos profundos y frases reflexivas que contiene el film. Simbolismo: un film repleto de simbolos y bien utilizados. no solo la mascara que termina siendo el gran simbolo del film, sino el planteo y la utilizacion de elementos naturales como el agua y el fuego que a simple vista son sumamente diferentes, como los dos personajes principales, pero a la vez terminan representando ideas similares de ambos",
-            "puntos":"9",
-            "actores":"Natalie Portman, Hugo Weaving, Stephen Rea, John Hurt, Rupert Graves, Stephen Fry, Tim Pigott-Smith, Roger Allam, Ben Miles, Sinead Cusack",
-            "director":"James McTeigue",
-            "año":"2005"
-    
-        }
-        ,
-    {
+            "puntos": "9",
+            "actores": "Natalie Portman, Hugo Weaving, Stephen Rea, John Hurt, Rupert Graves, Stephen Fry, Tim Pigott-Smith, Roger Allam, Ben Miles, Sinead Cusack",
+            "director": "James McTeigue",
+            "año": "2005"
+
+        },
+        {
 
             "id": "p47",
             "categoria": "Accion",
             "Nombre": "El renacido",
             "img": "./img/elrenacido.jpg",
-            "reseña":"1823, el explorador hugh glass resulta gravemente herido en las profundidasdes de misuri y abandonado a su suerte por un traicionero mienbro de su equipo. ahora con la voluntad  como unica arma buscara vengarse. leonardo di caprio es quien interpreta al explorador hugh glass de una manera brillante, una actuacion sumamente visceral y fisica. distinta a lo que nos tiene acostumbrados demostrando que su talento no tiene limites y por fin obteniendo su merecido oscar a mejor actor. el elenco, tom hardy como antagonista, logra lucirse en un papel mas fisico que le encaja perfecto al igual que domhall gleeson. en cambio se le nta medio fuera de lugar en este tipo de papeles a will poulte. La historia: esta basada en el libro homonimo de michael punke publicado en 2002, donde construye una historia de ficcion de muchas historias reles, a travez del explorador y cazador hugh glass en el año 1823 en el estado de misuri. Alejandro gonzales inarritu quien estuvo a cargo de la direccion y del guion del film, logrando a travez de ambiciosos plaos secuencias y diversos angulos darle la cuota de emotividad y profundidad a una historia poco original, obteniendo el premio oscar a mejor director. Emanuel lubezki encargado de la fotografia del film, vuelve a brillar como nos tiene acostumbrados. obteniendo su tercer premio oscar a mejor fotografia (ya lo habia ganado con gravity y bridman) crea imagenes maravillosas en las cuales su mayoria opto por no utilizar iluminacion artificial. 12 Nominaciones oscar, mejor pelicula, mejor director (gano), mejor actor de reparto, mejor montaje, mejores efectos visuales. mejor fotografica (gano), mejor diseño  de produccion, mejor maquillaje y peluqueria, mejor sonido, mejor edicion de sonido y mejor vestuario",
-            "puntos":"9",
-            "actores":"Leonardo DiCaprio, Tom Hardy, Domhnall Gleeson, Will Poulter, Forrest Goodluck, Paul Anderson, Kristoffer Joner, Joshua Burge, Duane Howard, Melaw Nakehk",
-            "director":"Alejandro González Iñárritu",
-            "año":"2015"
-    }, 
-    {
+            "reseña": "1823, el explorador hugh glass resulta gravemente herido en las profundidasdes de misuri y abandonado a su suerte por un traicionero mienbro de su equipo. ahora con la voluntad  como unica arma buscara vengarse. leonardo di caprio es quien interpreta al explorador hugh glass de una manera brillante, una actuacion sumamente visceral y fisica. distinta a lo que nos tiene acostumbrados demostrando que su talento no tiene limites y por fin obteniendo su merecido oscar a mejor actor. el elenco, tom hardy como antagonista, logra lucirse en un papel mas fisico que le encaja perfecto al igual que domhall gleeson. en cambio se le nta medio fuera de lugar en este tipo de papeles a will poulte. La historia: esta basada en el libro homonimo de michael punke publicado en 2002, donde construye una historia de ficcion de muchas historias reles, a travez del explorador y cazador hugh glass en el año 1823 en el estado de misuri. Alejandro gonzales inarritu quien estuvo a cargo de la direccion y del guion del film, logrando a travez de ambiciosos plaos secuencias y diversos angulos darle la cuota de emotividad y profundidad a una historia poco original, obteniendo el premio oscar a mejor director. Emanuel lubezki encargado de la fotografia del film, vuelve a brillar como nos tiene acostumbrados. obteniendo su tercer premio oscar a mejor fotografia (ya lo habia ganado con gravity y bridman) crea imagenes maravillosas en las cuales su mayoria opto por no utilizar iluminacion artificial. 12 Nominaciones oscar, mejor pelicula, mejor director (gano), mejor actor de reparto, mejor montaje, mejores efectos visuales. mejor fotografica (gano), mejor diseño  de produccion, mejor maquillaje y peluqueria, mejor sonido, mejor edicion de sonido y mejor vestuario",
+            "puntos": "9",
+            "actores": "Leonardo DiCaprio, Tom Hardy, Domhnall Gleeson, Will Poulter, Forrest Goodluck, Paul Anderson, Kristoffer Joner, Joshua Burge, Duane Howard, Melaw Nakehk",
+            "director": "Alejandro González Iñárritu",
+            "año": "2015"
+        },
+        {
             "id": "p48",
             "categoria": "Infantil",
             "Nombre": "La familia Mitchell",
             "img": "./img/familiamitchell.jpg",
-            "reseña":"Una gran pelicula de sony pictures animation estrenada en netflix, una historia genial y profunda, conm una excelente animacion y un mensaje a lo pixar ? en un mundo donde la tecnologia esta en ascenso la familia mitchell debera enfrentar un apocalipsis por culpa de las maquians, donde se convertiran en la ultima esperanza de la humanidad. el film nos presentara una familia de 5 integrantes, el padre (rick) quien es el estereotipo de un adulto reacio a la tecnologia, la madre (linda) quien aunque no este de acuerdo en muchas cosas, siempre hace de mediadora para evitar conflictos, el hijo menor (aron) amante de los dinosaurios quien le aporta una cuota de ternura al film, el perro fiel compañero de toda la familia y tan diferente como cada uno de ellos y por ultimo la hija mayor (katie) una amante del cine y de la tecnologia, una familia sumamente realista. ¿Un mensaje pixar? PIXAR ÚLTIMAMENTE NOS ESTÁ DEJANDO MENSAJES LA PELÍCULA INTENTA SEGUIR ESA CORRIENT CON UN MENSAJE DE UNIÓN FAMILIAR, EL USO DE TECNOLOGIA, LAS MENTIRAS PIADOSAS Y EL USO DE LAS REDES SOCIALES, TODO A TRAVÉS DE LA RISA. OLIVIA COLMAN LA TALENTOSA ACTRIZ BRITÁNICA LE DA VOZ A LA INTELIGENCIA ARTIFICIAL UNA DE LAS GRANDES RAZONES PARA VER LA PELÍCULA EN IDIOMA ORIGINAL. OTRA RAZÓN PARA VERLA EN IDIOMA ORIGINAL ES LA VOZ DE AARON, CUAL VOZ EN ESPAÑOL NO CONCUERDA PARA NADA CON LA EDAD DEL PERSONAJE. MICHAEL RIANDA Y JEFF ROWE QUIENES ESTÁN A CARGO DE LA DIRECCIÓN Y GUION DE LA PELÍCULA, RIANDA TAMBIÉN LE DA VOZ A AARON EN SU IDIOMA ORIGINAL. AMBOS RECONOCIDOS POR SER DIRECTORES Y ESCRITORES DE LA FAMOSA SERIE ANIMADA GRAVITY FALLS: UN VERANO DE MISTERIOS. QUE NO ME GUSTO ? COMO SIEMPRE ESCRIBO LA COMEDIA ES MUY PARTICULAR, A GUSTÓ PERSONAL NO ME GUSTA EL CONSTANTE CHISTE BÁSICO EN CADA ESCENA, EL USO CONSTANTE TAMBIÉN DEL FAMOSO RECURSO DEL DOBLE REMATE Y ALGUNOS MOMENTOS FALTOS DE ARGUMENTOS QUE MUCHAS VECES SE DEJAN PASAR POR SER UNA ANIMACIÓN.",
-            "puntos":"8",
-            "actores":"PIXAR",
-            "director":"Michael Rianda y Jeff Rowe",
-            "año":"2021"
-    }, 
-    {
+            "reseña": "Una gran pelicula de sony pictures animation estrenada en netflix, una historia genial y profunda, conm una excelente animacion y un mensaje a lo pixar ? en un mundo donde la tecnologia esta en ascenso la familia mitchell debera enfrentar un apocalipsis por culpa de las maquians, donde se convertiran en la ultima esperanza de la humanidad. el film nos presentara una familia de 5 integrantes, el padre (rick) quien es el estereotipo de un adulto reacio a la tecnologia, la madre (linda) quien aunque no este de acuerdo en muchas cosas, siempre hace de mediadora para evitar conflictos, el hijo menor (aron) amante de los dinosaurios quien le aporta una cuota de ternura al film, el perro fiel compañero de toda la familia y tan diferente como cada uno de ellos y por ultimo la hija mayor (katie) una amante del cine y de la tecnologia, una familia sumamente realista. ¿Un mensaje pixar? PIXAR ÚLTIMAMENTE NOS ESTÁ DEJANDO MENSAJES LA PELÍCULA INTENTA SEGUIR ESA CORRIENT CON UN MENSAJE DE UNIÓN FAMILIAR, EL USO DE TECNOLOGIA, LAS MENTIRAS PIADOSAS Y EL USO DE LAS REDES SOCIALES, TODO A TRAVÉS DE LA RISA. OLIVIA COLMAN LA TALENTOSA ACTRIZ BRITÁNICA LE DA VOZ A LA INTELIGENCIA ARTIFICIAL UNA DE LAS GRANDES RAZONES PARA VER LA PELÍCULA EN IDIOMA ORIGINAL. OTRA RAZÓN PARA VERLA EN IDIOMA ORIGINAL ES LA VOZ DE AARON, CUAL VOZ EN ESPAÑOL NO CONCUERDA PARA NADA CON LA EDAD DEL PERSONAJE. MICHAEL RIANDA Y JEFF ROWE QUIENES ESTÁN A CARGO DE LA DIRECCIÓN Y GUION DE LA PELÍCULA, RIANDA TAMBIÉN LE DA VOZ A AARON EN SU IDIOMA ORIGINAL. AMBOS RECONOCIDOS POR SER DIRECTORES Y ESCRITORES DE LA FAMOSA SERIE ANIMADA GRAVITY FALLS: UN VERANO DE MISTERIOS. QUE NO ME GUSTO ? COMO SIEMPRE ESCRIBO LA COMEDIA ES MUY PARTICULAR, A GUSTÓ PERSONAL NO ME GUSTA EL CONSTANTE CHISTE BÁSICO EN CADA ESCENA, EL USO CONSTANTE TAMBIÉN DEL FAMOSO RECURSO DEL DOBLE REMATE Y ALGUNOS MOMENTOS FALTOS DE ARGUMENTOS QUE MUCHAS VECES SE DEJAN PASAR POR SER UNA ANIMACIÓN.",
+            "puntos": "8",
+            "actores": "PIXAR",
+            "director": "Michael Rianda y Jeff Rowe",
+            "año": "2021"
+        },
+        {
             "id": "p49",
             "Nombre": "El gran showman",
             "categoria": "Musical",
-            "reseña":"recientemente añadida a disney plus, repasemos este hermoso musical con buenas actuaciones y un mensaje bien claro. P.T. BARNUM UN PADRE DE FAMILIA DEL SIGLO XIX SE QUEDA SIN TRABAJO Y DECIDE UTILIZAR SU HABILIDAD PARA MANIPULAR Y ASÍ OBTENER UN CRÉDITO EN EL BANCO PARA COMENZAR OTRA VIDA. UNA HISTORIA DE AMOR, superacion, ambicion y amistad. hugh jackman DESPUÉS DE 5 AÑOS Y BRILLAR EN LOS MISERABLES, EL ACTOR VUELVE AL GÉNERO MUSICAL. INTERPRETA AL SEÑOR BARNUM, UN PERSONAJE QUE POSEE UN ARMA DE DOBLE FILO UNA GRAN AMBICIÓN QUE LE DARÁ FRUTOS EN SU CAMINO, PERO TAMBIÉN LO HARÁ TROPEZAR. elenco: DENTRO DEL ELENCO, TAMBIÉN CON GRANDES ACTUACIONES ENCONTRAMOS NOMBRES FUERTES COMO MICHELLE WILLIAMS, REBECCA FERGUSON, ZAC EFRON Y ZENDAYA, ESTOS DOS ÚLTIMOS CREAN UNA QUÍMICA ESPECTACULAR QUE APORTA MUCHO AL FILM. La historia: ESTÁ BASADA EN LA HISTORIA DE PHINEAS TAYLOR BARNUM QUIEN FUE UN EMPRESARIO Y ARTISTA CIRCENSE EN ENTRE LOS AÑOS 1835 A 1890. CREADOR DEL BARNUM & BAILEY CIRCUS CONOCIDO COMO UNO DE LOS MAYORES ESPECTÁCULOS EN LA TIERRA. Michael gracey EN SU PRIMERA EXPERIENCIA COMO DIRECTOR, REALIZA UN TRABAJO GENIAL Y EQUILIBRADO. CON MOVIMIENTOS DE CÁMARA QUE TE HACEN SENTIR DENTRO DEL FILM Y PRIMEROS PLANOS PARA DETALLAR EL SENTIMIENTO DEL PERSONAJE. ¿LO MEJOR? NO ABUSA DE NINGUNO DE ESTOS RECURSOS. Banda sonora: OTRO DE LOS PUNTOS ALTOS DEL FILM ES SU ESPECTACULAR BANDA SONORA CON CANCIONES QUE SE TE QUEDAN PEGADAS A TU MENTE, SOBRE TODO 'THIS IS MY' CANCIÓN GANADORA DE UN GLOBO DE ORO POR MEJOR CANCIÓN ORIGINAL Y NOMINADA A LOS ÓSCARS EN LA MISMA CATEGORIA. Mensaje: EL FILM DEJA VARIOS MENSAJES CLAROS, PERO SOBRESALEN DOS: EL NO PENSAR EN EL 'QUE DIRÁN' Y ENFRENTAR LOS MIEDOS DE UNO SIN IMPORTAR LA CONDICIÓN FÍSICA. Y EL ARMA DE DOBLE FILO QUE ES EL EXCESO AMBICIÓN QUE TE LLEVARÁ A GRANDES COSAS, PERO TE TRAERÁ CONSECUENCIAS IRREPARABLES. ",
+            "reseña": "recientemente añadida a disney plus, repasemos este hermoso musical con buenas actuaciones y un mensaje bien claro. P.T. BARNUM UN PADRE DE FAMILIA DEL SIGLO XIX SE QUEDA SIN TRABAJO Y DECIDE UTILIZAR SU HABILIDAD PARA MANIPULAR Y ASÍ OBTENER UN CRÉDITO EN EL BANCO PARA COMENZAR OTRA VIDA. UNA HISTORIA DE AMOR, superacion, ambicion y amistad. hugh jackman DESPUÉS DE 5 AÑOS Y BRILLAR EN LOS MISERABLES, EL ACTOR VUELVE AL GÉNERO MUSICAL. INTERPRETA AL SEÑOR BARNUM, UN PERSONAJE QUE POSEE UN ARMA DE DOBLE FILO UNA GRAN AMBICIÓN QUE LE DARÁ FRUTOS EN SU CAMINO, PERO TAMBIÉN LO HARÁ TROPEZAR. elenco: DENTRO DEL ELENCO, TAMBIÉN CON GRANDES ACTUACIONES ENCONTRAMOS NOMBRES FUERTES COMO MICHELLE WILLIAMS, REBECCA FERGUSON, ZAC EFRON Y ZENDAYA, ESTOS DOS ÚLTIMOS CREAN UNA QUÍMICA ESPECTACULAR QUE APORTA MUCHO AL FILM. La historia: ESTÁ BASADA EN LA HISTORIA DE PHINEAS TAYLOR BARNUM QUIEN FUE UN EMPRESARIO Y ARTISTA CIRCENSE EN ENTRE LOS AÑOS 1835 A 1890. CREADOR DEL BARNUM & BAILEY CIRCUS CONOCIDO COMO UNO DE LOS MAYORES ESPECTÁCULOS EN LA TIERRA. Michael gracey EN SU PRIMERA EXPERIENCIA COMO DIRECTOR, REALIZA UN TRABAJO GENIAL Y EQUILIBRADO. CON MOVIMIENTOS DE CÁMARA QUE TE HACEN SENTIR DENTRO DEL FILM Y PRIMEROS PLANOS PARA DETALLAR EL SENTIMIENTO DEL PERSONAJE. ¿LO MEJOR? NO ABUSA DE NINGUNO DE ESTOS RECURSOS. Banda sonora: OTRO DE LOS PUNTOS ALTOS DEL FILM ES SU ESPECTACULAR BANDA SONORA CON CANCIONES QUE SE TE QUEDAN PEGADAS A TU MENTE, SOBRE TODO 'THIS IS MY' CANCIÓN GANADORA DE UN GLOBO DE ORO POR MEJOR CANCIÓN ORIGINAL Y NOMINADA A LOS ÓSCARS EN LA MISMA CATEGORIA. Mensaje: EL FILM DEJA VARIOS MENSAJES CLAROS, PERO SOBRESALEN DOS: EL NO PENSAR EN EL 'QUE DIRÁN' Y ENFRENTAR LOS MIEDOS DE UNO SIN IMPORTAR LA CONDICIÓN FÍSICA. Y EL ARMA DE DOBLE FILO QUE ES EL EXCESO AMBICIÓN QUE TE LLEVARÁ A GRANDES COSAS, PERO TE TRAERÁ CONSECUENCIAS IRREPARABLES. ",
             "actores": "Hugh Jackman, Michelle Williams, Zac Efron, Zendaya, Rebecca ferguson, Diahann Carroll, Fredric Lehne, Keala Settle, Yahya Adbul-Matten II, Isaac Eshete.",
-            "puntos":"8",
-            "director":"Michael Gracey",
-            "año":"2017",
+            "puntos": "8",
+            "director": "Michael Gracey",
+            "año": "2017",
             "img": "./img/showman.jpg"
-    }, 
-    {
+        },
+        {
             "id": "p50",
             "Nombre": "Love and monsters",
             "categoria": "Aventura",
@@ -559,18 +786,18 @@
             "actores": "Dylan O´Brien, Michael Rooker, Ariana Greenblatt, Jessica Henwick, Ellen Hollman, Damien Garvey, Melanie Zanetti, Tasneem Roc, Amali Golden, Dan Ewing",
             "reseña": "Pelicula entretenida, con una premisa interesante, correctas actuaciones, una nominacion a los oscars y una narracion juvenil. En unmundo postapocaliptico invadido de gigantes monstruos, un joven sin mucha habilidad para enfrentarlos decide emprender un largo viaje para reencontrarse con su novia. Dylan o`brien es quien interpreta a joel, de una manera correcta, este joven emprendera esta dificil travesia, donde se enfrentara a sus mayores miedos, aprendera a desafiarlos y llevara varias lecciones de vida. La historia no estab basada en la novela de julio verne 'la isla misteriosa'. pero la idea principal de los incectos gigantes y el concepto de que tengan sentimientos se le parece mucho. Los efectos visuales no caben dudas que lo mejor del fiml, una impecable recreacion de una ciudad apocaliptica y grande s monstruos perfectamente realizados. La pelicula obtuvo la nominacion a mejores efectos visuales para la proxima entrega de los oscars. El film tiene un lindo mensaje que dejar, y es de pelear contra tus miedos sin depender de tus limitacione, de apreciar lo que tienes a tu lado en todo momento y que la union hace la fuerza. Que no me gusto? el cierre de los personajes que deja sin mucho sentido a muchos en la historia, la falta ed explicacion de varios momentos y las constantes caidas en cliches que tiene a lo largo del film"
 
-    },
-    {
+        },
+        {
             "id": "p51",
             "Nombre": "Crimen y deseo",
             "categoria": "Thriller",
             "puntos": "7",
             "director": "Phillip Noyce",
-            "actores":"Emilia Clarke, Jack Huston, Thora Birch, Johnny Knoxville, Karl Glusman, Sophie Lowe, Kevin Dunn, Joshua Mikel, Chris Mulkey, Brittany O’Grady",
-            "año":"2018",
+            "actores": "Emilia Clarke, Jack Huston, Thora Birch, Johnny Knoxville, Karl Glusman, Sophie Lowe, Kevin Dunn, Joshua Mikel, Chris Mulkey, Brittany O’Grady",
+            "año": "2018",
             "img": "./img/crimendeseo.jpg",
-            "reseña":"Una pelicula basada en un hecho real impactante. con varios puntos altos y otros bastante bajos, pero igual es interesante de ver. Una joven agente edl fbi llega a un pequeño publo con grandes aspiraciones, donde se enredara con una joven informante tanto en el ambito laboral como el amoroso. Emilia clarke la reconocida actriz interpreta a susan de una manera brillante, esta joven adicta e informante del fbi que paso por momentos muy dificiles y buscara encontrar la paz. Jack huston interpreta a mark, un joven agente del fbi con grandes ambiciones en detener el trafico de drogas, donde demostrara una falta de empatia y misoginia, alarmantes. La historia esta basada en el libro homonimo de no ficcion de joe sharkey, publicado el 14 de octubre de 1994, sobre la relacion entre estos dos protagonistas que ocurrio en kentucky en 1989. El desarrollo de la pelicula se puede definir como una montaña rusa, con un primer acto interesante, un segundo acto bastante chato sin mucho atractivo y un tercer acto donde el film crece exponencialmente. Phillip Noyce director de la pelicula que utiliza muy bien el recurso de primer plano para remarcar el sentimiento preciso de los personajes y tapar el flojo guion que hay detras del film. el final claramente si conoces el casomo te va a sorprenderm por eso mismo te recomiendo no investigar nada del caso antes de ver la pelicula. que no me gusto? como ya mencione el segundo acto de la pelicula me parecio muy plano, la premisa e importancia de la historia merecia una narracion mucho mas profunda de lo que propone finalmente el film. Sumandole la poca importancia que se les da a algunos personajes "
-    }
+            "reseña": "Una pelicula basada en un hecho real impactante. con varios puntos altos y otros bastante bajos, pero igual es interesante de ver. Una joven agente edl fbi llega a un pequeño publo con grandes aspiraciones, donde se enredara con una joven informante tanto en el ambito laboral como el amoroso. Emilia clarke la reconocida actriz interpreta a susan de una manera brillante, esta joven adicta e informante del fbi que paso por momentos muy dificiles y buscara encontrar la paz. Jack huston interpreta a mark, un joven agente del fbi con grandes ambiciones en detener el trafico de drogas, donde demostrara una falta de empatia y misoginia, alarmantes. La historia esta basada en el libro homonimo de no ficcion de joe sharkey, publicado el 14 de octubre de 1994, sobre la relacion entre estos dos protagonistas que ocurrio en kentucky en 1989. El desarrollo de la pelicula se puede definir como una montaña rusa, con un primer acto interesante, un segundo acto bastante chato sin mucho atractivo y un tercer acto donde el film crece exponencialmente. Phillip Noyce director de la pelicula que utiliza muy bien el recurso de primer plano para remarcar el sentimiento preciso de los personajes y tapar el flojo guion que hay detras del film. el final claramente si conoces el casomo te va a sorprenderm por eso mismo te recomiendo no investigar nada del caso antes de ver la pelicula. que no me gusto? como ya mencione el segundo acto de la pelicula me parecio muy plano, la premisa e importancia de la historia merecia una narracion mucho mas profunda de lo que propone finalmente el film. Sumandole la poca importancia que se les da a algunos personajes "
+        }
 
 
     ]
