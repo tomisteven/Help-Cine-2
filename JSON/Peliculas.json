@@ -3,32 +3,32 @@
 
         {
             "id": "1",
-            "categoria": "Infantil",
-            "Nombre": "Cars",
-            "Estreno": "21-5-04",
-            "img": "./img/cars.jpg",
-            "reseña": "Un pequeño y nuevo coche de carreras, llamado Rayo McQueen, se está preparando para ser un experto corredor y convertirse en uno de los automóviles más respetados en el panorama internacional. Un día toma la decisión de cambiar por completo su vida y se dirige a Radiator Springs, un pequeño y desértico pueblo donde hace nuevos amigos y comprenderá el verdadero sentido de su existencia. Allí entablará una buena relación con el Porsche Sally, Doc Hudson y Mater, una vieja camioneta que le hará comprender que hay cosas más importantes que los trofeos y la fama, algo que sin duda había sido el propósito del protagonista desde que se comprometió a participar en el mundo de las carreras. ¿Podrá Rayo McQueen dejar de lado todas estas cosas y centrarse en lo que de verdad merece la pena?",
-            "puntos": "7",
-            "actores": "Owen Wilson, Paul Newman, Bonnie Hunt",
-            "director": "John Lasseter"
+            "categoria": "Ciencia Ficcion",
+            "Nombre": "La llegada",
+            "año": "2014",
+            "img": "./img/lallegada.jpg",
+            "reseña": "UNA OBRA DE ARTE DE LA CIENCIA FICCIÓN, UNA PELÍCULA DIFERENTE A LAS CLASICAS DE INVASIONES EXTRATERRESTRES. BASADA EN LA NOVELA 'LA HISTORIA DE TU VIDA' DE TED CHIANG. DOCE NAVES ALIENÍGENAS HAN LLEGADO A LA TIERRA LA QUE VINIERON?. EL GOBIERNO DE LOS EEUU CONTRATA A UNA LINGÜISTA PARA SABERLO... Actuaciones..AMY ADAMS INTERPRETA A LOUISE BANKS, LA LINGÜISTA QUE SE ENCARGA DE COMUNICARSE CON LOS VISTANTES, CON LA CUAL OBTUVO LA NOMINACION A MEJOR ACTRIZ EN LOS GLOBOS DE ORO. Atrapante..LA EXCELENTE DIRECCIÓN, GUIÓN, FOTOGRAFÍA Y BANDA SONORA SON LA COMBINACIÓN PERFECTA QUE TE ATRAPARA EN LA PELÍCULA. TE ADVIERTO, NO TE TRAERÁ MUCHAS CERTEZAS... Premios..ESTA MARAVILLOSA PELÍCULA TUVO SUS RECONOCIMIENTOS A SER NOMINADA EN 8 CATEGORÍAS EN LOS ÓSCAR, 2 EN LOS GLOBOS DE ORO Y 9 EN LOS PREMIOS BAFTA, entre otros",
+            "puntos": "8",
+            "actores": "Amy Adams, Jeremy Renner, Forest Whitaker, Michael Stuhlbarg, Tzi Ma, Mark O'Brien, Frank Schorpion, Sangita Patel y Russell yuen",
+            "director": "Denis Villeneuve"
         },
         {
             "id": "p2",
-            "categoria": "Infantil",
-            "Nombre": "Blancanieves",
-            "Estreno": "22-10-16",
-            "img": "./img/blancanieves.jpg",
-            "reseña": "Sevilla. Años veinte. Carmen Macarena García, 'Amar en tiempos revueltos', ha vivido toda su infancia bajo el yugo de su terrible madrastra, Encarna (Maribel Verdú, 'La buena estrella'. Cansada de la represión a la que la somete, la joven decide escapar y vivir nuevas aventuras que le permitan olvidar su traumático pasado. Carmen iniciará un viaje de huída y de descubrimientos que la transformará por completo. Durante ese viaje, contará con una compañía muy especial: la de siete enanitos toreros, que intentarán protegerla en todo momento.",
-            "puntos": "6",
-            "actores": "Maribel Verdú, Macarena García, Daniel Giménez Cacho",
-            "director": "Pablo Berger"
+            "categoria": "Drama",
+            "Nombre": "Special Correspondents",
+            "año": "2014",
+            "img": "./img/special.jpg",
+            "reseña": "UNA COMEDIA SATÍRICA QUE NO TE PODES PERDER, CON UN PERIODISTA NARCISISTA Y SU ANTITESIS ASISTENTE DE SONIDO. UN EQUIPO DE UNA RADIO ENVIADO A ECUADOR PIERDE SUS PASAPORTES Y TERMINAN INVENTANDO LOS REPORTES DESDE UN ÁTICO, HASTA QUE LAS COSAS SE SALEN DE CONTROL... Temas..UNA PELÍCULA CÓMICA QUE ABARCA TEMAS COMO LAS FAKE NEWS, LAS PRIORIDADES DE LOS MEDIOS DE COMUNICACIÓN Y LA VISIÓN DE LOS NORTEAMERICANOS RESPECTO A LATINOAMERICA. Un genio del humor..LA PELÍCULA ESTÁ PROTAGONIZADA, GUIONADA Y DIRIGIDA POR RICKY GERVAIS, GANADOR DE UN GLOBO DE ORO POR SU PARTICIPACIÓN EN THE OFFICE, ENTRE OTROS PREMIOS.",
+            "puntos": "7",
+            "actores": "Ricky Gervais, Eric Bana, Vera Farmiga, Benjamin Bratt, América Ferrera, Kelly McDonald, Kevin Pollak, Meghan Heffern, Raul Castillo y Mimi Kuzyk",
+            "director": "Ricky Gervais."
 
         },
         {
             "id": "p3",
             "categoria": "Ciencia Ficcion",
             "Nombre": "Al filo del maniana",
-            "Estreno": "27-11-16",
+            "año": "2014",
             "img": "./img/Alfilodelmañana.jpg",
             "reseña": "En el futuro una salvaje invasión extraterrestre a la Tierra tendrá como objetivo la destrucción de la raza humana. La historia se desarrolla justo en este momento, donde un hombre (Tom Cruise) y una mujer (Emily Blunt) hacen todo lo posible por resistir al ataque y evitar así su desaparición. El protagonista es uno de los soldados implicados más experimentado en esta cruda guerra, ya que lleva mucho tiempo luchando en ella. El día que muere durante el combate se queda atrapado en un bucle continuo al estilo de 'Atrapado en el tiempo', que lo hará resucitar constante e inevitablemente, reapareciendo una y otra vez en el mismo día de su muerte para luchar y volver a morir en la misma guerra. Cada día que pasa, el soldado vuelve a morir. Su objetivo cada vez que despierta es convertirse en un guerrero aún más letal capaz de detener la invasión extraterrestre. Tras numerosos intentos, se dará cuenta de que su misión es evitar el ataque, ya que la experiencia le demuestra que una vez iniciada la conquista alienígena la raza humana no tiene ninguna oportunidad de sobrevivir. El protagonista deberá ir cambiando los acontecimientos dentro del bucle en el que se encuentra atrapado para evitar el exterminio del hombre, la aniquilación de nuestro planeta y su muerte. De esta forma, el soldado descubrirá la verdadera importancia de cada acto y sus consecuencias, y todo lo que ello esconde detrás...",
             "puntos": "8",
@@ -38,12 +38,11 @@
 
         {
             "id": "p5",
-            "categoria": "Anime",
-            "Nombre": "Dragon Ball Z",
-            "Estreno": "2-10-11",
-            "img": "./img/dragonball.jpg",
-            "reseña": "La paz ha llegado a la Tierra. Sin embargo, todavía quedan resquicios del ejército de Freezer. Sorbet y Tagamo, antiguos miembros de élite de esta armada, han acabado por llegar al planeta. El objetivo principal es revivir a su líder con las Bolas de Dragón y planear su venganza contra los Saiyajin. Pero si Goku y Vegeta quieren salvar al mundo deben alcanzar el nivel de verdaderos dioses",
-            "actores": "Masako Nozawa, Ryô Horikawa, Hiromi Tsuru",
+            "categoria": "Comedia",
+            "Nombre": "Fuerza espacial",
+            "año": "2014",
+            "img": "./img/fuezaespacial.jpg",
+            "reseña": "EL 9 DE AGOSTO DE 2018 EL PRESIDENTE DE ESTADOS UNIDOS ANUNCIABA LA CREACIÓN DE UNA NUEVA RAMA DE LAS FUERZAS ARMADAS. CONSTANTEMENTE PARODIANDO LAS DIFERENCIAS ENTRE LAS DISTINTAS RAMAS DE LAS FUERZAS armadas. EEUU vs china..COMO SIEMPRE EL GRAN COMPETIDOR DE ESTA FUERZA ES SU PAR ASIÁTICO DONDE SIEMPRE VAN UN PASO ADELANTE... Actuacion..STEVEN CARELL, GANADOR DEL GLOBO DE ORO POR 'THE OFFICE', INTERPRETA AL GENERAL MARK NAIRD. UN GENERAL AL CUAL LE ENSEÑARON QUE UNA BOMBA SOLUCIONA TODO.",
             "director": "Tadayoshi Yamamuro",
             "puntos": "6"
         },
@@ -52,7 +51,7 @@
             "id": "p7",
             "categoria": "Suspenso",
             "Nombre": "Contratiempo",
-            "Estreno": "2-10-11",
+            "año": "2014",
             "img": "./img/contratiempo.jpg",
             "reseña": "Adrián Doria (Mario Casas) es un exitoso empresario que es acusado de un asesinato, aunque él se declara inocente. Para defenderse, contrata los servicios de la mejor preparadora de testigos del país, Virginia Goodman (Ana Wagener), con quien trabaja una noche para encontrar un argumento que logre liberarle de la cárcel. Pero la aparición de un nuevo testigo de cargo hace peligrar su estrategia, viéndose obligados a recomponer las piezas de un puzle imposible con el tiempo en su contra.",
             "actores": "Mario Casas, Bárbara Lennie, Ana Wagener",
@@ -62,23 +61,23 @@
         },
         {
             "id": "p8",
-            "categoria": "Accion",
-            "Nombre": "Busqueda Implacable",
-            "Estreno": "2-10-11",
-            "img": "./img/busquedaimplacable.jpg",
-            "reseña": "el agente retirado de la CIA, Bryan Mills, busca tener una relación más cercana con su hija, de 17 años, Kim, quien vive con su ex esposa y su nuevo marido. El trabajo lo alejo de su familia, le costo su divorcio, pero se resiste a ser una razón para el distanciamiento con Kim. Sirviendo como guardaespaldas de una cantante de pop famosa, Bryan considera que puede conseguirle ayuda a Kim para que pruebe suerte en la música, pero antes de ofrecerle dicha oportunidad, la chica le anuncia que viajará a París con una amiga. Bryan, que ha sido sobreprotector con su hija, accede a regañadientes, pero, pronto, sus temores se vuelven realidad cuando Kim se comunica desde su cuarto de hotel, antes de ser secuestrada por una banda de trata de personas. Mills decide viajar a París para rescatarla, sabiendo que tiene un periodo de 96 horas antes de que le pierda rastro para siempre",
-            "actores": "Liam Neeson, Maggie Grace, Famke Janssen",
-            "director": "Pierre Morel",
+            "categoria": "Drama",
+            "Nombre": "El código enigma",
+            "año": "2014",
+            "img": "./img/codigoenigma.jpg",
+            "reseña": "SE CUMPLEN 67 AÑOS DE LA MUERTE DE ALAN TURING, CIENTÍFICO QUE INSPIRÓ ESTA MARAVILLOSA PELÍCULA. un heroe secreto..TURING, DURANTE LA SEGUNDA GUERRA MUNDIAL, SALVÓ MILLONES DE VIDAS AL DESIFRAR EL CÓDIGO NAZI Y PREVENIR SUS ATAQUES PERO TODO ESO RECIEN SE SABRÍA MUCHOS AÑOS DESPUÉS. TURING FUE CONDENADO POR SER HOMOSEXUAL AÑOS DESPUÉS DE SUS TRABAJOS EN LA SEGUNDA GUERRA MUNDIAL Y OBLIGADO A CUMPLIR UN TRATAMINETOS DE HORMONAS. Actuacion. EL CAMALEONICO BENEDICT CUMBERBATCH, INTERPRETA A ESTE GENIO MATEMÁTICO A LA PERFECCIÓN Dato curioso..EN HONOR A TURING, STEVE JOBS DECIDE QUE LA MANZANA MORDIDA SEA EL LOGO DE SU EMPRESA. YA QUE TURING SE SUICIDÓ COMIENDO UNA MANZANA CON CIANURO.",
+            "actores": "Benedict Cumberbatch, Keira Knightley, Matthew Goode, Mark Strong, Charles Dance, Allen Leech, Matthew Beard y Rory Kinnear",
+            "director": "Morten Tyldum",
             "puntos": "7"
 
         },
         {
             "id": "p9",
-            "categoria": "Accion",
-            "Nombre": "Terminator",
-            "Estreno": "2-10-11",
-            "img": "./img/terminator.jpg",
-            "reseña": "En el año 2029, después de devastar la Tierra y esclavizar a la humanidad, las máquinas, gobernadas por la inteligencia artificial conocida como Skynet, están a punto de perder la guerra contra la resistencia humana liderada por John Connor",
+            "categoria": "Suspenso",
+            "Nombre": "El sustituto",
+            "año": "2014",
+            "img": "./img/elsustituto.jpg",
+            "reseña": "EN EL DÍA DE SU CUMPLEAÑOS Y EN EL DÍA INTERNACIONAL DE LOS NIÑOS VICTIMAS DE AGRESIÓN, RECORDAMOS ESTA expectacular pelicula. AMBIENTADA EN 1928, UN NIÑO DESAPARECE SIN DEJAR RASTROS. MESES MÁS TARDE LA POCILÍA DICE ENCONTRARLO, PERO LA MADRE ASEGURA QUE ESE NO ES SU HIJO... BASADA EN LOS CRÍMENES DE WINEVILLE, SERIE DE SECUESTROS Y ASESINATOS DE NIÑOS EN LOS ÁNGELES (EEUU) Direccion..EL FILM CUENTA CON EL TALENTO DE CLINT EASTWOOD Y SU MARAVILLOSA FORMA DE CONTAR UN HECHO REAL. Actuacion..ANGELINA JOLIE INTERPRETA UN PAPEL DIFERENTE A LOS HABITUALES. PERO DE UNA MANERA EXCELENTE QUE TRASMITE TODOS LOS SENTIMIENTOS DE UNA MADRE EN ESAS CIRCUSTANCIAS",
             "actores": "Arnold Schwarzenegger, Michael Biehn, Linda Hamilton",
             "director": "James Cameron",
             "puntos": "8"
@@ -94,6 +93,29 @@
             "puntos": "8",
             "director": "Don Hall y Carlos López Estrada.",
             "reseña": "Una pelicula sumamente ENTRETENIDA, CON UNA ANIMACIÓN DE LUJO Y PERSONAJES QUERIBLES BAJO LA DIRECCIÓN DE UN GANADOR DE UN ÓSCAR. 500 AÑOS DESPUÉS DEL SACRIFICIO DE LOS DRAGONES PARA SALVAR A LOS HUMANOS, ESAS FUERZAS MALIGNAS VOLVIERON Y SERÁ RAYA LA ENCARGADA DE ENCONTRAR AL ÚLTIMO DRAGÓN Y RESTAURAR EL ORDEN. Raya.. SIGUIENDO CON LA LÍNEA DE LAS PRINCESAS COMO MOANA Y FROZEN, RAYA ES UN PERSONAJE DESCONFIADO QUE DEBERÁ VOLVER A CONFIAR EN ALGUIEN PARA PODER DERROTAR LAS FUERZAS OSCURAS Y RESTAURAR LA union. Sisu EL CORAZÓN Y ALMA DE LA PELÍCULA. ES QUIEN LE AGREGA LA CUOTA DE HUMOR AL FILM, PERO A LA VEZ ES LA UNIÓN DE MUCHOS OTROS PERSONAJES Y LA REPRESENTACIÓN DE LA CONFIANZA Y LA ESPERANZA POR EL OTRO. UNO DE LOS PUNTOS MÁS ALTOS DEL FILM (APARTE DE SUS PERSONAJES) ES LA SOLTURA EN LA QUE PASA DEL HUMOR A LA ACCIÓN Y DESDE AHÍ A LO DRAMÁTICO SIN HACER NOTAR NADA FORZADO. animaciones.. WALT DISNEY ANIMATION STUDIOS LO HIZO DE NUEVO. UNA BRILLANTE ANIMACIÓN QUE CADA VEZ LO LLEVA MÁS A LO REAL ENTRE LOS MOVIMIENTOS, LAS GESTICULACIONES DE LOS PERSONAJES Y ESA AMBIENTACIÓN DEL SUDESTE ASIÁTICO MARAVILLOSA. Mensaje.. CLARAMENTE EL FILM DEJA UN MENSAJE DE CONFIAR EN EL OTRO SIN JUZGAR ERRORES DEL PASADO Y DAR UNA SEGUNDA OPORTUNIDAD. TAMBIÉN COMO UN RANGO NO TE DEFINE, SINO TUS ACCIONES."
+        },{
+            "id": "p117",
+            "categoria": "Policiales",
+            "Nombre": "La corazonada",
+            "año": "2020",
+            "actores":"Joaquim Furriel, Luisana Lopilato, Rafael Ferro, Maite Lanata, Juan Guilera, Abel Ayala, Sebastian Modordoy, Delfina Chaves, Marita Ballesteros",
+            "director":"Alejandro Montiel",
+            "puntos":"6",
+            "img":"./img/corazonada.jpg",
+            "reseña":"una total decepción. Primera producción argentina de Netflix. Un policial con muchas buenas actuaciones como la de Joaquin Furriel, Rafael Ferro y Maite Lanata y otras que dejan mucho que desear. Basada en la novela de Florencia Etcheves 'La virgen en tus ojos'. Una trama donde la intención es tratar a todos de culpables en la investigación de dos crímenes en paralelo (un ex convicto de 19 años que mato a la mujer del inspector Juanes y es atropellado terminando con su vida; y el crimen de la hija de un empresario) lo cual no se logra. Recién al final de la película empieza a tomar fuerza. ."
+        },
+        {
+            "id": "p118",
+            "categoria": "Drama",
+            "Nombre": "18 regalos",
+            "año": "2020",
+            "img": "./img/18regalos.jpg",
+            "actores":"Vittoria Puccini, Benedetta Porcaroli, Edoardo Leo, Sara Lazzaro, Marco Messeri, Elisabetta Pedrazzi, Alessandro Giallocosta",
+            "director":"Francesco Amato",
+            "reseña":"una película de produccion italiana basada en la historia real de Elisa Girotto. Una madre la cual durante su embarazo descubre que padece de cáncer y planea dejarle 18 regalos a su pequeña Anna en cada uno de sus cumpleaños hasta llegar a la mayoría de edad. Protagonizada por Vittoria Puccini, Benedetta Porcaroli , una película que medirá tu capacidad de contener las lagrimas. Y te trasmitira mensajes preciosos.",
+            "puntos":"8"
+
+
         },
 
 
@@ -861,6 +883,31 @@
 
         },
         {
+            "id": "p115",
+            "Nombre":"Dia del atentado",
+            "categoria":"Thriller",
+            "puntos":"7",
+            "img": "./img/dia_del_atentado.jpg",
+            "actores":"Mark Wahlberg, John Goodman, JK Simmons, Vincent Curatola, James Colby, Jimmy Yang, Michelle Monaghan, Kevin Bacon, Alex Wolff y Themo Melikidze.",
+            "director":"Peter Berg",
+            "año":"2016",
+            "reseña":"UNA COMBINACIÓN ENTRE HECHOS REALES Y PERSONAJES FICTICIOS QUE HACEN A ESTA PELÍCULA EMOCIONANTE Y ESCALOFRIANTE...BASADA EN EL ATENDADO EN BOSTON EN EL AÑO 2013, NARRA LOS HECHOS DEL ANTES, DURANTE Y EL DESPUÉS DEL ATENTADO. COMO FUE EL ROL DE LOS MEDIOS Y LAS DISTINTAS FUERZAS DE SEGURIDAD. Mark wahlberg..EL ACTOR INTERPRETA A UN POLICÍA FUNDAMENTAL EN LA DETENCIÓN DE LOS TERRORISTAS, AUNQUE ESTE PERSONAJE ES FICTICIO ESTA INSPIRADO EN 3 POLICÍAS REALES. SI ALGO NO LE FALTA A ÉSTA INTERESANTE PELÍCULA ES EL PATRIOTISMO NORTEAMERICANO, QUE SE BUSCA INSTALAR CONSTANTEMENTE QUE termina cansando. El duo..NUEVAMENTE EL DIRECTOR PETER BERG CONVOCA A WAHLBERG, LUEGO DE TRABAJAR JUNTOS EN 'HORIZONTE PROFUNDO' Y 'EL SOBREVIVIENTE', TODAS BASADAS EN HECHOS REALES."
+
+            
+        },
+        {
+            "id": "p116",
+            "Nombre":"Game nigth",
+            "categoria":"Comedia",
+            "puntos":"7",
+            "actores":"Jason Bateman, Rachel McAdams, Billy Magnussen, Sharon Horgan, Lamorne Morris, Kylie Bunbury, Jesse Plemons, Michael Hall y Kyle Chandler.",
+            "director":"John Daley y Jonathan Goldstein",
+            "año":"2018",
+            "img": "./img/game_nigth.jpg",
+            "reseña":"¿TE GUSTAN LAS COMEDIAS? LEL HUMOR NEGRO?, ENTONCES NO TE PODES PERDER ESTA PELÍCULA... LAS NOCHES DE JUEGOS DE UN GRUPO DE AMIGOS SE VUELVE BASTANTE EXTRAÑA CUANDO UNO DE ELLOS PLANTEA UN PARTICULAR JUEGO DE SECUESTROS... El elenco..LA PELÍCULA POSEE UN ELENCO DE EXCELENCIA, CON CUALQUIERA DE ELLOS NO FALTARÁ EL MOMENTO EN EL QUE SE TE ESCAPARÁ UNA CARCAJADA... Jason bateman..MENTRAS SE DESTACABA EN SU PAPEL EN 'OZARK', SE DIO EL PLACER DE VOLVER A SUS RAÍCES EN LA COMEDIA Y DE EXCELENTE MANERA, UN ACTOR MULTIFACÉTICO. "
+
+        },
+        {
             "id": "p27",
             "categoria": "Infantil",
             "Nombre": "Space Jam",
@@ -1338,14 +1385,14 @@
             "reseña": "Una pelicula basada en un hecho real impactante. con varios puntos altos y otros bastante bajos, pero igual es interesante de ver. Una joven agente edl fbi llega a un pequeño publo con grandes aspiraciones, donde se enredara con una joven informante tanto en el ambito laboral como el amoroso. Emilia clarke la reconocida actriz interpreta a susan de una manera brillante, esta joven adicta e informante del fbi que paso por momentos muy dificiles y buscara encontrar la paz. Jack huston interpreta a mark, un joven agente del fbi con grandes ambiciones en detener el trafico de drogas, donde demostrara una falta de empatia y misoginia, alarmantes. La historia esta basada en el libro homonimo de no ficcion de joe sharkey, publicado el 14 de octubre de 1994, sobre la relacion entre estos dos protagonistas que ocurrio en kentucky en 1989. El desarrollo de la pelicula se puede definir como una montaña rusa, con un primer acto interesante, un segundo acto bastante chato sin mucho atractivo y un tercer acto donde el film crece exponencialmente. Phillip Noyce director de la pelicula que utiliza muy bien el recurso de primer plano para remarcar el sentimiento preciso de los personajes y tapar el flojo guion que hay detras del film. el final claramente si conoces el casomo te va a sorprenderm por eso mismo te recomiendo no investigar nada del caso antes de ver la pelicula. que no me gusto? como ya mencione el segundo acto de la pelicula me parecio muy plano, la premisa e importancia de la historia merecia una narracion mucho mas profunda de lo que propone finalmente el film. Sumandole la poca importancia que se les da a algunos personajes "
         }, {
             "id": "p51",
-            "Nombre": "Crimen y deseo",
-            "categoria": "Thriller",
-            "puntos": "7",
-            "director": "Phillip Noyce",
-            "actores": "Emilia Clarke, Jack Huston, Thora Birch, Johnny Knoxville, Karl Glusman, Sophie Lowe, Kevin Dunn, Joshua Mikel, Chris Mulkey, Brittany O’Grady",
-            "año": "2018",
-            "img": "./img/crimendeseo.jpg",
-            "reseña": "Una pelicula basada en un hecho real impactante. con varios puntos altos y otros bastante bajos, pero igual es interesante de ver. Una joven agente edl fbi llega a un pequeño publo con grandes aspiraciones, donde se enredara con una joven informante tanto en el ambito laboral como el amoroso. Emilia clarke la reconocida actriz interpreta a susan de una manera brillante, esta joven adicta e informante del fbi que paso por momentos muy dificiles y buscara encontrar la paz. Jack huston interpreta a mark, un joven agente del fbi con grandes ambiciones en detener el trafico de drogas, donde demostrara una falta de empatia y misoginia, alarmantes. La historia esta basada en el libro homonimo de no ficcion de joe sharkey, publicado el 14 de octubre de 1994, sobre la relacion entre estos dos protagonistas que ocurrio en kentucky en 1989. El desarrollo de la pelicula se puede definir como una montaña rusa, con un primer acto interesante, un segundo acto bastante chato sin mucho atractivo y un tercer acto donde el film crece exponencialmente. Phillip Noyce director de la pelicula que utiliza muy bien el recurso de primer plano para remarcar el sentimiento preciso de los personajes y tapar el flojo guion que hay detras del film. el final claramente si conoces el casomo te va a sorprenderm por eso mismo te recomiendo no investigar nada del caso antes de ver la pelicula. que no me gusto? como ya mencione el segundo acto de la pelicula me parecio muy plano, la premisa e importancia de la historia merecia una narracion mucho mas profunda de lo que propone finalmente el film. Sumandole la poca importancia que se les da a algunos personajes "
+            "Nombre": "Bala perdida",
+            "categoria": "Accion",
+            "puntos": "4",
+            "director": "Guillaume Pierret",
+            "actores": "Alban Lenoir, Ramzy Bedia, Nicolas Duvauchelle, Stefi Celma, Rod Paradot, Pascale Arbillot, Sebastien Lalanne y Patrick Médioni",
+            "año": "2020",
+            "img": "./img/balaperdida.jpg",
+            "reseña": "UNA TOTAL DECEPCIÓN, UNA MALA COPIA DE RÁPIDOS Y FURIOSOS EN COMBINACIÓN CON UNA MALA COPIA DE DURO DE MATAR...UN CONVICTO ES CONTRATADO POR LA POLICÍA POR SU CAPACIDAD DE MODIFICAR Y MEJORAR AUTOS, HASTA QUE DESCUBRE UNA RED DE CORRUPCIÓN DENTRO DE LA MISMA Y ES CULPADO DE UN CRIMEN QUE NO COMETIÓ. Predecible..DONDE TODO PARECE VELOCIDAD, LA PELÍCULA SE HACE ETERNA, RECIÉN AL FINAL SE VUELVE 'ENTRETENIDA', CON UNA HISTORIA ABURRIDA Y SOBREACTUACIONES muy notorias. "
         }
 
 
