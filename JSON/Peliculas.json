@@ -1,5 +1,40 @@
 {
     "Peliculas": [
+        {
+            "id": "p119",
+            "Nombre": "free guy",
+            "categoria": "comedia",
+            "director": "Shawn Levy",
+            "actores": "Ryan Reynolds, Jodie Comer, Lil Rel Howery, Utkarsh Ambudkar, Joe Keery, Taika Waititi, Britne Oldford, Camille Kostek, Jamaal Burcher, Bob Gilliam, entre otros.",
+            "año":"2021",
+            "puntos":"8",
+            "img": "/img/freeguy.jpg",
+            "reseña":"Aventura, acción, humor, originalidad, otro punto de vista y una crítica a la industria desde la industria. Una película que hacía falta. Guy es una persona alegre y que al parecer nada le molesta, hasta que descubre que su ciudad es simplemente un videojuego y él un NPC (un personaje no jugable) por eso ahora se enfrentará en contra de todo para poder salvar su ciudad de su propio creador. Ryan Reynolds... Es quien interpreta a nuestro protagonista guy, una muy buena actuación llena de humor desde lo físico y lo verbal. Un personaje que le aporta una mirada distinta a todo desde lo superficial hasta lo más profundo y eje central del humor de la película. Joe Keery y Jodie Comer..En los papeles de Keys y Millie respectivamente, son los protagonistas fuera del videojuego. Dos amigos amantes de los videojuegos que crearon su propio videojuego, pero por temas laborales su amistad se complicó. Dos personajes sencillos pero fundamentales en la historia. Taika Waititi...El recocido director y actor interpreta al antagonista del film, creador de esta ciudad ficticia y dueño de una empresa de videojuegos que se hace llamar Antwan. En mi opinión el más flojo del film con una actuación grotesca y sobreactuada por momentos, pero un personaje interesante que sirve para la critica que plantea la película. Originalidad... Honestamente al entrar a ver la película me esperaba una versión cómica de ready player one (si no la vieron simplemente háganlo) pero lo único parecido que tiene son las menciones a juegos y películas. Es una idea original que cambia el punto de vista que estamos acostumbrados y hace que el protagonista sea ese que nunca lo es ni busca serlo. Critica a la industria desde adentro..La película tiene un trasfondo claro criticar a la industria por la falta de historias originales debido a la gran cantidad de live-action, Remake, spin-off y secuelas de historias ya contadas, ¿lo curioso? La película es de 20th Century Studios que pertenece a Disney que actualmente está sacando mucho provecho de eso. Visual.. A la película se le puede criticar por algún que otro personaje, momento o chistes muy norteamericanos, pero no se puede negar lo espectacular que es visualmente desde el afuera del juego como la reconstrucción de esta ciudad virtual, sus personajes y la calidad excelente del CGI. Shawn Levy.. Director de la película, reconocido por su labor en la trilogía de una noche en el museo con una gran trayectoria en la comedia. En este caso logra un film que tenía todo para ser una película más, pero logra una originalidad en la historia y que no abusa de los guiños a los videojuegos y películas más populares. "
+            
+        },
+        {
+            "id": "p120",
+            "Nombre": "Mother!",
+            "categoria": "Thriller",
+            "director": "Darren Aronofsky",
+            "actores":"Jennifer Lawrence, Javier Bardem, Ed Harris, Michelle Pfeiffer, Domhnall Gleeson, Kristen Wiig, Brian Gleeson, Cristina Rosato, Marcia Jean Kurtz, Ambrosio De Luca, entre otros. ",
+            "puntos":"8",
+            "año":"2017",
+            "img": "/img/mother.jpg",
+            "reseña":"Un Thriller psicológico con grandes actuaciones, una historia llena de simbolismos y que busca general una incomodidad constante en el espectador. Argumento.. una mujer se dedica restaurar su hogar después de un incendio, su marido un reconocido poeta pasa con un bloqueo artístico, pero la llegada de gente extraña a la casa desatará una ola de confusiones e inquietudes. Jennifer Lawrence.. En el papel de esta mujer que nunca se menciona su nombre, con una actuación brillante con poco dialogo pero con una actuación física demoledora, será nuestros ojos, nuestros oídos y la trasmisora de sentimientos de la confusión y locura que se está viviendo en esa casa. Javier Bardem.. Otra gran actuación en el papel del poeta con un bloqueo artístico y quien se encarga de sembrar la locura que se desatará en la casa. Un personaje que a simple vista te das cuenta su importancia y rol, llevar al extremo a la representación de la sociedad. Elenco.. Siguiendo con el concepto de no revelar nombres de los personajes el film cuenta con Ed Harris en el papel del hombre y Michelle Pfeiffer como la mujer, los dos primeros en llegar a esta casa en clara representación de adán y Eva.  Interpretes.. ¿Qué no quiere mostrar?.. La película es una alegoría entre la relación madre tierra (Jennifer Lawrence), Dios (Javier Bardem) y la humanidad. Esconde una gran metáfora y critica a la relación entre estas representaciones incluyendo constantemente menciones de la biblia. Busca criticar conceptos del antiguo testamento y el abuso de la sociedad a la madre tierra. Incomodidad... No solo busca incomodar desde a compleja narrativa o esta gran metáfora entre la madre tierra, dios y la humanidad, sino también desde la impresión visual con escenas perturbadoras y el sonido ambiente con ruidos que molestan a la mayoría de la gente en la vida cotidiana como maderas rechinando o vidrios rotos. Darren Aronofsky..Es el director y guionista del film que curiosamente solo tardó 5 días en hacer el guion. Sigue con su línea característica de buscar dejar una crítica a través de incomodar al espectador con sus películas como lo vimos en 'El luchador', 'el cisne negro', 'Requiem por un sueño', entre otras. El final.. Lo más visceral y perturbador de la película sin lugar a dudas, llevando al extremo esta alegoría que presenta el director ¿hasta cuándo aguantara la madre tierra la avaricia y los abusos de la humanidad? "
+        },
+        {
+            "id": "s42",
+            "categoria": "Comedia",
+            "Nombre": "Ha vuelto",
+            "img": "./img/series/havuelto.jpg",
+            "reseña": "POR PRIMERA VEZ UNA RESEÑA DOBLE, UNA SÁTIRA POLÍTICA ALEMANA Y UN REMAKE ITALIANO INTERESANTES DE VER. AMBAS PELÍCULAS PLANTEAN LA MISMA HISTORIA. POR UN LADO, LA VUELTA DE HITLER A MÁS DE 70 AÑOS DE SU MUERTE. Y POR EL OTRO LA VUELTA DE MUSSOLINI A MÁS DE 70 AÑOS DE SU MUERTE. Oliver masucci..QUIEN GANÓ POPULARIDAD POR SU PAPEL EN LA SERIE DARK, INTERPRETA A HITLER EN LA PRODUCCIÓN ALEMANA DE 2015, RESPETANDO LAS IDEAS, PERO NO ASÍ LAS MANERAS DE ACTUAR DEL DICTADOR ALEMÁN. Massimo popolizo..ES QUIEN TOMA EL PAPEL DE BENITO MUSSOLINI EN EL REMAKE DE 2018. AL IGUAL QUE MASUCCI RESPETA LAS IDEAS FASCISTAS, PERO NO ASÍ EL ACCIONAR, EN ESTE CASO, DEL DICTADOR ITALIANO. La historia..ESTÁ BASADA EN EL LIBRO HOMÓNIMO DEL PERIODISTA ALEMÁN TIMUR VERMES. EN CAMBIO, EL REMAKE RESPETA MUCHO LAS BASES DE LA ORIGINAL, OBVIAMENTE CAMBIANDO PROTAGONISTAS Y DETALLES DE LA HISTORIA en si",
+            "puntos":"6",
+            "actores":"Oliver Masucci, Fabián Busch, Christoph Maria Herbst, Katia Riemann, Franziska Wulf. Massimo Popolizio, Frank Matano, Stefania Rocca, Gioele Dix, Ariella Reggio",
+            "director":"David Wnend/Luca Miniero",
+            "año":"2015/2018"
+    
+        },
 
         {
             "id": "1",

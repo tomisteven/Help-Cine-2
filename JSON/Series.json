@@ -1,12 +1,23 @@
 {
     "Series": [
         {
+            "id":"p44",
+            "Nombre":"El reino",
+            "img":"./img/series/elreino.jpg",
+            "categoria":"Policiacas",
+            "actores":"Diego Peretti, Chino Darín, Mercedes Morán, Nancy Dupláa, Joaquín Furriel, Peter Lanzani, Vera Spinetta, Nicolás García, Victoria Almeida, Alfonso Tort, entre otros.",
+            "director":"Marcelo Piñeyro y Claudia Piñeiro",
+            "puntos":"7",
+            "año":"2021",
+            "reseña":"Una nueva serie argentina de Netflix con un elenco de lujo, una historia atrapante e interesante y con una bajada de línea política bien marcada. Argumento.. El pastor evangélico Emilio Pena deberá asumir la candidatura a presidente cuando su compañero es asesinado en pleno acto político. Entre la política y la religión ¿Cuál esconde más oscuros secretos?.Diego Peretti...Es quien interpreta con una correcta actuación al pastor Emilio Pena, un personaje que va evolucionando con el correr de la serie, un pastor donde su fuerte es la palabra (tanto a nivel personaje como actoral) pero que esconde más de lo que dice. Peter Lanzani y chino Darín...En mi opinión las dos mejores actuaciones y los dos mejores personajes. Peter lanzani en el papel de Tadeo siempre apegado a la fe y el chino darín en el papel de julio que representa más a la parte política donde buscan el camino correcto dentro del oscuro mundo de las dos ramas. Representando el lado luminoso de la oscuridad de la religión y la política. Joaquín Furriel.. Con una gran actuación en el papel de Rubén Osorio, un intermediario/consultor político fundamental en la campaña del pastor Emilio Pena, un personaje muy importante en la serie y en su gran mayoría bien utilizado. Lo único que no me gustó fue su historia de origen que la note forzada y sin sentido más que una bajada de línea política. Elenco.. En la serie nos encontramos con otros grandes nombres a los mencionados como en de Nancy Dupláa como la fiscal encargada del caso, Mercedes Moran como la esposa del pastor (un personaje bastante siniestro y excelente), Alejandro Awada como el procurador nacional y Sofía Gala en un papel que funciona para demostrar los alcances de las figuras públicas. ¿Qué no me gustó?...  Lo fundamental es que plantea una actualidad de fe ciega que no opino que este así (no quiere decir que este mal, sirve para la idea base de la serie), si sigue con muchos estereotipos a la hora de mostrarnos físicamente a los personajes, la serie tienen varios errores de continuidad (por favor presten atención a los cafés que toma el personaje de Nancy dupláa) y escenas sin sentido. ¿Qué busca la serie?..Salvando las distancias, obviamente, la serie podría ser una creación de spike lee, busca dejar forzadamente y excesivamente una bajada de línea política en contra de la unión entre estado y religión. Por otro lado, más sutilmente una crítica a la sociedad sobre la fe ciega hacia figuras públicas y que muchas veces la fe se encuentra en los lugares menos esperados. ¿habrá segunda temporada?.. Por el momento no hay una confirmación oficial y dependerá del éxito de la serie. El final deja un puntapié para una nueva temporada que yo en particular me gustaría que llegue ya que quedaron grandes incógnitas que resolver."
+        },
+        {
         "id": "s1",
         "categoria": "Accion",
         "Nombre": "Lupin",
-        "Estreno": "20-05-21",
+        
         "img": "./img/series/lupin.jpeg",
-        "reseña": "interesante serie francesa original de netflix, con buenas actuaciones , una muy entretenida historia y unos cuantos errores. assane tiene decidido vengar la muerte de su padre, para eso personificara en vida a un famoso ladron de gante blanco de la tireratura francesa. La historia se inspira en un personaje literario de arsene lupin, creado por el escritor frances maurice leblanc, del cual escribio 24 novelas entre 1907 a 1935",
+        "reseña": "interesante serie francesa original de netflix, con buenas actuaciones , una muy entretenida historia y unos cuantos errores. assane tiene decidido vengar la muerte de su padre, para eso personificara en vida a un famoso ladron de gante blanco de la tireratura francesa. La historia se inspira en un personaje literario de arsene lupin, creado por el escritor frances maurice leblanc, del cual escribio 24 novelas entre 1907 a 1935. Omar sy..ESTE ES UN PUNTO A DESTACAR, LA GRAN ACTUACIÓN Y EVOLUCIÓN DEL PERSONAJE DE ASSANE DIOP. NO QUEDÁNDOSE EN LA ZONA DE CONFORT QUE MUCHAS VECES PASA EN LAS SERIES DE NETFLIX, SINO ACTUANDO A CAUSA Y CONSECUENCIA DE LO QUE VIVE. QUE ME GUSTO MAS DE ESTA PARTE?.. LA COMPLEJIZACIÓN EN LOS GIROS ARGUMENTALES DE LA SERIE. LOS PLANES PENSADOS HACE AÑOS COMO ES EL CASO DEL ASISTENTE FINANCIERO DE PELLEGRINI Y LA EVOLUCIÓN DEL PERSONAJE DE ANTOINE GOUY TOMANDO UN ROL MÁS IMPORTANTE.",
         "puntos":"8",
         "actores":"Omar Sy, Vicent Londez, Antoine Gouy, Soufiane guerrab, Clotilde Hesme, Hervé Pierre, Ludivine Sagnier, Etan Simon, Shirine Boutella, Johann Doinnet",
         "director":"George Kay, Francois Uzan, Marcela Said, Louis Leterrir y Ludovic Bernard",
@@ -16,9 +27,8 @@
         "id": "s2",
         "categoria": "Ciencia Ficcion",  
         "Nombre": "Loki",
-        "Estreno": "20-05-21",  
         "img": "./img/series/loki.jpg",
-        "reseña": "Tercera serie del universocinematografico de marvel, una completa locura al nivel del dios del engaño, luego de robarse el tercer acto loki es llevado a una misteriosa agencia del tiempo donde se enfrenta a ser borrado o ayudar a detener una amenaza mayor",
+        "reseña": "Tercera serie del universocinematografico de marvel, una completa locura al nivel del dios del engaño, luego de robarse el tercer acto loki es llevado a una misteriosa agencia del tiempo donde se enfrenta a ser borrado o ayudar a detener una amenaza mayor. Tom hiddleston...ES QUIEN VUELVE A INTERPRETAR A LOKI COMO EN TODO EL UCM, SI YA LO HACÍA GENIAL ANTES EN ESTA SERIE TERMINA DE REDONDEAR UNA ACTUACIÓN MAGISTRAL. HABLANDO DEL PERSONAJE LA SERIE LO AGIGANTA NO SOLO POR SER EL PROTAGONISTA SINO POR EL ARCO ARGUMENTAL Y DE CRECIMIENTO QUE LE DA EN ESTA BÚSQUEDA POR ACEPTARSE A ÉL MISMO. El elenco..UN GRAN ACIERTO DE MARVEL AL ESCOGER A SOPHIA DI MARTINO PARA INTERPRETAR A ESTA VARIANTE FEMENINA DE LOKI QUE JUNTO A LAS OTRAS VARIANTES TE AYUDA A COMPRENDER LO QUE VERDADERAMENTE ES EL PERSONAJE DE LOKI EN TODO SENTIDO. COMO TAMBIÉN LA ELECCIÓN DE OWEN WILSON COMO MOBIUS QUE TERMINA RESULTANDO UNA FIGURA PATERNA QUE TANTO LE FALTABA A LOKL Dialogos.. PODEMOS DESTACAR LOS ASOMBROSOS GIROS ARGUMENTALES DE LA SERIE, LAS ACTUACIONES, LOS EASTER EGGS, PERO LO QUE MÁS ME GUSTÓ DE LA SERIE SON LOS MOMENTOS DE DIÁLOGOS PROFUNDOS QUE HAY COMO POR EJEMPLO LA ESCENA ENTRE TOM Y SOPHIA EN EL TREN Y LAS CONVERSACIONES ENTRE LOKI. El final..UNA VERDADERA LOCURA Y EN MI OPINIÓN EL MEJOR CAPÍTULO DE LA TEMPORADA, EN APENAS 45 MINUTOS TE INSTALA UN PERSONAJE NUEVO, EL CONCEPTO DE MULTIVERSO BIEN EXPLICADO, GIROS ARGUMENTALES SORPRENDENTES Y UN ABANICO DE POSIBLES CAMINOS A SEGUIR.",
         "puntos":"8",
         "actores":"Tom Hiddleston, Sophia Di Martino, Gugu Mbatha-Raw, Owen Wilson, Cailey Fleming, Richard E. Grant, Wunmi Mosaku, Erika Coleman, Sasha Lane, Jon Levine, jonathan Majors",
         "director":"Kate Herron",
@@ -28,8 +38,7 @@
     {
         "id": "s3",
         "categoria": "Thriller",
-        "Nombre": "Lucifer 1",
-        "Estreno": "20-05-21",
+        "Nombre": "Lucifer 1",        
         "img": "./img/series/lucifer1.png",
         "reseña": "Serie entretenida con suspenso, crimen y humor al modo del mismisimo diablo.. aburrido de su reinado el diablo se muda a los angeles a vivir una vida mas mundana, hasta que se cruza con una detective que lo cambiara y lo llenara de dudas ",
         "puntos":"9",
@@ -42,9 +51,8 @@
         "id": "s4", 
         "categoria": "Accion",
         "Nombre": "The falcon: Winter Soldier",
-        "Estreno": "20-05-21",
         "img": "./img/series/thefalcon.jpg",
-        "reseña": "Segunda serie del universo cinematografico de marvel. irregula, con un personaje que sobresale del resto y excelentes momentos de accion.. despues de 6 meses de heredar el escudo del capitan america, sam y bucky emprenden una aventura en busca de frenar a los flag smasher mientras debaten internamente entre culpa y dolor quien debe portar el escudo",
+        "reseña": "Segunda serie del universo cinematografico de marvel. irregula, con un personaje que sobresale del resto y excelentes momentos de accion.. despues de 6 meses de heredar el escudo del capitan america, sam y bucky emprenden una aventura en busca de frenar a los flag smasher mientras debaten internamente entre culpa y dolor quien debe portar el escudo. Anthony mackie...QUIEN INTERPRETA A SAM/FALCON. POR UN LADO, ME GUSTÓ EL PAPEL QUE CUMPLE EL PERSONAJE Y LOS DEBATES/CRITICAS SOCIALES QUE PROPONE CONSTANTEMENTE, PERO A LA VEZ LA ACTUACIÓN DE MACKIE DEJA MUCHO QUE DESEAR. Sebastian stan..BUCKY BARNES EN LA SERIE. ME PASA TODO LO CONTRARIO CON SAM, NO SE TERMINA DE PROFUNDIZAR EN EL PERSONAJE, PERO SI ME GUSTÓ LA ACTUACIÓN. ESTO HACE QUE LOS DOS PERSONAJES PRINCIPALES QUEDEN UN POCO replegados de la serie. Wyatt Russell..UN PERSONAJE COMPLETÍSIMO, DESDE SU EVOLUCIÓN Y EL PORQUÉ DE LO QUE HACE. CON SENTIMIENTOS DE IMPOTENCIA, PODER, VENGANZA Y SOBRE TODO UNA ACTUACIÓN SOBRESALIENTE DEL ACTOR FORMAN AL MEJOR PERSONAJE DE LA SERIE... Un nuevo marvel ?..YA CON WANDAVISION VIMOS UN CAMBIO PROFUNDO AL MOSTRAR LAS ETAPAS DEL DUELO, EN ESTA OCASIÓN VEMOS UNA CRÍTICA POLÍTICA/SOCIAL EN CONTRA DE INSTITUCIONES, EL RACISMO Y DEBATES INTERNOS. LO QUE DEJA EN CLARO LA INTENCIÓN DE MARVEL DE 'HUMANIZAR A LOS GRANDES HÉROES'.",
         "puntos":"7",
         "actores":"Anthony Mackie, Sebastian Stan, Emily Vancamp, Daniel Bruhl, Desmond Chiam, John Gettier, Miki Ishikawa, Erin Kellyman, Adepero Oduye, Wyatt Russell",
         "director":"Kari Skogland",
@@ -57,7 +65,7 @@
         "Nombre": "Wanda Vision",
         "Estreno": "20-05-21",
         "img": "./img/series/wandavision.jpg",
-        "reseña": "Primera serie dentro del universo cinematografico de Marvel, una produccion excelente y diferente a lo que nos tiene acostumbrados marvel.. ambientada despues de los hechos de endgame, cuenta la historia de wanda y vision que viven una vida idilica en un pequeño pueblo, pero nada es lo que parece..",
+        "reseña": "Primera serie dentro del universo cinematografico de Marvel, una produccion excelente y diferente a lo que nos tiene acostumbrados marvel.. ambientada despues de los hechos de endgame, cuenta la historia de wanda y vision que viven una vida idilica en un pequeño pueblo, pero nada es lo que parece.. ELIZABETH OLSEN.. EN SU PAPEL DE WANDA DEMUESTRA SU TALENTO AL MÁXIMO. PASANDO DE REGISTROS DE COMEDIA, DRAMA E INCERTIDUMBRE SIN FORZAR NADA. DESDE HOY JUNTO CON BENEDICT CUMBERBATCH SON, EN MI OPINIÓN, LOS MEJORES actores dentro del mcu. Actuaciones..APARTE DE LA DE ELIZABETH OLSEN HAY QUE DESTACAR LAS ACTUACIONES DE TODO EL ELENCO QUE LO HIZO DE UNA MANERA SUPERLATIVA Y NI HABLAR DE PAUL BETTANY Y KATHRYN HAHN (MI PERSONAJE PREFERIDO QUE INTRODUJO LA SERIE). Un producto diferente..CLARAMENTE ES UNA PRODUCCIÓN DISTINTA DENTRO DEL MCU, DEJA DE APELAR A LA ACCIÓN (COSA QUE HACE MUY BIEN MARVEL) Y APELA AL SENTIMIENTO, CON CAPÍTULOS QUE TE INCOMODAN, OTROS QUE CON TINTES TERRORÍFICOS Y OTROS SUMAMENTE FUERTES Y TRISTES.",
         "puntos":"9",
         "actores":"Elizabeth Olsen, Paul Bettany, Kathryn Hahn, Kat Dennings, Evan Peters, Teyonah Parris, Randall Park, Josh Stamberg, Fred Melamed, Debra Jo Rupp",
         "director":"Jac Shaeffer",
@@ -70,7 +78,7 @@
         "Nombre": "Sabrina",
         "Estreno": "20-05-21",
         "img": "./img/series/sabrina.jpeg",
-        "reseña": "Sabrina esta por cumplir 16 años, dende debera planear una vida entre lo mundano y el mundo magico enfrentado diferentes peligros",
+        "reseña": "Sabrina esta por cumplir 16 años, dende debera planear una vida entre lo mundano y el mundo magico enfrentado diferentes peligros.. Kiernan shipka..INTERPRETA A ESTA BRUJA ADOLESCENTE BRILLANTEMENTE. CON EL PASAR DE LAS TEMPORADAS ES LO ÚNICO QUE EVOLUCIONA PARA BIEN, TANTO EL PERSONAJE COMO SU ACTUACIÓN. Personajes..EXISTEN VARIOS PERSONAJES INTERESANTES COMO LAS TIAS SPELLMAN Y SU PRIMO AMBROSE. QUE LAMENTABLEMENTE NUNCA PROFUNDIZAN EN ESOS PERSONAJES. Y OTROS COMO LOS AMIGOS DE SABRINA QUE NO CUMPLEN NINGUNA FUNCIÓN. Capitulos..LA PRIMERA TEMPORADA ES POR LEJOS LA MEJOR, LAS SIGUIENTES 3 CAEN SIEMPRE EN LO MONÓTONO. HAY MUCHOS CAPÍTULOS MÁS QUE DESTACABLES y otros verdaderamente malos. Magia...PARADOJICAMENTE A PESAR DE TODOS LOS ERRORES Y LA REPETICIÓN DE CONCEPTOS ARGUMENTALES, LA SERIE TIENE UN 'NO SÉ QUÉ' QUE POR momentos te atrapa",
         "puntos":"10",
         "actores":"Kiernan Shipka, Jaz Sinclair, Michelle Gomez, Miranda Otto, Lucy Davis, Chance Perdomo, Richard Coyle, Tati Gabrielle, Ross Lynch, Bronson Pinchot",
         "director":"Lee Toland Krieger, Rob Seidenglanz, Maggie Kiley, Craig William Macneill, Viet Nguyen",
@@ -81,10 +89,10 @@
         "id": "s7",
         "categoria": "Drama",
         "Nombre": "Equinox",
-        "Estreno": "20-05-21",
+        
         "img": "./img/series/equinox.png",
-        "reseña": "Interesante serie danesa, original de netflix, con una historia mas que interesante adaptada de un podcast muy popular en dinamarca (pais de origen de la serie) 21 egresados desaparecidos. 21 años despues astrid, hermana de una de ellos, recibe un misterioso llamado y decide retomar la busqueda",
-        "puntos":"10",
+        "reseña": "Interesante serie danesa, original de netflix, con una historia mas que interesante adaptada de un podcast muy popular en dinamarca (pais de origen de la serie) 21 egresados desaparecidos. 21 años despues astrid, hermana de una de ellos, recibe un misterioso llamado y decide retomar la busqueda. Astrid..PUNTO A DESTACAR ES LA BRILLANTE ACTUACIÓN TANTO EN SU VERSIÓN INFANTIL (KAROLINE HAMM) Y SU VERSIÓN ADULTA (DANICA CURCIC) DE ESTE PERSONAJE principal. La historia..AUNQUE PAREZCA RARO, LA HISTORIA ES UNA ADAPTACIÓN DE UN PODCAST HOMÓNIMO SUMAMENTE POPULAR EN DINAMARCA (PAÍS DE ORIGEN DE LA serie). Drama y suspenso..LO MÁS DESTACABLE. TIENE UN MANEJO DEL DRAMA Y DEL SUSPENSO MÁS QUE BUENO. DONDE LO ACOMPAÑA LA NARRACIÓN, LA MÚSICA Y LA FOTOGRAFÍA. Desarrollo..LA SERIE SE NARRA DESDE DOS TIEMPOS LINEALES (EL ANTES Y EL DESPUÉS DEL ACCIDENTE) EN UNA DELGADA LÍNEA ENTRE LA REALIDAD Y LO 'MÍSTICO'. ACOMPAÑADA DE UN SUSPENSO INTERESANTE. Parecida a dark ?..PARA NADA, FUE UNA MANIOBRA PUBLICITARIA QUE NO ENTENDÍ. LA HISTORIA NO SE PARECE EN NADA. SI TIENE MÁS SIMILITUD A STRANGER things. No me gusto..DEJA MUCHAS PREGUNTAS SIN CONTESTAR, TIENE ESCENAS FORZADAS PERO NO DEJA DE SER ENTRETENIDA POR TODO LO DEMÁS.",
+        "puntos":"8",
         "actores":"Danica Curcic, Lars Brygmann, Karoline Hamm, Hanne Hedelund, Viola Martinsen, Fanny Bornedal, August Carter, Ask Truelsen, Alexandre Willaume, Peder Holm Johansen",
         "director":"Soren Balle y Mads Matthiesen",
         "año":"2020"
@@ -504,38 +512,17 @@
         "id": "s39",
         "categoria": "Comedia",
         "Nombre": "Maniac",
-        "Estreno": "20-05-21",
+        
         "img": "./img/series/maniac.jpg",
 
-        "reseña": "",
-        "puntos":"10",
-        "actores":"",
-        "director":"",
-        "año":""
+        "reseña": "ANNIE LANDSBERG Y OWEN MILGRIM SON ATRAÍDOS A UN MISTERIOSO ENSAYO FARMACÉUTICO DONDE LES ASEGURAN QUE SIN EFECTOS SECUNDARIOS PODRÁN ELIMINAR TODOS SUS PROBLEMAS DE FORMA PERMANENTE A TRAVÉS DE UN EXCÉNTRICO VIAJE EN su mente. Emma stone..INTERPRETA A ANNIE EN LA SERIE, UNA ACTUACIÓN A LA ALTURA DE LA EXCELENTE ACTRIZ QUE ES, EN UN PERSONAJE TRISTE Y SIN RUMBO EN LA VIDA CON UN FUERTE DOLOR POR LO OCURRIDO CON SU MADRE Y HERMANA. DE LOS POCOS QUE LOGRA UN PERFECTO EQUILIBRIO ENTRE EL HUMOR Y EL DRAMA. Jonah hill..ÉL ES OWEN EN LA SERIE, QUINTO HIJO DE UNA FAMILIA DE MILLONARIOS DIAGNOSTICADO CON ESQUIZOFRENIA QUE LO HACE CONFUNDIR ENTRE REALIDADES Y VERDADES, POR LO CUAL DECIDE ENTRAR EN EL ENSAYO. UNA ACTUACIÓN DIFERENTE DEL ACTOR NO TANTO VOLCADO AL HUMOR SINO MÁS AL DRAMA. La historia..ESTÁ BASADA EN LA SERIE HOMÓNIMA DE ORIGEN NORUEGO QUE SE TRASMITIÓ EN 2004, AUNQUE EL FONDO DE LA HISTORIA GENERAL NO CAMBIA MUCHO, SI LO HACE EN LO TÉCNICO Y ESTÉTICO. NOTANDO DIFERENCIAS EN LO ACTORAL, EN LA DIRECCIÓN Y SOBRE TODO EN LOS EFECTOS ESPECIALES.",
+        "puntos":"7",
+        "actores":"Emma Stone, Johan Hill, Justin Theroux, Gabriel Byrne, Sally Field, Billy Magnussen, Sonoya Mizuno, Sejal Shah, Rome Kanda, Julia Garner",
+        "director":" Cary Joji Fukunaga",
+        "año":"2018"
 
     },
-    {
-        "id": "s41",
-        "categoria": "Ciencia Ficcion",
-        "Nombre": "Mortal Kombat",
-        "Estreno": "20-05-21",
-        "puntos": "10",
-        "img": "./img/series/mortalkombat.jpg",
-        "reseña": ""
-
-    },{
-        "id": "s42",
-        "categoria": "Comedia",
-        "Nombre": "Ha vuelto",
-        "Estreno": "20-05-21",
-        "img": "./img/series/havuelto.jpg",
-        "reseña": "",
-        "puntos":"10",
-        "actores":"",
-        "director":"",
-        "año":""
-
-    },
+    
     {
         "id": "s43",
         "categoria": "Musical",
