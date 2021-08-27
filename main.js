@@ -73,7 +73,14 @@ const getAll = () => {
       reverse.forEach(el => {
         $$template.querySelector(".showArticle").setAttribute("data-articulo", el.Nombre)
 
-        $$template.querySelector(".titulo").textContent = el.Nombre
+        if(el.Nombre.length < 16){
+          $$template.querySelector(".titulo").style.fontSize = "12px"
+          $$template.querySelector(".titulo").textContent = el.Nombre
+        }else{
+          $$template.querySelector(".titulo").style.fontSize = "10px"
+          $$template.querySelector(".titulo").textContent = el.Nombre
+        }
+        //$$template.querySelector(".titulo").textContent = el.Nombre
         $$template.querySelector(".imagen").src = el.img
         $$template.querySelector(".puntos").textContent = `${el.puntos}/10`
 
@@ -85,7 +92,7 @@ const getAll = () => {
         }
 
         $$template.querySelector(".categoria").innerHTML = `<i class="fas fa-hand-point-right"></i> Categoria:${el.categoria}`
-        $$template.querySelector("time").textContent = fecha
+        $$template.querySelector("time").textContent =`Estreno: ${el.año}`
 
         let $clone = document.importNode($$template, true);
         $fragment.appendChild($clone);
@@ -131,7 +138,7 @@ const getAll = () => {
     success: (res) => {
       const fecha = new Date().toLocaleDateString()
       //console.log(res)
-
+     
       let Max = res.Series.length 
       let ser_arr = []
       ser_arr.push(res.Series)
@@ -140,7 +147,14 @@ const getAll = () => {
       reverse.forEach(el => {
         $$template.querySelector(".showArticle").setAttribute("data-articulo", el.Nombre)
 
-        $$template.querySelector(".titulo").textContent = el.Nombre
+        if(el.Nombre.length < 16){
+          $$template.querySelector(".titulo").style.fontSize = "12px"
+          $$template.querySelector(".titulo").textContent = el.Nombre
+        }else{
+          $$template.querySelector(".titulo").style.fontSize = "10px"
+          $$template.querySelector(".titulo").textContent = el.Nombre
+        }
+        //$$template.querySelector(".titulo").textContent = el.Nombre
         $$template.querySelector(".imagen").src = el.img
         $$template.querySelector(".puntos").textContent = `${el.puntos}/10`
 

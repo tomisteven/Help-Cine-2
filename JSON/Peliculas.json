@@ -1,28 +1,6 @@
 {
     "Peliculas": [
-        {
-            "id": "p119",
-            "Nombre": "free guy",
-            "categoria": "comedia",
-            "director": "Shawn Levy",
-            "actores": "Ryan Reynolds, Jodie Comer, Lil Rel Howery, Utkarsh Ambudkar, Joe Keery, Taika Waititi, Britne Oldford, Camille Kostek, Jamaal Burcher, Bob Gilliam, entre otros.",
-            "año":"2021",
-            "puntos":"8",
-            "img": "/img/freeguy.jpg",
-            "reseña":"Aventura, acción, humor, originalidad, otro punto de vista y una crítica a la industria desde la industria. Una película que hacía falta. Guy es una persona alegre y que al parecer nada le molesta, hasta que descubre que su ciudad es simplemente un videojuego y él un NPC (un personaje no jugable) por eso ahora se enfrentará en contra de todo para poder salvar su ciudad de su propio creador. Ryan Reynolds... Es quien interpreta a nuestro protagonista guy, una muy buena actuación llena de humor desde lo físico y lo verbal. Un personaje que le aporta una mirada distinta a todo desde lo superficial hasta lo más profundo y eje central del humor de la película. Joe Keery y Jodie Comer..En los papeles de Keys y Millie respectivamente, son los protagonistas fuera del videojuego. Dos amigos amantes de los videojuegos que crearon su propio videojuego, pero por temas laborales su amistad se complicó. Dos personajes sencillos pero fundamentales en la historia. Taika Waititi...El recocido director y actor interpreta al antagonista del film, creador de esta ciudad ficticia y dueño de una empresa de videojuegos que se hace llamar Antwan. En mi opinión el más flojo del film con una actuación grotesca y sobreactuada por momentos, pero un personaje interesante que sirve para la critica que plantea la película. Originalidad... Honestamente al entrar a ver la película me esperaba una versión cómica de ready player one (si no la vieron simplemente háganlo) pero lo único parecido que tiene son las menciones a juegos y películas. Es una idea original que cambia el punto de vista que estamos acostumbrados y hace que el protagonista sea ese que nunca lo es ni busca serlo. Critica a la industria desde adentro..La película tiene un trasfondo claro criticar a la industria por la falta de historias originales debido a la gran cantidad de live-action, Remake, spin-off y secuelas de historias ya contadas, ¿lo curioso? La película es de 20th Century Studios que pertenece a Disney que actualmente está sacando mucho provecho de eso. Visual.. A la película se le puede criticar por algún que otro personaje, momento o chistes muy norteamericanos, pero no se puede negar lo espectacular que es visualmente desde el afuera del juego como la reconstrucción de esta ciudad virtual, sus personajes y la calidad excelente del CGI. Shawn Levy.. Director de la película, reconocido por su labor en la trilogía de una noche en el museo con una gran trayectoria en la comedia. En este caso logra un film que tenía todo para ser una película más, pero logra una originalidad en la historia y que no abusa de los guiños a los videojuegos y películas más populares. "
-            
-        },
-        {
-            "id": "p120",
-            "Nombre": "Mother!",
-            "categoria": "Thriller",
-            "director": "Darren Aronofsky",
-            "actores":"Jennifer Lawrence, Javier Bardem, Ed Harris, Michelle Pfeiffer, Domhnall Gleeson, Kristen Wiig, Brian Gleeson, Cristina Rosato, Marcia Jean Kurtz, Ambrosio De Luca, entre otros. ",
-            "puntos":"8",
-            "año":"2017",
-            "img": "/img/mother.jpg",
-            "reseña":"Un Thriller psicológico con grandes actuaciones, una historia llena de simbolismos y que busca general una incomodidad constante en el espectador. Argumento.. una mujer se dedica restaurar su hogar después de un incendio, su marido un reconocido poeta pasa con un bloqueo artístico, pero la llegada de gente extraña a la casa desatará una ola de confusiones e inquietudes. Jennifer Lawrence.. En el papel de esta mujer que nunca se menciona su nombre, con una actuación brillante con poco dialogo pero con una actuación física demoledora, será nuestros ojos, nuestros oídos y la trasmisora de sentimientos de la confusión y locura que se está viviendo en esa casa. Javier Bardem.. Otra gran actuación en el papel del poeta con un bloqueo artístico y quien se encarga de sembrar la locura que se desatará en la casa. Un personaje que a simple vista te das cuenta su importancia y rol, llevar al extremo a la representación de la sociedad. Elenco.. Siguiendo con el concepto de no revelar nombres de los personajes el film cuenta con Ed Harris en el papel del hombre y Michelle Pfeiffer como la mujer, los dos primeros en llegar a esta casa en clara representación de adán y Eva.  Interpretes.. ¿Qué no quiere mostrar?.. La película es una alegoría entre la relación madre tierra (Jennifer Lawrence), Dios (Javier Bardem) y la humanidad. Esconde una gran metáfora y critica a la relación entre estas representaciones incluyendo constantemente menciones de la biblia. Busca criticar conceptos del antiguo testamento y el abuso de la sociedad a la madre tierra. Incomodidad... No solo busca incomodar desde a compleja narrativa o esta gran metáfora entre la madre tierra, dios y la humanidad, sino también desde la impresión visual con escenas perturbadoras y el sonido ambiente con ruidos que molestan a la mayoría de la gente en la vida cotidiana como maderas rechinando o vidrios rotos. Darren Aronofsky..Es el director y guionista del film que curiosamente solo tardó 5 días en hacer el guion. Sigue con su línea característica de buscar dejar una crítica a través de incomodar al espectador con sus películas como lo vimos en 'El luchador', 'el cisne negro', 'Requiem por un sueño', entre otras. El final.. Lo más visceral y perturbador de la película sin lugar a dudas, llevando al extremo esta alegoría que presenta el director ¿hasta cuándo aguantara la madre tierra la avaricia y los abusos de la humanidad? "
-        },
+        
         {
             "id": "s42",
             "categoria": "Comedia",
@@ -97,7 +75,7 @@
         {
             "id": "p8",
             "categoria": "Drama",
-            "Nombre": "El código enigma",
+            "Nombre": "El codigo enigma",
             "año": "2014",
             "img": "./img/codigoenigma.jpg",
             "reseña": "SE CUMPLEN 67 AÑOS DE LA MUERTE DE ALAN TURING, CIENTÍFICO QUE INSPIRÓ ESTA MARAVILLOSA PELÍCULA. un heroe secreto..TURING, DURANTE LA SEGUNDA GUERRA MUNDIAL, SALVÓ MILLONES DE VIDAS AL DESIFRAR EL CÓDIGO NAZI Y PREVENIR SUS ATAQUES PERO TODO ESO RECIEN SE SABRÍA MUCHOS AÑOS DESPUÉS. TURING FUE CONDENADO POR SER HOMOSEXUAL AÑOS DESPUÉS DE SUS TRABAJOS EN LA SEGUNDA GUERRA MUNDIAL Y OBLIGADO A CUMPLIR UN TRATAMINETOS DE HORMONAS. Actuacion. EL CAMALEONICO BENEDICT CUMBERBATCH, INTERPRETA A ESTE GENIO MATEMÁTICO A LA PERFECCIÓN Dato curioso..EN HONOR A TURING, STEVE JOBS DECIDE QUE LA MANZANA MORDIDA SEA EL LOGO DE SU EMPRESA. YA QUE TURING SE SUICIDÓ COMIENDO UNA MANZANA CON CIANURO.",
@@ -110,11 +88,11 @@
             "id": "p9",
             "categoria": "Suspenso",
             "Nombre": "El sustituto",
-            "año": "2014",
+            "año": "2008",
             "img": "./img/elsustituto.jpg",
             "reseña": "EN EL DÍA DE SU CUMPLEAÑOS Y EN EL DÍA INTERNACIONAL DE LOS NIÑOS VICTIMAS DE AGRESIÓN, RECORDAMOS ESTA expectacular pelicula. AMBIENTADA EN 1928, UN NIÑO DESAPARECE SIN DEJAR RASTROS. MESES MÁS TARDE LA POCILÍA DICE ENCONTRARLO, PERO LA MADRE ASEGURA QUE ESE NO ES SU HIJO... BASADA EN LOS CRÍMENES DE WINEVILLE, SERIE DE SECUESTROS Y ASESINATOS DE NIÑOS EN LOS ÁNGELES (EEUU) Direccion..EL FILM CUENTA CON EL TALENTO DE CLINT EASTWOOD Y SU MARAVILLOSA FORMA DE CONTAR UN HECHO REAL. Actuacion..ANGELINA JOLIE INTERPRETA UN PAPEL DIFERENTE A LOS HABITUALES. PERO DE UNA MANERA EXCELENTE QUE TRASMITE TODOS LOS SENTIMIENTOS DE UNA MADRE EN ESAS CIRCUSTANCIAS",
-            "actores": "Arnold Schwarzenegger, Michael Biehn, Linda Hamilton",
-            "director": "James Cameron",
+            "actores": "Angelina Jolie, John Malkovich, Amy Ryan, Geoff Pierson, Jeffrey Donovan, Jason Butler Harner, Colm Feore, Michael Kelly y Gattlin Griffith.",
+            "director": "Clint Eastwood.",
             "puntos": "8"
 
         },
@@ -353,6 +331,7 @@
             "Nombre": "Promising Young woman",
             "actores": " Carey Mulligan, Bo Burnham, Alison Brie, Connie Britton, Adam Brody, Jennifer Coolidge, Laverne Cox, Clancy Brown, Alfred Molina, Christopher Mintz-Plasse",
             "director": "Emerald Fennell",
+            "img": "./img/promisingyoungwoman.jpg",
             "año": "2020",
             "puntos": "9",
             "reseña": "UN BRILLANTE FILM NOMINADO A MEJOR PELÍCULA DE DRAMA EN LOS GLOBOS DE ORO, CON UN GUION DEBATIBLE LA PROPÓSITO O ERROR DEL FILM?. CASSIE ES UNA JOVEN QUE DEJÓ LA UNIVERSIDAD POR UN DESAGRADABLE HECHO. AHORA TIENE UNA DOBLE VIDA, DE DÍA ATIENDE UNA CAFETERÍA Y DE NOCHE QUE ENCARGA DE VENGAR ESE HECHO. Carey Mulligan CON UNA ACTUACIÓN SINIESTRA, ATERRADORA, INTELIGENTE Y DRAMÁTICA BRILLA EN EL PAPEL DE CASSIE. UNA INTERPRETACIÓN QUE, EN MI OPINIÓN, MERECE TENER UN LUGAR EN LOS PRÓXIMOS ÓSCARS. Una montaña rusa.. LA PELÍCULA TIENE SUS PUNTOS MUY ALTOS, SOBRE TODO EN EL PRINCIPIO DEL FILM Y EN EL FINAL. PERO SU GUION CONSTANTEMENTE ES UNA MONTAÑA RUSA, ENTRE EL DRAMA Y EL HUMOR NEGRO (EXCELENTEMENTE UTILIZADO) que maneja el film. Es a proposito ? CLARAMENTE QUE UNA PERSONA QUE VIVIÓ LO DE CASSIE JUSTIFICA ESA MONTAÑA RUSA DE EMOCIONES QUE VEMOS, POR LO TANTO, ELIJO CREER QUE FUE A PROPÓSITO Y NO UN ERROR DEL FILM. El final.. TOTALMENTE SORPRESIVO Y MAJESTUOSO. LUN FINAL FELIZ? DEPENDE COMO LO MIRES. SI ALGO NO LE FALTA A ESTE FILM SON LOS GRANDES GIROS EN LA TRAMA Y LOS mensajes a una sociedad machista"
@@ -387,6 +366,7 @@
             "categoria": "Drama",
             "Nombre": "The assistant",
             "año": "2020",
+            "img": "./img/theassistant.jpg",
             "actores": "Matthew Macfadyen, Julia Garner, Dagmara Dominczyk, Kirstine Froseth, Mackenzie Leigh, Juliana Canfield, Noah Robbins, Alezander Chaplin, Purva Bedi, Lou Martini Jr",
             "director": "Kitty Green",
             "puntos": "5",
@@ -418,6 +398,7 @@
             "id": "p67",
             "categoria": "Thriller",
             "Nombre": "Inception",
+            "img": "./img/inception.jpg",
             "año": "2010",
             "actores": " Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Ken Watanabe, Marion Cotillard, Tom Hardy, Cillian Murphy, Tom Berenger, Michael Caine, Dileep Rao",
             "director": "Christopher Nolan",
@@ -514,6 +495,7 @@
             "id": "p82",
             "categoria": "Drama",
             "Nombre": "Los sonambulos",
+            "img":"/img/lossonambulos.jpg",
             "año": "2019",
             "actores": "Érica Rivas, Ornella D'Ellia, Daniel Hendler, Luis Ziembrowski, Rafael Federman, Marilu Marini, Valeria Lois, Gloria Demassi, Teo Inama Chiabrando, Simon Goldzen",
             "director": "Paula Hernández",
@@ -526,6 +508,7 @@
             "categoria": "Suspenso",
             "Nombre": "La isla siniestra",
             "año": "2010",
+            "img": "./img/islasiniestra.jpg",
             "actores": "Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley,  Emily Mortimer, Michelle Williams, Patricia Jackson, Max Von Sydow, Jackie Earle Haley, Elias Koteas, Josh Carroll Lynch",
             "director": "Martin Scorsese",
             "puntos": "9",
@@ -537,6 +520,7 @@
             "categoria": "Romantica",
             "Nombre": "Stargirl",
             "año": "2020",
+            "img": "./img/stargirl.jpg",
             "actores": "Grace VanderWaal, Graham Verchere, Giancarlo Esposito, Shelby Simmons, Karan Brar, Darby Stanchfield, Maximiliano Hernandez, Damian O'Hare, Heather Kantor, Troy Brookins",
             "director": " Julia Hart",
             "puntos": "7",
@@ -547,6 +531,7 @@
             "categoria": "Belica",
             "Nombre": "Horas mas oscuras",
             "año": "2017",
+            "img":"./img/horasmasoscuras.jpg",
             "actores": "Gary Oldman, Ben Mendelsohn, Kristin Thomas, Lily James, Stephen Dillane,  Richard Lumsden,  Philip Brown, Ronald Pickup, Brian Pettifer, Tom Ashley",
             "director": "Joe Wright",
             "puntos": "9",
@@ -558,6 +543,7 @@
             "categoria": "Terror",
             "Nombre": "Vigilados",
             "año": "2020",
+            "img":"./img/vigilados.jpg",
             "actores": "Alison Brie, Dan Stevens, Jeremy Allen White, Sheila Vand, Toby Huss y Anthony Molinari",
             "director": "Dave Franco.",
             "puntos": "2",
@@ -699,7 +685,7 @@
             "actores": "Millie Bobby Brown, Henry Cavill, Sam Claflin, Helena Bonham Carter, Louis Partridge, Burn Gorman, Adeel Akhtar , Susan Wokoma, Hattie Morahan, Fiona Shaw",
             "director": "Harry Bradbeer",
             "año": "2020",
-            "img": "./img/enola.jpg",
+            "img": "./img/enolaholmes.jpg",
             "reseña": "ENOLA BUSCA A SU MADRE Y TRAS RECURRIR A SUS HERMANOS QUE MUESTRAN UN GRADO DE DESINTERÉS, COMIENZA SU PROPIA AVENTURA. Millie bobby brown..LA JOVEN ACTRIZ BRITÁNICA, CONOCIDA POR SER ELEVEN EN 'STRANGER THINGS' INTERPRETA A ENOLA. UN PAPEL QUE LE ENCAJA A LA PERFECCIÓN. La historia..LA HISTORIA ESTÁ BASADA EN EL PRIMER LIBRO DE SEIS DE LA SAGA 'LAS AVENTURAS DE ENOLA HOLMES', DE LA ESCRITORA NANCY SPRINGER. DATO NO MENOR AL VER LAS HISTORIAS INCONCLUSAS QUE DEJA EL FILM.  Girl Power..AMBIENTADA EN UNA ÉPOCA DONDE LA OPINIÓN DE LA MUJER ERA DESCARTADA, LA PELÍCULA ABARCA BIEN LOS TEMAS DEJANDO MENSAJES FEMINISTAS INCONSCIENTEMENTE."
 
         },
@@ -770,7 +756,7 @@
             "actores":"Lili Reinhart, Sarah Jones, Austin Abrams, Bruce Altman, Adhir Kalyan, Coral Peña, Shannon Walsh, Meg Gibson, Kara Young, Jon Lemmon",
             "director": "Richard Tanne",
             "año": "2020",
-            "img": "./img/chemicalhearts.jpg",
+            "img": "./img/chemicalhearts.png",
             "reseña":"'Chemical Hearts', basada en la novela homónima de Krystal Sutherland, Amazon nos trae otro buen estreno en este año. Un romance adolescente lejos de los habituales. Con fuertes mensajes sobre la perdida de seres queridos y el gran dilema de avanzar. Y que mejor que describir la película que con una frase de la misma: 'Miren a sus padres, a sus hermanos mayores. Miren a los extraños en la calle. Es un punto de sus vidas también sintieron la insoportable impotencia y oscuridad de ser joven'. HENRY UN ESTUDIANTE DE ÚLTIMO AÑO SE ENAMORA DE UNA NUEVA COMPAÑERA DE CLASES QUE MUCHAS CICATRICES DEL PASADO ESCONDE. LA FRASE 'LA ADOLESCENCIA ES UN LIMBO. ESTÁS ENTRE SER UN NIÑO Y UN ADULTO, EL MUNDO TE DICE QUE SEAS MADURO Y QUE TE EXPRESES, PERO EN CUANTO LO HACES, TE DICEN QUE TE CAYES'.  Lili reinhart..LA JOVEN ACTRIZ INTERPRETA A GRACE, BRILLANTEMENTE, UNA ADOLESCENTE QUE SE ENFRENTA CON LA PÉRDIDA DE UN SER QUERIDO Y EL DILEMA DE CÓMO SEGUIR..."
 
         },
@@ -817,7 +803,7 @@
             "actores":"Jamie Foxx, Joseph Gordon-Levitt, Dominique Fishback, Machine Gun Kelly, Jim Klock, Rodrigo Santoro, Mike Seal, Courtney Vance, Amy Landecker, Azhar Khan",
             "director":"Henry Joost y Ariel Schulman",
             "año":"2020",
-            "img": "./img/proyectopower.jpg",
+            "img": "./img/0.jpg",
 
             "reseña":"UNA MEGA PRODUCCIÓN DE NETFLIX QUE RESULTA EN UNA BUENA PELÍCULA DE ACCIÓN PERO DEJANDO DE LADO LA HISTORIA. UNA NUEVA DROGA CIRCULA POR LAS CALLES. CON SOLO TOMARLA TE DA 5 MINUTOS DE SUPERPODERES. ¿CAOS u orden ?. Jaime foxx..GANADOR DE UN OSCAR POR 'RAY', INTERPRETA A UN JUSTICIERO QUE QUIERE TERMINAR CON LA DROGA Y EN SU TRAYECTO SALVAR A UN SER querido. Joseph Gordon levitt.. BRILLANTE COMO DE COSTUMBRE. INTERPRETA A UN POLICÍA CANSADO DE SEGUIR LAS LEYES ANTE LA OLA DE CAOS QUE INFUNDE LA NUEVA droga. Dominique fishback..INTERPRETA A UNA ADOLESCENTE QUE VENDE ESTA NUEVA DROGA. UN PERSONAJE CLAVE EN LA UNIÓN DEL TRÍO PROTAGONISTA. SIN ELLA LA HISTORIA SERÍA OTRA."
 
@@ -887,6 +873,7 @@
             "Nombre":"The room",
             "categoria":"Suspenso",
             "actores":"Olga Kurylenko, Kevin Janssens, Francis Chapman, Joshua Wilson y John Flanders.",
+            "img": "./img/theroom.jpg",
             "director":"Christian Volckman",
             "año":"2019",
             "puntos":"6",
@@ -996,9 +983,9 @@
         {
             "id": "p56",
             "categoria": "Ciencia Ficcion",
-            "Nombre": "Zack Snyder's",
+            "Nombre": "Zack Snyder's Justice league",
             "año": "2021",
-            "img": "./img/zack.jpg",
+            "img": "./img/zack.png",
             "puntos": "9",
             "director": " Zack Snyder",
             "actores": "Ben Affleck, Gal Gadot, Ezra Miller, jason Momoa, Ray Fisher, Henry Cavill, Amy Adams, Joe Morton, Amber Heard, Jared Leto",
@@ -1012,7 +999,7 @@
             "Nombre": "The game",
             "año": "1997",
             "actores": "Michael Douglas, Sean Penn, James Rebhorn, Deborah Kara Unger, Peter Donat, Carrol Baker, Armin Mueller-Stahl, Anna Katarina, Mark Boone junior, Tommy Flanagan",
-            "director": "Sylvester Stallone",
+            "director": "David Fincher",
             "puntos": "8",
             "img": "./img/game.jpg",
             "reseña": "repasemos una pelicula de un siempre cuestionado david fincher.. Un multimillonario nicholas van orton tiene todo lo material que puede desear. En el dia de su cumpleaños su hermano menor decide hacerle un regalo muy especial que lo llevara al desborde a su apatico hermano.. Michael douglas con una asombrosa actuacion que desborda de matices que te llevaran a la confusion constante, interpreta a este multimillonario que entrara en un juego que javas se olvidara, pero le cambiara su perspectiva para siempre. El elenco en distintos momentos del film se le suman a douglas, sean penn (como su hermano) y deborah kara unger con actuaciones brillantes que aportan muchisimo en la historia y sembrar mas confucion e intriga.. esta pelicula, es para ver mas de una vez? el film te atrae atravez de la sorpresa e intriga que siembra constantemente, en mi opinion no es una pelicula que cada vez que la veas te sorprendera, pero si encontraras detalles en los dialogos y puestas en escena que a primera vista por ahi no notaste. El final con el correr de la pelicula podes imaginarte diversos tipos de finales y es muy dificil que aciertes con el verdadero final. Te puede gustar o no (ami no me gusto) pero no caben dudas que es la sorpresa maxima dentro de un sinfin de intrigas"
@@ -1098,6 +1085,7 @@
             "categoria": "Accion",
             "Nombre": "El tigre blanco",
             "año": "2021",
+            "img": "./img/tigreBlanco.jpg",
             "actores": "Adarsh Gourav, Privanka Chopra, Rajkummar Rao, Perrie Kapernaros, Abhishek Khandekar, Nalneesh Neel, Aaron Wan, Vedant Sinha, Solanki Diwakar, Ram Naresh Diwakar",
             "director": "Ramin Bahrani.",
             "puntos": "8",
@@ -1125,6 +1113,7 @@
             "actores": "Frances McDormand, David Strathairn, Linda May, Charlene Swankie, Bob Wells, Gay DeForest, Patricia Grier",
             "director": "Chloé Zhao",
             "img": "./img/nomadland.jpg",
+            "puntos":"8",
             "reseña": "UNA DE LAS PELÍCULAS FAVORITAS PARA LA TEMPORADA DE PREMIOS. UN RELATO SINCERO QUE NO BUSCA ENTRETENER SINO LLEVAR UN MENSAJE MÁS PROFUNDO. FERN LO PERDIÓ TODO DURANTE LA RECESIÓN DE 2011, SU TRABAJO, SU CASA, SU MARIDO Y HASTA EL PUEBLO DONDE VIVÍA. AHORA EN UNA CARAVANA COMIENZA UNA VIDA NOMADE POR EL OESTE DE ESTADOS UNIDOS. Frances mcdormand LA RECONOCIDA ACTRIZ, COMO NOS TIENE ACOSTUMBRADOS, BRILLA UNA VEZ MÁS. INTERPRETA A FERN EN EL FILM CON UNA ACTUACIÓN SUMAMENTE NATURAL ENTRE EL DRAMA Y LO POÉTICO. GRAN CANDIDATA EN LOS proximos oscars. La historia.. ESTÁ BASADA EN EL LIBRO NO FICCIÓN 'NOMADLAND: SURVIVING AMERICA IN THE TWENTY-FIRST CENTURY' DE JESSICA BRUDER, PUBLICADO EL 19 DE SEPTIEMBRE DE 2017. Fotografia.. UNO DE LOS PUNTOS MÁS ALTOS DEL FILM, NOS REGALA HERMOSOS RETRATOS DE LA PUESTA DEL SOL MEZCLÁNDOLO CON LA HISTORIA DE LA EXISTENCIA HUMANA. TANTO LA FOTOGRAFÍA COMO LA ACTUACIÓN DE FRANCES SON LO QUE SOSTIENEN EL FILM. Chloe zhao DIRECTORA Y ENCARGADA DE LA ADAPTACIÓN DEL GUION, BUSCA SALIR DEL DOLOR PARA CONSTRUIR UN RELATO POSITIVO DENTRO DE LO NEGATIVO. SIN DUDAS SU MEJOR FILM. Una triologia ? LA DIRECTORA TIENE 3 PELÍCULAS, LAS 3 SOBRE LA EXISTENCIA HUMANA Y SUS CONFLICTOS, EN 3 ETAPAS DE LA VIDA. LA PRIMERA FUE SONGS MY BROTHERS TAUGHT ME (EN LA NIÑEZ), LA SEGUNDA FUE THE RIDER (ADULTOS) Y NOMADLAND (ADULTO MAYOR). "
 
         },
@@ -1332,6 +1321,7 @@
             "Nombre": "Noticias del gran mundo",
             "categoria": "Drama",
             "año": "2021",
+            "img": "./img/noticiasdelgranmundo.jpg",
             "actores": "Tom Hanks, Helena Zengel, Neil Sandilands, Elizabeth Marvel, Ray McKinnon, Mare Winningham, Bill Camp, Chukwudi Iwuji, Thomas Francis Murphy, Michael Angelo Covino",
             "director": "Paul Greengrass",
             "puntos": "9",
@@ -1428,6 +1418,40 @@
             "año": "2020",
             "img": "./img/balaperdida.jpg",
             "reseña": "UNA TOTAL DECEPCIÓN, UNA MALA COPIA DE RÁPIDOS Y FURIOSOS EN COMBINACIÓN CON UNA MALA COPIA DE DURO DE MATAR...UN CONVICTO ES CONTRATADO POR LA POLICÍA POR SU CAPACIDAD DE MODIFICAR Y MEJORAR AUTOS, HASTA QUE DESCUBRE UNA RED DE CORRUPCIÓN DENTRO DE LA MISMA Y ES CULPADO DE UN CRIMEN QUE NO COMETIÓ. Predecible..DONDE TODO PARECE VELOCIDAD, LA PELÍCULA SE HACE ETERNA, RECIÉN AL FINAL SE VUELVE 'ENTRETENIDA', CON UNA HISTORIA ABURRIDA Y SOBREACTUACIONES muy notorias. "
+        },{
+            "id": "p119",
+            "Nombre": "free guy",
+            "categoria": "comedia",
+            "director": "Shawn Levy",
+            "actores": "Ryan Reynolds, Jodie Comer, Lil Rel Howery, Utkarsh Ambudkar, Joe Keery, Taika Waititi, Britne Oldford, Camille Kostek, Jamaal Burcher, Bob Gilliam, entre otros.",
+            "año":"2021",
+            "puntos":"8",
+            "img": "/img/freeguy.jpg",
+            "reseña":"Aventura, acción, humor, originalidad, otro punto de vista y una crítica a la industria desde la industria. Una película que hacía falta. Guy es una persona alegre y que al parecer nada le molesta, hasta que descubre que su ciudad es simplemente un videojuego y él un NPC (un personaje no jugable) por eso ahora se enfrentará en contra de todo para poder salvar su ciudad de su propio creador. Ryan Reynolds... Es quien interpreta a nuestro protagonista guy, una muy buena actuación llena de humor desde lo físico y lo verbal. Un personaje que le aporta una mirada distinta a todo desde lo superficial hasta lo más profundo y eje central del humor de la película. Joe Keery y Jodie Comer..En los papeles de Keys y Millie respectivamente, son los protagonistas fuera del videojuego. Dos amigos amantes de los videojuegos que crearon su propio videojuego, pero por temas laborales su amistad se complicó. Dos personajes sencillos pero fundamentales en la historia. Taika Waititi...El recocido director y actor interpreta al antagonista del film, creador de esta ciudad ficticia y dueño de una empresa de videojuegos que se hace llamar Antwan. En mi opinión el más flojo del film con una actuación grotesca y sobreactuada por momentos, pero un personaje interesante que sirve para la critica que plantea la película. Originalidad... Honestamente al entrar a ver la película me esperaba una versión cómica de ready player one (si no la vieron simplemente háganlo) pero lo único parecido que tiene son las menciones a juegos y películas. Es una idea original que cambia el punto de vista que estamos acostumbrados y hace que el protagonista sea ese que nunca lo es ni busca serlo. Critica a la industria desde adentro..La película tiene un trasfondo claro criticar a la industria por la falta de historias originales debido a la gran cantidad de live-action, Remake, spin-off y secuelas de historias ya contadas, ¿lo curioso? La película es de 20th Century Studios que pertenece a Disney que actualmente está sacando mucho provecho de eso. Visual.. A la película se le puede criticar por algún que otro personaje, momento o chistes muy norteamericanos, pero no se puede negar lo espectacular que es visualmente desde el afuera del juego como la reconstrucción de esta ciudad virtual, sus personajes y la calidad excelente del CGI. Shawn Levy.. Director de la película, reconocido por su labor en la trilogía de una noche en el museo con una gran trayectoria en la comedia. En este caso logra un film que tenía todo para ser una película más, pero logra una originalidad en la historia y que no abusa de los guiños a los videojuegos y películas más populares. "
+            
+        },
+        {
+            "id": "p120",
+            "Nombre": "Mother!",
+            "categoria": "Thriller",
+            "director": "Darren Aronofsky",
+            "actores":"Jennifer Lawrence, Javier Bardem, Ed Harris, Michelle Pfeiffer, Domhnall Gleeson, Kristen Wiig, Brian Gleeson, Cristina Rosato, Marcia Jean Kurtz, Ambrosio De Luca, entre otros. ",
+            "puntos":"8",
+            "año":"2017",
+            "img": "/img/mother.jpg",
+            "reseña":"Un Thriller psicológico con grandes actuaciones, una historia llena de simbolismos y que busca general una incomodidad constante en el espectador. Argumento.. una mujer se dedica restaurar su hogar después de un incendio, su marido un reconocido poeta pasa con un bloqueo artístico, pero la llegada de gente extraña a la casa desatará una ola de confusiones e inquietudes. Jennifer Lawrence.. En el papel de esta mujer que nunca se menciona su nombre, con una actuación brillante con poco dialogo pero con una actuación física demoledora, será nuestros ojos, nuestros oídos y la trasmisora de sentimientos de la confusión y locura que se está viviendo en esa casa. Javier Bardem.. Otra gran actuación en el papel del poeta con un bloqueo artístico y quien se encarga de sembrar la locura que se desatará en la casa. Un personaje que a simple vista te das cuenta su importancia y rol, llevar al extremo a la representación de la sociedad. Elenco.. Siguiendo con el concepto de no revelar nombres de los personajes el film cuenta con Ed Harris en el papel del hombre y Michelle Pfeiffer como la mujer, los dos primeros en llegar a esta casa en clara representación de adán y Eva.  Interpretes.. ¿Qué no quiere mostrar?.. La película es una alegoría entre la relación madre tierra (Jennifer Lawrence), Dios (Javier Bardem) y la humanidad. Esconde una gran metáfora y critica a la relación entre estas representaciones incluyendo constantemente menciones de la biblia. Busca criticar conceptos del antiguo testamento y el abuso de la sociedad a la madre tierra. Incomodidad... No solo busca incomodar desde a compleja narrativa o esta gran metáfora entre la madre tierra, dios y la humanidad, sino también desde la impresión visual con escenas perturbadoras y el sonido ambiente con ruidos que molestan a la mayoría de la gente en la vida cotidiana como maderas rechinando o vidrios rotos. Darren Aronofsky..Es el director y guionista del film que curiosamente solo tardó 5 días en hacer el guion. Sigue con su línea característica de buscar dejar una crítica a través de incomodar al espectador con sus películas como lo vimos en 'El luchador', 'el cisne negro', 'Requiem por un sueño', entre otras. El final.. Lo más visceral y perturbador de la película sin lugar a dudas, llevando al extremo esta alegoría que presenta el director ¿hasta cuándo aguantara la madre tierra la avaricia y los abusos de la humanidad? "
+        },
+        {
+            "id": "p121",
+            "Nombre": "The Shawshank Redemption",
+            "categoria": "Drama",
+            "director": "Frank Darabont",
+            "img": "/img/shawshank.jpg",
+            "actores":"Tim Robbins, Morgan Freeman, Bob Gunton, James Whitmore, Gil Bellows, William Sadler, Mark Rolston, Clancy Brown, David Proval, Jeffrey DeMunn, entre otros ",
+            "puntos":"10",
+            "año":"1994",
+            "reseña":"Un gran film con grandes actuaciones, un excelente guion y un equilibrio perfecto que la vuelve una de mis películas favoritas. Andrew Dufresne es acusado de matar a su esposa y al amante de ella, por lo cual es llevado a la oscura prisión de Shawshank donde deberá cumplir dos cadenas perpetuas. con el paso de los años forjará lazos impensados y deberá elegir entre dedicarse a vivir o a morir. Tim Robbins... Es quien interpreta de una excelente manera a Andrew Dufresne, un banquero que gracias a su inteligencia se ganará el respeto de muchos, pero gracias a su humanidad la amistad de quienes verdaderamente valen la pena. Un personaje redondo que representa lo que quiere dejar la película. Morgan Freeman..Con una actuación que le valió una nominación a los Óscars interpreta a Red, un prisionero conocido por conseguir cualquier cosa que le pidan a cambio de una comisión quien también tiene un rol central en la narración en off de la historia. Un personaje que por otro camino diferente también representa el mensaje del film. Frank Darabont..Director y encargado de adaptar el cuento de Stephen King a la gran pantalla logrando un resultado casi perfecto en lo que insólitamente fue su primera película como director. Logra que cada escena tenga un valor propio y ninguna este de relleno. La historia... Es una adaptación del cuento corto “Rita Hayworth y la redención de Shawshank” de la colección de las cuatro estaciones del magnífico Stephen King publicada en 1982 quien después de leer el guion de la película se negó a cobrar un solo dólar por los derechos. Equilibrio...La película tiene una duración de casi dos horas y media pero el equilibrio que presenta entre el drama intenso, crueldad, diálogos profundos pero no muy extensos y hasta momentos de humor logran que la película nunca resulte lenta ni exagerada dentro de una historia que parece real pero no lo es.  ¿Qué nos quiere mostrar?...El film es un relato de lealtad, amistad, justicia, injusticia y sobre todo de los diferentes caminos para obtener la redención. Como también demostrar que una persona no vive por el lugar en donde esta sino por la gente que lo rodea. Fotografía y banda de sonido.. Fotografía a cargo del 15 veces nominado a los óscars Roger Deakins y el compositor Thomas Newman también con 15 nominaciones a los óscars logran que cada escena sea memorable. la composición de colores sirve narrativamente, estéticamente y para trasmitir sentimientos y una banda de sonido con una composición de naturaleza más convencional que acompaña magníficamente. "
+
         }
 
 
