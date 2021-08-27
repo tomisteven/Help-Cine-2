@@ -276,6 +276,38 @@
 
     /** end contact section **/
 
+    /* nosotros */
+#nosotros{
+    font-family: "gagalin";
+    
+    border-top: 2px solid rgb(0, 0, 0);
+    border-bottom: 2px solid rgb(0, 0, 0);
+    
+    width: 100%;
+    margin: 25px auto;
+}
+.cont-nosotros{
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+}
+.cont-nosotros  img{
+    width: 50%;
+    margin: auto;
+}
+.cont-p ul{
+    margin-top: 50px;
+    margin-right: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+}
+
 
 
 
@@ -538,16 +570,14 @@
     border: 1px solid rgb(255, 0, 0);
     width: 100px;
     height: 100px;
-    font-size: 20px;
-    font-weight: 400;
+    font-size: 13px;
+    font-weight: 300;
     text-align: center;
     position: inherit;
-    margin-left: -10px;
-
-    margin-top: 10px;
-    margin-bottom: 10px;
-    
-    letter-spacing: 3px;
+    margin-left: -5px;
+    margin-top: 25px;
+    margin-bottom: -10px;
+    letter-spacing: 1px;
     border-radius: 50%;
     background-color: black;
     color: red;
@@ -565,5 +595,32 @@
     margin-left: 8px;
 }
 
+/* nosotros */
+#nosotros{
+    font-family: "gagalin";
+    
+    border-top: 2px solid rgb(0, 0, 0);
+    border-bottom: 2px solid rgb(0, 0, 0);
+    
+    width: 100%;
+    margin: 25px auto;
+}
+.cont-nosotros{
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+}
+.cont-p ul{
+    margin-top: 50px;
+    margin-right: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+}
 
 }
