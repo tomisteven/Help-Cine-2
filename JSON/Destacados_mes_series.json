@@ -1,23 +1,23 @@
 {
     "DestacadoMesSeries": [{
             "id": "dms1",
-            "nombre": "Lupin",
+            "nombre": "The boys",
             "estreno": "22-06-2021",
-            "img": "./img/series/lupin.jpeg",
+            "img": "./img/destacado-series/theboys.jpg",
             "reseña": ""
         },
         {
             "id": "dms2",
-            "nombre": "Inocente",
+            "nombre": "Upload",
             "estreno": "07-06-2021",
-            "img": "./img/inocente.jpeg",
+            "img": "./img/destacado-series/upload.jpg",
             "reseña": ""
         },
         {
             "id": "dms2",
-            "nombre": "Elite 4",
+            "nombre": "Hunters",
             "estreno": "02-06-2021",
-            "img": "./img/elite.jpg",
+            "img": "../img/destacado-series/hunters.jpg",
             "reseña": ""
         }
 

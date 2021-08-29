@@ -225,21 +225,21 @@ const getAll = () => {
               <div class="carousel-item active" data-bs-interval="2900">
                 <img src="${res.DestacadosMesPeliculas[0].img}" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                <h2>${res.DestacadosMesPeliculas[0].nombre}</h2>
+                
                   
                 </div>
               </div>
               <div class="carousel-item" data-bs-interval="2900">
                 <img src="${res.DestacadosMesPeliculas[1].img}" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                <h2>${res.DestacadosMesPeliculas[0].nombre}</h2>
+                
                   
                 </div>
               </div>
               <div class="carousel-item" data-bs-interval="2900">
                 <img src="${res.DestacadosMesPeliculas[2].img}" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                <h2>${res.DestacadosMesPeliculas[2].nombre}</h2>
+                
                   
                 </div>
               </div>
@@ -267,24 +267,15 @@ const getAll = () => {
             <div class="carousel-inner">
               <div class="carousel-item active" data-bs-interval="2800">
                 <img src="${res.DestacadoMesSeries[0].img}" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                <h2>${res.DestacadoMesSeries[0].nombre}</h2>
-                  
-                </div>
+                
               </div>
               <div class="carousel-item" data-bs-interval="2800">
                 <img src="${res.DestacadoMesSeries[1].img}" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                <h2>${res.DestacadoMesSeries[1].nombre}</h2>
-                  
-                </div>
+                
               </div>
               <div class="carousel-item" data-bs-interval="2800">
                 <img src="${res.DestacadoMesSeries[2].img}" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                <h2>${res.DestacadoMesSeries[2].nombre}</h2>
-                  
-                </div>
+                
               </div>
             </div>
             
@@ -309,24 +300,18 @@ const getAll = () => {
             <div class="carousel-inner">
               <div class="carousel-item active" data-bs-interval="3000">
                 <img src="${res.DestacadoMesInfantil[0].img}" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                  <h2>${res.DestacadoMesInfantil[0].nombre}</h2>
-                  
-                </div>
+               
               </div>
               <div class="carousel-item" data-bs-interval="3000">
                 <img src="${res.DestacadoMesInfantil[1].img}" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                <h2>${res.DestacadoMesInfantil[1].nombre}</h2>
+                
                   
                 </div>
               </div>
               <div class="carousel-item" data-bs-interval="3000">
                 <img src="${res.DestacadoMesInfantil[2].img}" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                <h2>${res.DestacadoMesInfantil[2].nombre}</h2>
-                  
-                </div>
+                
               </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">

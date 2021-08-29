@@ -1,20 +1,20 @@
 {
     "DestacadosMesPeliculas": [{
             "id": "d-m1",
-            "nombre": "Conjuro 3",
-            "img": "./img/conjuro3.jpg",
-            "reseña": ""
+            "nombre": "The prestige",
+            "img": "./img/destacado-peliculas/theprestige.jpg"
+            
         },
         {
             "id": "d-m2",
-            "nombre": "Conjuro 2",
-            "img": "./img/conjuro2.jpg",
+            "nombre": "Once upon a time in hollywood",
+            "img": "./img/destacado-peliculas/once.jpg",
             "reseña": ""
         },
         {
             "id": "d-m3",
-            "nombre": "Conjuro 1",
-            "img": "./img/conjuro1.jpg",
+            "nombre": "El irlandes",
+            "img": "./img/destacado-peliculas/elirlandes.jpg",
             "reseña": ""
         }
     ]
