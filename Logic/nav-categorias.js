@@ -43,8 +43,12 @@ ajax({
                       
                       $$template.querySelector(".titulo").textContent = el.Nombre
                       $$template.querySelector(".imagen").src = el.img
+                      $$template.querySelector("time").textContent =`Estreno: ${el.año}`
+
+                      $$template.querySelector(".puntos").textContent = `${el.puntos}/10`
+
                       $$template.querySelector(".categoria").innerHTML = `<i class="fas fa-hand-point-right"></i> &nbsp; Categoria: &nbsp;${el.categoria}`
-                      $$template.querySelector("time").textContent = el.Estreno
+                      
                       //clonamos todos los posts
                       let $clone = document.importNode($$template, true);
                       //los agregamos al fragmento
@@ -112,7 +116,7 @@ ajax({
                       $$templateSeries.querySelector(".titulo").textContent = el.Nombre
                       $$templateSeries.querySelector(".imagen").src = el.img
                       $$templateSeries.querySelector(".categoria").innerHTML = `<i class="fas fa-hand-point-right"></i> &nbsp; Categoria: &nbsp;${el.categoria}`
-                      $$templateSeries.querySelector("time").textContent = el.Estreno
+                     
                       //clonamos todos los posts
                       let $clone = document.importNode($$templateSeries, true);
                       //los agregamos al fragmento

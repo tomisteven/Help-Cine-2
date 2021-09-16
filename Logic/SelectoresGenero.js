@@ -81,6 +81,14 @@ ajax({
 
             $$template.querySelector(".titulo").textContent = el.Nombre
             $$template.querySelector(".imagen").src = el.img
+            $$template.querySelector(".puntos").textContent =  `${el.puntos}/10`
+            if(el.puntos > 6){
+              $$template.querySelector(".puntos").style.backgroundColor = "green"
+            }
+            else{
+              $$template.querySelector(".puntos").style.backgroundColor = "red"
+            }
+
             $$template.querySelector(".categoria").innerHTML = `<i class="fas fa-hand-point-right"></i> &nbsp; Categoria: &nbsp;${el.categoria}`
             $$template.querySelector("time").textContent = el.Estreno
             
@@ -154,6 +162,17 @@ ajax({
             $$templateSeries.querySelector(".imagen").src = el.img
             $$templateSeries.querySelector(".categoria").innerHTML = `<i class="fas fa-hand-point-right"></i> &nbsp; Categoria: &nbsp;${el.categoria}`
             $$templateSeries.querySelector("time").textContent = el.Estreno
+
+            $$templateSeries.querySelector(".puntos").textContent =  `${el.puntos}/10`
+            if(el.puntos > 6){
+              $$template.querySelector(".puntos").style.backgroundColor = "green"
+            }
+            else{
+              $$template.querySelector(".puntos").style.backgroundColor = "red"
+            }
+
+
+
             //clonamos todos los posts
             let $clone = document.importNode($$templateSeries, true);
             //los agregamos al fragmento
