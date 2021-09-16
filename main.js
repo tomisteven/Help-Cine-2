@@ -103,17 +103,7 @@ const getAll = () => {
       $posts.appendChild($fragment)
 
 
-      $btnVolver.addEventListener("click", () => {
-          
-        //peliculas
-        $postElegidos.innerHTML = ""
-        $postElegidos.style.display = "none"
-        $posts.style.display = "flex"
-        //series
-        $postElegidoSeries.innerHTML = ""
-        $postElegidoSeries.style.display = "none"
-        $postSeries.style.display = "flex"
-       })
+      
     },
     //configuramos el mensaje de error
     error: (err) => {
@@ -165,7 +155,7 @@ const getAll = () => {
           $$template.querySelector(".puntos").style.backgroundColor = "red"
         }
         $$template.querySelector(".categoria").innerHTML = `<i class="fas fa-hand-point-right"></i> Categoria:${el.categoria}`
-        $$template.querySelector("time").textContent = fecha
+        $$template.querySelector("time").textContent =`Estreno: ${el.año}`
 
         let $clone = document.importNode($$template, true);
         $fragment.appendChild($clone);

@@ -90,7 +90,7 @@ ajax({
             }
 
             $$template.querySelector(".categoria").innerHTML = `<i class="fas fa-hand-point-right"></i> &nbsp; Categoria: &nbsp;${el.categoria}`
-            $$template.querySelector("time").textContent = el.Estreno
+            $$template.querySelector("time").textContent =`Estreno: ${el.año}`
             
             //clonamos todos los posts
             let $clone = document.importNode($$template, true);
@@ -161,17 +161,14 @@ ajax({
             $$templateSeries.querySelector(".titulo").textContent = el.Nombre
             $$templateSeries.querySelector(".imagen").src = el.img
             $$templateSeries.querySelector(".categoria").innerHTML = `<i class="fas fa-hand-point-right"></i> &nbsp; Categoria: &nbsp;${el.categoria}`
-            $$templateSeries.querySelector("time").textContent = el.Estreno
-
-            $$templateSeries.querySelector(".puntos").textContent =  `${el.puntos}/10`
+            $$templateSeries.querySelector("time").textContent =`Estreno: ${el.año}`
+            $$templateSeries.querySelector(".puntos").textContent = `${el.puntos}/10`
             if(el.puntos > 6){
-              $$template.querySelector(".puntos").style.backgroundColor = "green"
+              $$templateSeries.querySelector(".puntos").style.backgroundColor = "green"
             }
             else{
-              $$template.querySelector(".puntos").style.backgroundColor = "red"
+              $$templateSeries.querySelector(".puntos").style.backgroundColor = "red"
             }
-
-
 
             //clonamos todos los posts
             let $clone = document.importNode($$templateSeries, true);
